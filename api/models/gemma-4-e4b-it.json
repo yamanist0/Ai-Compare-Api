@@ -1,0 +1,28 @@
+{
+  "model_id": "gemma-4-e4b-it",
+  "name": "Gemma 4 E4B",
+  "model_type": "llm",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2026-04-02",
+  "release_date": "2026-04-02",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 20000.0,
+  "output_price": null,
+  "rank": 248,
+  "conservative": 13.8,
+  "mu": 18.04,
+  "sigma": 1.42,
+  "ci_lower": 15.21,
+  "ci_upper": 20.87,
+  "games_played": 11,
+  "rank_delta_14d": -9
+}

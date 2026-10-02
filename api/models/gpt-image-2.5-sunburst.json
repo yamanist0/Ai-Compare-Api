@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-image-2.5-sunburst",
+  "name": "GPT Image 2.5 Sunburst",
+  "model_type": "image",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-09-08",
+  "release_date": "2026-09-08",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": 1250000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

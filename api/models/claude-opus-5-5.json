@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-opus-5-5",
+  "name": "Claude Opus 5.5",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2026-09-22",
+  "release_date": "2026-09-22",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 200000.0,
+  "output_price": null,
+  "rank": 1,
+  "conservative": 59.7,
+  "mu": 63.64,
+  "sigma": 1.31,
+  "ci_lower": 61.01,
+  "ci_upper": 66.26,
+  "games_played": 23,
+  "rank_delta_14d": null
+}

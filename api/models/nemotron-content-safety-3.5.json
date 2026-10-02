@@ -1,0 +1,29 @@
+{
+  "model_id": "nemotron-content-safety-3.5",
+  "name": "Nemotron Content Safety 3.5",
+  "model_type": "llm",
+  "organization": "NVIDIA",
+  "organization_id": "nvidia",
+  "announcement_date": "2026-06-01",
+  "release_date": "2026-06-01",
+  "multimodal": true,
+  "license": "nvidia_open_model_license_agreement",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 200000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

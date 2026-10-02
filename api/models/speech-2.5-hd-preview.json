@@ -1,0 +1,28 @@
+{
+  "model_id": "speech-2.5-hd-preview",
+  "name": "Speech 2.5 HD Preview",
+  "model_type": "tts",
+  "organization": "MiniMax",
+  "organization_id": "minimax",
+  "announcement_date": "2024-12-01",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "audio"
+  ],
+  "input_price": 500000000000000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

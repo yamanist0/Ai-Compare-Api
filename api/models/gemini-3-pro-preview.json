@@ -1,0 +1,31 @@
+{
+  "model_id": "gemini-3-pro-preview",
+  "name": "Gemini 3 Pro",
+  "model_type": "llm",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2025-11-18",
+  "release_date": "2025-11-18",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 69,
+  "conservative": 38.52,
+  "mu": 41.54,
+  "sigma": 1.01,
+  "ci_lower": 39.53,
+  "ci_upper": 43.56,
+  "games_played": 21,
+  "rank_delta_14d": -8
+}

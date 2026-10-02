@@ -1,0 +1,29 @@
+{
+  "model_id": "nova-pro",
+  "name": "Nova Pro",
+  "model_type": "llm",
+  "organization": "Amazon",
+  "organization_id": "amazon",
+  "announcement_date": "2024-11-20",
+  "release_date": "2024-11-20",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 258,
+  "conservative": 12.25,
+  "mu": 15.35,
+  "sigma": 1.03,
+  "ci_lower": 13.28,
+  "ci_upper": 17.42,
+  "games_played": 24,
+  "rank_delta_14d": -9
+}

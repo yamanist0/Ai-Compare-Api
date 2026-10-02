@@ -1,0 +1,29 @@
+{
+  "model_id": "mistral-large-3-2509",
+  "name": "Mistral Large 3",
+  "model_type": "llm",
+  "organization": "Mistral AI",
+  "organization_id": "mistral",
+  "announcement_date": "2025-09-01",
+  "release_date": "2025-09-01",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 269,
+  "conservative": 10.43,
+  "mu": 15.3,
+  "sigma": 1.62,
+  "ci_lower": 12.06,
+  "ci_upper": 18.54,
+  "games_played": 8,
+  "rank_delta_14d": -9
+}

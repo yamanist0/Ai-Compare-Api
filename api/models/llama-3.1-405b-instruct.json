@@ -1,0 +1,28 @@
+{
+  "model_id": "llama-3.1-405b-instruct",
+  "name": "Llama 3.1 405B Instruct",
+  "model_type": "llm",
+  "organization": "Meta",
+  "organization_id": "meta",
+  "announcement_date": "2024-07-23",
+  "release_date": "2024-07-23",
+  "multimodal": false,
+  "license": "llama_3_1_community_license",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 239,
+  "conservative": 14.73,
+  "mu": 18.69,
+  "sigma": 1.32,
+  "ci_lower": 16.05,
+  "ci_upper": 21.33,
+  "games_played": 17,
+  "rank_delta_14d": -9
+}

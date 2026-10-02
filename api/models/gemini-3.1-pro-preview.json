@@ -1,0 +1,31 @@
+{
+  "model_id": "gemini-3.1-pro-preview",
+  "name": "Gemini 3.1 Pro",
+  "model_type": "llm",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2026-02-19",
+  "release_date": "2026-02-19",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 2000000.0,
+  "output_price": null,
+  "rank": 45,
+  "conservative": 43.19,
+  "mu": 46.22,
+  "sigma": 1.01,
+  "ci_lower": 44.2,
+  "ci_upper": 48.24,
+  "games_played": 21,
+  "rank_delta_14d": -7
+}

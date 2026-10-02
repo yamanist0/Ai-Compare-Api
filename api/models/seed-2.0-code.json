@@ -1,0 +1,30 @@
+{
+  "model_id": "seed-2.0-code",
+  "name": "Seed 2.0 Code",
+  "model_type": "llm",
+  "organization": "ByteDance",
+  "organization_id": "bytedance",
+  "announcement_date": "2026-04-29",
+  "release_date": "2026-04-29",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 100000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

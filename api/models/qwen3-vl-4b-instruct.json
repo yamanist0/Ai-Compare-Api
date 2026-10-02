@@ -1,0 +1,29 @@
+{
+  "model_id": "qwen3-vl-4b-instruct",
+  "name": "Qwen3 VL 4B Instruct",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2025-09-22",
+  "release_date": "2025-09-22",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 268,
+  "conservative": 10.67,
+  "mu": 12.97,
+  "sigma": 0.77,
+  "ci_lower": 11.44,
+  "ci_upper": 14.5,
+  "games_played": 45,
+  "rank_delta_14d": -9
+}

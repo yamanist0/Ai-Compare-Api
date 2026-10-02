@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.5-instant",
+  "name": "GPT-5.5 Instant",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-05-05",
+  "release_date": "2026-05-05",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 5000000.0,
+  "output_price": null,
+  "rank": 112,
+  "conservative": 32.21,
+  "mu": 37.0,
+  "sigma": 1.6,
+  "ci_lower": 33.81,
+  "ci_upper": 40.19,
+  "games_played": 9,
+  "rank_delta_14d": -9
+}

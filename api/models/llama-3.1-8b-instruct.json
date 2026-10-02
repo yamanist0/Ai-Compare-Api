@@ -1,0 +1,28 @@
+{
+  "model_id": "llama-3.1-8b-instruct",
+  "name": "Llama 3.1 8B Instruct",
+  "model_type": "llm",
+  "organization": "Meta",
+  "organization_id": "meta",
+  "announcement_date": "2024-07-23",
+  "release_date": "2024-07-23",
+  "multimodal": false,
+  "license": "llama_3_1_community_license",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 20000.0,
+  "output_price": null,
+  "rank": 345,
+  "conservative": -2.58,
+  "mu": 1.61,
+  "sigma": 1.4,
+  "ci_lower": -1.18,
+  "ci_upper": 4.41,
+  "games_played": 16,
+  "rank_delta_14d": -9
+}

@@ -1,0 +1,28 @@
+{
+  "model_id": "ling-3.0-flash-fin",
+  "name": "Ling 3.0 Flash Fin",
+  "model_type": "llm",
+  "organization": "InclusionAI",
+  "organization_id": "inclusionai",
+  "announcement_date": "2026-09-03",
+  "release_date": "2026-09-03",
+  "multimodal": false,
+  "license": "unknown",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 12000.0,
+  "output_price": null,
+  "rank": 51,
+  "conservative": 42.77,
+  "mu": 49.69,
+  "sigma": 2.31,
+  "ci_lower": 45.07,
+  "ci_upper": 54.31,
+  "games_played": 5,
+  "rank_delta_14d": -11
+}

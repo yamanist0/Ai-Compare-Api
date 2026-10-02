@@ -1,0 +1,29 @@
+{
+  "model_id": "seedream-4",
+  "name": "Seedream 4",
+  "model_type": "image",
+  "organization": "ByteDance",
+  "organization_id": "bytedance",
+  "announcement_date": "2025-01-01",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

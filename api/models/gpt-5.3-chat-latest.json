@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.3-chat-latest",
+  "name": "GPT-5.3 Chat",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-03-04",
+  "release_date": "2026-03-04",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 1750000.0,
+  "output_price": null,
+  "rank": 134,
+  "conservative": 29.46,
+  "mu": 38.93,
+  "sigma": 3.15,
+  "ci_lower": 32.62,
+  "ci_upper": 45.24,
+  "games_played": 2,
+  "rank_delta_14d": -10
+}

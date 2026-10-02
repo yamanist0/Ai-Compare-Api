@@ -1,0 +1,28 @@
+{
+  "model_id": "stable-audio-2.5",
+  "name": "Stable Audio 2.5",
+  "model_type": "audio",
+  "organization": "Stability AI",
+  "organization_id": "stability-ai",
+  "announcement_date": "2025-06-01",
+  "release_date": null,
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "audio"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

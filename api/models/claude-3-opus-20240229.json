@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-3-opus-20240229",
+  "name": "Claude 3 Opus",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2024-02-29",
+  "release_date": "2024-02-29",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 273,
+  "conservative": 9.86,
+  "mu": 13.84,
+  "sigma": 1.32,
+  "ci_lower": 11.19,
+  "ci_upper": 16.48,
+  "games_played": 11,
+  "rank_delta_14d": -9
+}

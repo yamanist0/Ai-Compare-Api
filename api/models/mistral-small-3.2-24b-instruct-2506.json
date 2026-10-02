@@ -1,0 +1,29 @@
+{
+  "model_id": "mistral-small-3.2-24b-instruct-2506",
+  "name": "Mistral Small 3.2 24B Instruct",
+  "model_type": "llm",
+  "organization": "Mistral AI",
+  "organization_id": "mistral",
+  "announcement_date": "2025-06-20",
+  "release_date": "2025-06-20",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 75000.0,
+  "output_price": null,
+  "rank": 284,
+  "conservative": 8.45,
+  "mu": 12.22,
+  "sigma": 1.26,
+  "ci_lower": 9.71,
+  "ci_upper": 14.73,
+  "games_played": 12,
+  "rank_delta_14d": -9
+}

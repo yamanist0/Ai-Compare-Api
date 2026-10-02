@@ -1,0 +1,28 @@
+{
+  "model_id": "stable-diffusion-3.5-large",
+  "name": "Stable Diffusion 3.5 Large",
+  "model_type": "image",
+  "organization": "Stability AI",
+  "organization_id": "stability-ai",
+  "announcement_date": "2024-10-22",
+  "release_date": null,
+  "multimodal": false,
+  "license": "stability_ai_community_license",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

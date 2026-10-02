@@ -1,0 +1,29 @@
+{
+  "model_id": "o3-2025-04-16",
+  "name": "o3",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-04-16",
+  "release_date": "2025-04-16",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 119,
+  "conservative": 31.05,
+  "mu": 33.97,
+  "sigma": 0.98,
+  "ci_lower": 32.02,
+  "ci_upper": 35.92,
+  "games_played": 22,
+  "rank_delta_14d": -9
+}

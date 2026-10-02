@@ -1,0 +1,29 @@
+{
+  "model_id": "o4-mini",
+  "name": "o4-mini",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-04-16",
+  "release_date": "2025-04-16",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 149,
+  "conservative": 27.46,
+  "mu": 30.99,
+  "sigma": 1.17,
+  "ci_lower": 28.64,
+  "ci_upper": 33.33,
+  "games_played": 14,
+  "rank_delta_14d": -9
+}

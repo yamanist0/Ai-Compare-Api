@@ -1,0 +1,28 @@
+{
+  "model_id": "glm-5.3",
+  "name": "GLM-5.3",
+  "model_type": "llm",
+  "organization": "Zhipu AI",
+  "organization_id": "zai-org",
+  "announcement_date": "2026-08-14",
+  "release_date": "2026-08-14",
+  "multimodal": false,
+  "license": "glm_5_3",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 120000.0,
+  "output_price": null,
+  "rank": 10,
+  "conservative": 52.09,
+  "mu": 55.48,
+  "sigma": 1.13,
+  "ci_lower": 53.22,
+  "ci_upper": 57.74,
+  "games_played": 17,
+  "rank_delta_14d": -2
+}

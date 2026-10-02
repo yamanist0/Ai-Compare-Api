@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>AI Compare API</title>
+</head>
+<body style="margin: 0; padding: 16px; background: #0d1117; color: #e6edf3; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace; font-size: 13px; line-height: 1.5; white-space: pre-wrap; word-break: break-word;">
+<script>
+(function() {
+  function levenshtein(a, b) {
+    var matrix = [];
+    for (var i = 0; i <= b.length; i++) matrix[i] = [i];
+    for (var j = 0; j <= a.length; j++) matrix[0][j] = j;
+    for (var i = 1; i <= b.length; i++) {
+      for (var j = 1; j <= a.length; j++) {
+        if (b.charAt(i - 1) === a.charAt(j - 1)) {
+          matrix[i][j] = matrix[i - 1][j - 1];
+        } else {
+          matrix[i][j] = Math.min(matrix[i - 1][j - 1] + 1, matrix[i][j - 1] + 1, matrix[i - 1][j] + 1);
+        }
+      }
+    }
+    return matrix[b.length][a.length];
+  }
+
+  function findClosest(query, allModels, byId, byName) {
+    var q = (query || "").toString().trim().toLowerCase();
+    if (!q) return { best: null, suggestions: [] };
+    if (byId[q]) return { best: byId[q].model_id, suggestions: [byId[q].model_id] };
+    if (byName[q]) return { best: byName[q].model_id, suggestions: [byName[q].model_id] };
+
+    var candidates = [];
+    var seen = {};
+
+    for (var i = 0; i < allModels.length; i++) {
+      var m = allModels[i];
+      var mid = (m.model_id || "").toLowerCase();
+      var mname = (m.name || "").toLowerCase();
+
+      var distId = levenshtein(q, mid);
+      var distName = levenshtein(q, mname);
+      var dist = Math.min(distId, distName);
+
+      if (mid.indexOf(q) !== -1 || q.indexOf(mid) !== -1 || mname.indexOf(q) !== -1) {
+        dist -= 4;
+      }
+
+      if (!seen[m.model_id]) {
+        seen[m.model_id] = true;
+        candidates.push({ model_id: m.model_id, score: dist });
+      }
+    }
+
+    candidates.sort(function(a, b) { return a.score - b.score; });
+    var top = candidates.slice(0, 5).map(function(c) { return c.model_id; });
+    return { best: top[0] || null, suggestions: top };
+  }
+
+  function resolveModel(name, autoFuzzy, allModels, byId, byName) {
+    var clean = (name || "").toString().trim().toLowerCase();
+    if (byId[clean]) return { status: "success", data: byId[clean] };
+    if (byName[clean]) return { status: "success", data: byName[clean] };
+
+    var match = findClosest(clean, allModels, byId, byName);
+    if (autoFuzzy && match.best) {
+      return {
+        status: "success",
+        auto_matched: true,
+        searched: name,
+        matched_model_id: match.best,
+        data: byId[match.best]
+      };
+    }
+
+    return {
+      status: "error",
+      message: "model '" + name + "' not found",
+      searched: name,
+      suggestion: match.best,
+      all_suggestions: match.suggestions,
+      hint: "add &fuzzy=true to automatically match the closest model"
+    };
+  }
+
+  var dataUrl = "api/all.json";
+
+  fetch(dataUrl)
+    .catch(function() { return fetch("data/all.json"); })
+    .then(function(res) {
+      if (!res.ok) throw new Error("failed to load dataset: " + res.status);
+      return res.json();
+    })
+    .then(function(models) {
+      var byId = {};
+      var byName = {};
+      for (var i = 0; i < models.length; i++) {
+        var m = models[i];
+        if (m.model_id) byId[m.model_id.toLowerCase()] = m;
+        if (m.name) byName[m.name.toLowerCase()] = m;
+      }
+
+      var params = new URLSearchParams(window.location.search);
+      var compareParam = params.get("compare") || (params.get("action") === "compare" ? params.get("models") : null);
+      var modelParam = params.get("model") || params.get("name") || (params.get("action") === "model" ? params.get("name") : null);
+      var propParam = params.get("property") || params.get("prop");
+      var fuzzyParam = params.get("fuzzy") === "true" || params.get("auto_fuzzy") === "true";
+      var leaderboardParam = params.get("leaderboard") || (params.get("action") === "leaderboard");
+
+      var response = null;
+
+      if (compareParam) {
+        var list = compareParam.split(",").map(function(s) { return s.trim(); }).filter(Boolean);
+        if (list.length < 2) {
+          response = { status: "error", message: "please provide at least 2 models to compare in ?compare=model1,model2" };
+        } else {
+          var resolved = [];
+          var errors = [];
+          var seenIds = {};
+
+          for (var j = 0; j < list.length; j++) {
+            var r = resolveModel(list[j], fuzzyParam, models, byId, byName);
+            if (r.status === "success") {
+              if (!seenIds[r.data.model_id]) {
+                seenIds[r.data.model_id] = true;
+                var item = Object.assign({}, r.data);
+                if (r.auto_matched) item.auto_matched_from = list[j];
+                resolved.push(item);
+              }
+            } else {
+              errors.push(r);
+            }
+          }
+
+          if (errors.length > 0 && !fuzzyParam) {
+            response = { status: "error", message: "some models could not be resolved", unresolved: errors };
+          } else if (resolved.length < 2) {
+            response = { status: "error", message: "at least 2 valid models required after resolution", errors: errors };
+          } else {
+            resolved.sort(function(a, b) {
+              var valA = a.conservative !== null && a.conservative !== undefined ? a.conservative : -999999;
+              var valB = b.conservative !== null && b.conservative !== undefined ? b.conservative : -999999;
+              return valB - valA;
+            });
+
+            var winner = resolved[0];
+            response = {
+              status: "success",
+              total_compared: resolved.length,
+              winner: {
+                model_id: winner.model_id,
+                name: winner.name,
+                conservative: winner.conservative,
+                rank: winner.rank
+              },
+              models: resolved
+            };
+          }
+        }
+      } else if (modelParam && propParam) {
+        var rModel = resolveModel(modelParam, fuzzyParam, models, byId, byName);
+        if (rModel.status !== "success") {
+          response = rModel;
+        } else {
+          var target = rModel.data;
+          var cleanP = propParam.toLowerCase().replace(/-/g, "_").replace(/\s+/g, "_");
+          var foundKey = null;
+          var keys = Object.keys(target);
+          for (var k = 0; k < keys.length; k++) {
+            if (keys[k].toLowerCase() === cleanP) {
+              foundKey = keys[k];
+              break;
+            }
+          }
+
+          if (!foundKey) {
+            response = {
+              status: "error",
+              message: "property '" + propParam + "' not found on model '" + target.name + "'",
+              available_properties: keys
+            };
+          } else {
+            response = {
+              status: "success",
+              model_id: target.model_id,
+              model_name: target.name,
+              property: foundKey,
+              value: target[foundKey]
+            };
+          }
+        }
+      } else if (modelParam) {
+        response = resolveModel(modelParam, fuzzyParam, models, byId, byName);
+      } else if (leaderboardParam) {
+        var limit = parseInt(params.get("limit") || "50", 10);
+        var ranked = models.filter(function(m) { return m.conservative !== null && m.conservative !== undefined; });
+        ranked.sort(function(a, b) { return b.conservative - a.conservative; });
+        response = {
+          status: "success",
+          count: Math.min(limit, ranked.length),
+          leaderboard: ranked.slice(0, limit)
+        };
+      } else {
+        response = {
+          status: "ok",
+          api: "AI Compare API",
+          total_models: models.length,
+          usage: {
+            compare_models: "?compare=claude-opus-5-5,gpt-6-astra",
+            model_details: "?model=gpt-6-astra",
+            query_property: "?model=gpt-6-astra&property=conservative",
+            leaderboard: "?leaderboard=true&limit=20",
+            fuzzy_flag: "add &fuzzy=true for automatic typo correction"
+          },
+          static_raw_json: {
+            all_models: "api/all.json",
+            leaderboard: "api/leaderboard.json",
+            single_model: "api/models/{model_id}.json"
+          }
+        };
+      }
+
+      document.body.innerText = JSON.stringify(response, null, 2);
+    })
+    .catch(function(err) {
+      document.body.innerText = JSON.stringify({ status: "error", message: err.message }, null, 2);
+    });
+})();
+</script>
+</body>
+</html>

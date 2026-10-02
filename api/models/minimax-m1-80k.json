@@ -1,0 +1,28 @@
+{
+  "model_id": "minimax-m1-80k",
+  "name": "MiniMax M1 80K",
+  "model_type": "llm",
+  "organization": "MiniMax",
+  "organization_id": "minimax",
+  "announcement_date": "2025-06-16",
+  "release_date": "2025-06-16",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 194,
+  "conservative": 21.44,
+  "mu": 24.79,
+  "sigma": 1.11,
+  "ci_lower": 22.56,
+  "ci_upper": 27.01,
+  "games_played": 16,
+  "rank_delta_14d": -9
+}

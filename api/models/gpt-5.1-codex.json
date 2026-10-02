@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.1-codex",
+  "name": "GPT-5.1 Codex",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-11-19",
+  "release_date": "2025-11-19",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 133,
+  "conservative": 29.52,
+  "mu": 37.86,
+  "sigma": 2.78,
+  "ci_lower": 32.3,
+  "ci_upper": 43.41,
+  "games_played": 3,
+  "rank_delta_14d": -8
+}

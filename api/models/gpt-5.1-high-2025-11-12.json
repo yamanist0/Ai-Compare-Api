@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.1-high-2025-11-12",
+  "name": "GPT-5.1 High",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-11-12",
+  "release_date": "2025-11-12",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 93,
+  "conservative": 35.22,
+  "mu": 42.3,
+  "sigma": 2.36,
+  "ci_lower": 37.58,
+  "ci_upper": 47.01,
+  "games_played": 3,
+  "rank_delta_14d": -8
+}

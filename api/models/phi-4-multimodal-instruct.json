@@ -1,0 +1,29 @@
+{
+  "model_id": "phi-4-multimodal-instruct",
+  "name": "Phi-4-multimodal-instruct",
+  "model_type": "llm",
+  "organization": "Microsoft",
+  "organization_id": "microsoft",
+  "announcement_date": "2025-02-01",
+  "release_date": "2025-02-01",
+  "multimodal": true,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 318,
+  "conservative": 2.78,
+  "mu": 6.71,
+  "sigma": 1.31,
+  "ci_lower": 4.09,
+  "ci_upper": 9.32,
+  "games_played": 13,
+  "rank_delta_14d": -9
+}

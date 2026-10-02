@@ -1,0 +1,28 @@
+{
+  "model_id": "granite-4.2-8b",
+  "name": "IBM Granite 4.2 8B",
+  "model_type": "llm",
+  "organization": "IBM",
+  "organization_id": "ibm",
+  "announcement_date": "2026-08-25",
+  "release_date": "2026-08-25",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 15000.0,
+  "output_price": null,
+  "rank": 206,
+  "conservative": 19.66,
+  "mu": 23.03,
+  "sigma": 1.12,
+  "ci_lower": 20.79,
+  "ci_upper": 25.27,
+  "games_played": 18,
+  "rank_delta_14d": -10
+}

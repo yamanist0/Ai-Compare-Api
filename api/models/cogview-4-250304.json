@@ -1,0 +1,28 @@
+{
+  "model_id": "cogView-4-250304",
+  "name": "CogView-4",
+  "model_type": "image",
+  "organization": "Zhipu AI",
+  "organization_id": "zai-org",
+  "announcement_date": "2025-03-04",
+  "release_date": null,
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

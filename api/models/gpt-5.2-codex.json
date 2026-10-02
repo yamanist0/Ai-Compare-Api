@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.2-codex",
+  "name": "GPT-5.2 Codex",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-01-14",
+  "release_date": "2026-01-14",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 1750000.0,
+  "output_price": null,
+  "rank": 98,
+  "conservative": 34.26,
+  "mu": 41.34,
+  "sigma": 2.36,
+  "ci_lower": 36.62,
+  "ci_upper": 46.05,
+  "games_played": 3,
+  "rank_delta_14d": -10
+}

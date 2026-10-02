@@ -1,0 +1,30 @@
+{
+  "model_id": "step-3.7-flash",
+  "name": "Step 3.7 Flash",
+  "model_type": "llm",
+  "organization": "StepFun",
+  "organization_id": "stepfun",
+  "announcement_date": "2026-06-10",
+  "release_date": "2026-06-10",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 40000.0,
+  "output_price": null,
+  "rank": 127,
+  "conservative": 29.99,
+  "mu": 37.04,
+  "sigma": 2.35,
+  "ci_lower": 32.34,
+  "ci_upper": 41.73,
+  "games_played": 4,
+  "rank_delta_14d": -10
+}

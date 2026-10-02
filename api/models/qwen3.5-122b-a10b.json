@@ -1,0 +1,30 @@
+{
+  "model_id": "qwen3.5-122b-a10b",
+  "name": "Qwen3.5-122B-A10B",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2026-02-24",
+  "release_date": "2026-02-24",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 290000.0,
+  "output_price": null,
+  "rank": 95,
+  "conservative": 35.0,
+  "mu": 37.05,
+  "sigma": 0.68,
+  "ci_lower": 35.69,
+  "ci_upper": 38.42,
+  "games_played": 81,
+  "rank_delta_14d": -9
+}

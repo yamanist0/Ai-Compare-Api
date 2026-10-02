@@ -1,0 +1,28 @@
+{
+  "model_id": "k-exaone-236b-a23b",
+  "name": "K-EXAONE-236B-A23B",
+  "model_type": "llm",
+  "organization": "LG AI Research",
+  "organization_id": "lg",
+  "announcement_date": "2025-12-31",
+  "release_date": "2025-12-31",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 157,
+  "conservative": 26.21,
+  "mu": 31.4,
+  "sigma": 1.73,
+  "ci_lower": 27.94,
+  "ci_upper": 34.86,
+  "games_played": 6,
+  "rank_delta_14d": -9
+}

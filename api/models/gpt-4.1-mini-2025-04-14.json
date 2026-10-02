@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "name": "GPT-4.1 mini",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-04-14",
+  "release_date": "2025-04-14",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 400000.0,
+  "output_price": null,
+  "rank": 245,
+  "conservative": 14.01,
+  "mu": 16.82,
+  "sigma": 0.94,
+  "ci_lower": 14.95,
+  "ci_upper": 18.7,
+  "games_played": 28,
+  "rank_delta_14d": -9
+}

@@ -1,0 +1,28 @@
+{
+  "model_id": "hermes-3-405b",
+  "name": "Hermes 3 405B",
+  "model_type": "llm",
+  "organization": "Nous Research",
+  "organization_id": "nous-research",
+  "announcement_date": "2024-10-09",
+  "release_date": "2024-10-09",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 1000000.0,
+  "output_price": null,
+  "rank": 307,
+  "conservative": 4.29,
+  "mu": 8.28,
+  "sigma": 1.33,
+  "ci_lower": 5.62,
+  "ci_upper": 10.95,
+  "games_played": 13,
+  "rank_delta_14d": -9
+}

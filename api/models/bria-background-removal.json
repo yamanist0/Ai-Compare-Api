@@ -1,0 +1,28 @@
+{
+  "model_id": "bria-background-removal",
+  "name": "Bria Background Removal",
+  "model_type": "image",
+  "organization": "Bria AI",
+  "organization_id": "bria",
+  "announcement_date": "2026-07-03",
+  "release_date": null,
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

@@ -1,0 +1,29 @@
+{
+  "model_id": "gen-4-aleph",
+  "name": "Gen-4 Aleph",
+  "model_type": "video",
+  "organization": "Runway",
+  "organization_id": "runway",
+  "announcement_date": "2024-11-06",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

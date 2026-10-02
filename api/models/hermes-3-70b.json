@@ -1,0 +1,28 @@
+{
+  "model_id": "hermes-3-70b",
+  "name": "Hermes 3 70B",
+  "model_type": "llm",
+  "organization": "Nous Research",
+  "organization_id": "nous-research",
+  "announcement_date": "2024-08-15",
+  "release_date": "2024-08-15",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 700000.0,
+  "output_price": null,
+  "rank": 310,
+  "conservative": 4.03,
+  "mu": 7.45,
+  "sigma": 1.14,
+  "ci_lower": 5.17,
+  "ci_upper": 9.72,
+  "games_played": 17,
+  "rank_delta_14d": -9
+}

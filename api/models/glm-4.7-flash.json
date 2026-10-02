@@ -1,0 +1,28 @@
+{
+  "model_id": "glm-4.7-flash",
+  "name": "GLM-4.7-Flash",
+  "model_type": "llm",
+  "organization": "Zhipu AI",
+  "organization_id": "zai-org",
+  "announcement_date": "2026-01-19",
+  "release_date": "2026-01-19",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 181,
+  "conservative": 23.47,
+  "mu": 28.68,
+  "sigma": 1.74,
+  "ci_lower": 25.21,
+  "ci_upper": 32.15,
+  "games_played": 6,
+  "rank_delta_14d": -9
+}

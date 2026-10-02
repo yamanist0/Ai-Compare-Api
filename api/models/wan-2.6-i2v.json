@@ -1,0 +1,30 @@
+{
+  "model_id": "wan-2.6-i2v",
+  "name": "WAN Video 2.6 I2V",
+  "model_type": "video",
+  "organization": "WAN Video",
+  "organization_id": "wanvideo",
+  "announcement_date": "2026-01-01",
+  "release_date": null,
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

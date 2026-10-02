@@ -1,0 +1,28 @@
+{
+  "model_id": "nemotron-3-super-120b-a12b",
+  "name": "Nemotron 3 Super (120B A12B)",
+  "model_type": "llm",
+  "organization": "NVIDIA",
+  "organization_id": "nvidia",
+  "announcement_date": "2026-03-11",
+  "release_date": "2026-03-11",
+  "multimodal": false,
+  "license": "nvidia_open_model_license_agreement",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 85000.0,
+  "output_price": null,
+  "rank": 153,
+  "conservative": 26.79,
+  "mu": 29.65,
+  "sigma": 0.95,
+  "ci_lower": 27.74,
+  "ci_upper": 31.55,
+  "games_played": 23,
+  "rank_delta_14d": -9
+}

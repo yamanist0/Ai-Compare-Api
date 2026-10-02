@@ -1,0 +1,28 @@
+{
+  "model_id": "phi-4",
+  "name": "Phi 4",
+  "model_type": "llm",
+  "organization": "Microsoft",
+  "organization_id": "microsoft",
+  "announcement_date": "2024-12-12",
+  "release_date": "2024-12-12",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 70000.0,
+  "output_price": null,
+  "rank": 302,
+  "conservative": 5.41,
+  "mu": 9.24,
+  "sigma": 1.28,
+  "ci_lower": 6.69,
+  "ci_upper": 11.8,
+  "games_played": 13,
+  "rank_delta_14d": -9
+}

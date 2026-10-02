@@ -1,0 +1,28 @@
+{
+  "model_id": "kimi-k2-thinking-0905",
+  "name": "Kimi K2-Thinking-0905",
+  "model_type": "llm",
+  "organization": "Moonshot AI",
+  "organization_id": "moonshotai",
+  "announcement_date": "2025-09-05",
+  "release_date": "2025-09-05",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 88,
+  "conservative": 35.93,
+  "mu": 39.06,
+  "sigma": 1.04,
+  "ci_lower": 36.97,
+  "ci_upper": 41.15,
+  "games_played": 20,
+  "rank_delta_14d": -10
+}

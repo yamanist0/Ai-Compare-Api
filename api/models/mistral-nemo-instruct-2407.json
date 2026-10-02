@@ -1,0 +1,28 @@
+{
+  "model_id": "mistral-nemo-instruct-2407",
+  "name": "Mistral NeMo Instruct",
+  "model_type": "llm",
+  "organization": "Mistral AI",
+  "organization_id": "mistral",
+  "announcement_date": "2024-07-18",
+  "release_date": "2024-07-18",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 19000.0,
+  "output_price": null,
+  "rank": 359,
+  "conservative": -4.76,
+  "mu": 0.36,
+  "sigma": 1.71,
+  "ci_lower": -3.06,
+  "ci_upper": 3.77,
+  "games_played": 7,
+  "rank_delta_14d": -9
+}

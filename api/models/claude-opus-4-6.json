@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-opus-4-6",
+  "name": "Claude Opus 4.6",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2026-02-05",
+  "release_date": "2026-02-05",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 5000000.0,
+  "output_price": null,
+  "rank": 37,
+  "conservative": 44.74,
+  "mu": 47.57,
+  "sigma": 0.94,
+  "ci_lower": 45.68,
+  "ci_upper": 49.46,
+  "games_played": 26,
+  "rank_delta_14d": -5
+}

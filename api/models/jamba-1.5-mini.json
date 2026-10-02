@@ -1,0 +1,28 @@
+{
+  "model_id": "jamba-1.5-mini",
+  "name": "Jamba 1.5 Mini",
+  "model_type": "llm",
+  "organization": "AI21 Labs",
+  "organization_id": "ai21",
+  "announcement_date": "2024-08-22",
+  "release_date": "2024-08-22",
+  "multimodal": false,
+  "license": "jamba_open_model_license",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 365,
+  "conservative": -5.68,
+  "mu": -0.96,
+  "sigma": 1.57,
+  "ci_lower": -4.11,
+  "ci_upper": 2.19,
+  "games_played": 8,
+  "rank_delta_14d": -9
+}

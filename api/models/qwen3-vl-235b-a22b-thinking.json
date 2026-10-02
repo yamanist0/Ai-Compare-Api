@@ -1,0 +1,30 @@
+{
+  "model_id": "qwen3-vl-235b-a22b-thinking",
+  "name": "Qwen3 VL 235B A22B Thinking",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2025-09-22",
+  "release_date": "2025-09-22",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 154,
+  "conservative": 26.66,
+  "mu": 28.85,
+  "sigma": 0.73,
+  "ci_lower": 27.39,
+  "ci_upper": 30.31,
+  "games_played": 58,
+  "rank_delta_14d": -9
+}

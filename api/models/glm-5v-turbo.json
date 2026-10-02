@@ -1,0 +1,30 @@
+{
+  "model_id": "glm-5v-turbo",
+  "name": "GLM-5V-Turbo",
+  "model_type": "llm",
+  "organization": "Zhipu AI",
+  "organization_id": "zai-org",
+  "announcement_date": "2026-04-02",
+  "release_date": "2026-04-02",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 125,
+  "conservative": 30.26,
+  "mu": 35.39,
+  "sigma": 1.71,
+  "ci_lower": 31.97,
+  "ci_upper": 38.81,
+  "games_played": 9,
+  "rank_delta_14d": -9
+}

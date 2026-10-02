@@ -1,0 +1,30 @@
+{
+  "model_id": "qwen3.6-plus",
+  "name": "Qwen3.6 Plus",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2026-04-02",
+  "release_date": "2026-03-31",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 50000.0,
+  "output_price": null,
+  "rank": 62,
+  "conservative": 39.36,
+  "mu": 41.47,
+  "sigma": 0.7,
+  "ci_lower": 40.06,
+  "ci_upper": 42.88,
+  "games_played": 64,
+  "rank_delta_14d": -7
+}

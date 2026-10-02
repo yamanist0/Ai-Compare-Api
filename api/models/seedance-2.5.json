@@ -1,0 +1,32 @@
+{
+  "model_id": "seedance-2.5",
+  "name": "Seedance 2.5",
+  "model_type": "video",
+  "organization": "ByteDance",
+  "organization_id": "bytedance",
+  "announcement_date": "2026-07-31",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "audio",
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

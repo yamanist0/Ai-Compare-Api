@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-haiku-4-5-20251001",
+  "name": "Claude Haiku 4.5",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2025-10-15",
+  "release_date": "2025-10-15",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 1000000.0,
+  "output_price": null,
+  "rank": 162,
+  "conservative": 25.66,
+  "mu": 29.02,
+  "sigma": 1.12,
+  "ci_lower": 26.78,
+  "ci_upper": 31.26,
+  "games_played": 18,
+  "rank_delta_14d": -11
+}

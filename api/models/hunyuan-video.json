@@ -1,0 +1,29 @@
+{
+  "model_id": "hunyuan-video",
+  "name": "Hunyuan Video",
+  "model_type": "video",
+  "organization": "Tencent",
+  "organization_id": "tencent",
+  "announcement_date": "2024-12-03",
+  "release_date": null,
+  "multimodal": true,
+  "license": "tencent_hunyuan_community_license_agreement",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

@@ -1,0 +1,28 @@
+{
+  "model_id": "l3-8b-lunaris-v1",
+  "name": "L3 8B Lunaris v1",
+  "model_type": "llm",
+  "organization": "Sao10K",
+  "organization_id": "sao10k",
+  "announcement_date": "2025-04-09",
+  "release_date": "2025-04-09",
+  "multimodal": false,
+  "license": "unknown",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 40000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

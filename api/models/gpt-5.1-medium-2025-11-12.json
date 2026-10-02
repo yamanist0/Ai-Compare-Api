@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.1-medium-2025-11-12",
+  "name": "GPT-5.1 Medium",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-11-12",
+  "release_date": "2025-11-12",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 1250000.0,
+  "output_price": null,
+  "rank": 118,
+  "conservative": 31.23,
+  "mu": 42.57,
+  "sigma": 3.78,
+  "ci_lower": 35.01,
+  "ci_upper": 50.13,
+  "games_played": 1,
+  "rank_delta_14d": -9
+}

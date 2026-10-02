@@ -1,0 +1,30 @@
+{
+  "model_id": "seed-2.0-mini",
+  "name": "Seed 2.0 Mini",
+  "model_type": "llm",
+  "organization": "ByteDance",
+  "organization_id": "bytedance",
+  "announcement_date": "2026-02-17",
+  "release_date": "2026-02-17",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 20000.0,
+  "output_price": null,
+  "rank": 143,
+  "conservative": 27.8,
+  "mu": 30.3,
+  "sigma": 0.83,
+  "ci_lower": 28.63,
+  "ci_upper": 31.97,
+  "games_played": 79,
+  "rank_delta_14d": -9
+}

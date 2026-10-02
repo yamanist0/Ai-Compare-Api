@@ -1,0 +1,30 @@
+{
+  "model_id": "inkling",
+  "name": "Inkling",
+  "model_type": "llm",
+  "organization": "Thinking Machines Lab",
+  "organization_id": "thinking-machines",
+  "announcement_date": "2026-07-21",
+  "release_date": "2026-07-21",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 160000.0,
+  "output_price": null,
+  "rank": 73,
+  "conservative": 37.21,
+  "mu": 41.02,
+  "sigma": 1.27,
+  "ci_lower": 38.48,
+  "ci_upper": 43.56,
+  "games_played": 16,
+  "rank_delta_14d": -8
+}

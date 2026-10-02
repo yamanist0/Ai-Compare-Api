@@ -1,0 +1,30 @@
+{
+  "model_id": "qwen3.8-flash",
+  "name": "Qwen3.8 Flash",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2026-08-26",
+  "release_date": "2026-08-26",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 16000.0,
+  "output_price": null,
+  "rank": 24,
+  "conservative": 48.72,
+  "mu": 51.73,
+  "sigma": 1.0,
+  "ci_lower": 49.72,
+  "ci_upper": 53.74,
+  "games_played": 22,
+  "rank_delta_14d": -5
+}

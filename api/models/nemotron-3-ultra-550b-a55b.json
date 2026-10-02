@@ -1,0 +1,29 @@
+{
+  "model_id": "nemotron-3-ultra-550b-a55b",
+  "name": "Nemotron 3 Ultra (550B A55B)",
+  "model_type": "llm",
+  "organization": "NVIDIA",
+  "organization_id": "nvidia",
+  "announcement_date": "2026-06-04",
+  "release_date": "2026-06-04",
+  "multimodal": false,
+  "license": "openmdw",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 100000.0,
+  "output_price": null,
+  "rank": 85,
+  "conservative": 36.18,
+  "mu": 39.2,
+  "sigma": 1.01,
+  "ci_lower": 37.19,
+  "ci_upper": 41.22,
+  "games_played": 25,
+  "rank_delta_14d": -9
+}

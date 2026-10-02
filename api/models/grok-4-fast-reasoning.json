@@ -1,0 +1,29 @@
+{
+  "model_id": "grok-4-fast-reasoning",
+  "name": "Grok-4 Fast Reasoning",
+  "model_type": "llm",
+  "organization": "xAI",
+  "organization_id": "xai",
+  "announcement_date": "2025-08-28",
+  "release_date": "2025-08-28",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 200000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

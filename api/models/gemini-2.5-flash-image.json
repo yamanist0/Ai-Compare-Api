@@ -1,0 +1,30 @@
+{
+  "model_id": "gemini-2.5-flash-image",
+  "name": "Gemini 2.5 Flash Image (Nano Banana)",
+  "model_type": "image",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2025-01-15",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "image",
+    "text"
+  ],
+  "input_price": 30000000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

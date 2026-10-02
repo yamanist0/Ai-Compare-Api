@@ -1,0 +1,31 @@
+{
+  "model_id": "gemini-3.5-flash-lite",
+  "name": "Gemini 3.5 Flash-Lite",
+  "model_type": "llm",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2026-07-21",
+  "release_date": "2026-07-21",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 300000.0,
+  "output_price": null,
+  "rank": 130,
+  "conservative": 29.69,
+  "mu": 35.44,
+  "sigma": 1.92,
+  "ci_lower": 31.6,
+  "ci_upper": 39.27,
+  "games_played": 5,
+  "rank_delta_14d": -9
+}

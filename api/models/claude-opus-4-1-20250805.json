@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-opus-4-1-20250805",
+  "name": "Claude Opus 4.1",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2025-08-05",
+  "release_date": "2025-08-05",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 129,
+  "conservative": 29.86,
+  "mu": 34.57,
+  "sigma": 1.57,
+  "ci_lower": 31.43,
+  "ci_upper": 37.71,
+  "games_played": 8,
+  "rank_delta_14d": -9
+}

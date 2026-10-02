@@ -1,0 +1,28 @@
+{
+  "model_id": "mercury-2",
+  "name": "Mercury 2",
+  "model_type": "llm",
+  "organization": "Inception",
+  "organization_id": "inceptionlabs",
+  "announcement_date": "2026-02-24",
+  "release_date": "2026-02-24",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 250000.0,
+  "output_price": null,
+  "rank": 179,
+  "conservative": 23.55,
+  "mu": 28.73,
+  "sigma": 1.73,
+  "ci_lower": 25.28,
+  "ci_upper": 32.18,
+  "games_played": 6,
+  "rank_delta_14d": -9
+}

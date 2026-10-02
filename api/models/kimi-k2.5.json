@@ -1,0 +1,30 @@
+{
+  "model_id": "kimi-k2.5",
+  "name": "Kimi K2.5",
+  "model_type": "llm",
+  "organization": "Moonshot AI",
+  "organization_id": "moonshotai",
+  "announcement_date": "2026-01-27",
+  "release_date": "2026-01-27",
+  "multimodal": true,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 67,
+  "conservative": 38.75,
+  "mu": 41.21,
+  "sigma": 0.82,
+  "ci_lower": 39.57,
+  "ci_upper": 42.86,
+  "games_played": 40,
+  "rank_delta_14d": -8
+}

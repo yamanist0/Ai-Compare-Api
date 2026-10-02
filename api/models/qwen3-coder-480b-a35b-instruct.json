@@ -1,0 +1,28 @@
+{
+  "model_id": "qwen3-coder-480b-a35b-instruct",
+  "name": "Qwen3-Coder 480B A35B Instruct",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2025-01-31",
+  "release_date": "2025-01-31",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 100000.0,
+  "output_price": null,
+  "rank": 195,
+  "conservative": 21.07,
+  "mu": 25.63,
+  "sigma": 1.52,
+  "ci_lower": 22.59,
+  "ci_upper": 28.67,
+  "games_played": 9,
+  "rank_delta_14d": -9
+}

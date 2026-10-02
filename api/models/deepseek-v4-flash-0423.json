@@ -1,0 +1,28 @@
+{
+  "model_id": "deepseek-v4-flash-0423",
+  "name": "DeepSeek-V4-Flash-0423",
+  "model_type": "llm",
+  "organization": "DeepSeek",
+  "organization_id": "deepseek",
+  "announcement_date": "2026-04-23",
+  "release_date": "2026-04-23",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 18000.0,
+  "output_price": null,
+  "rank": 87,
+  "conservative": 36.06,
+  "mu": 39.22,
+  "sigma": 1.05,
+  "ci_lower": 37.11,
+  "ci_upper": 41.32,
+  "games_played": 19,
+  "rank_delta_14d": -10
+}

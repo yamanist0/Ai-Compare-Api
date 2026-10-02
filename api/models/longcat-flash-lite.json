@@ -1,0 +1,28 @@
+{
+  "model_id": "longcat-flash-lite",
+  "name": "LongCat-Flash-Lite",
+  "model_type": "llm",
+  "organization": "Meituan",
+  "organization_id": "meituan",
+  "announcement_date": "2026-02-05",
+  "release_date": "2026-02-05",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 100000.0,
+  "output_price": null,
+  "rank": 216,
+  "conservative": 18.66,
+  "mu": 22.27,
+  "sigma": 1.21,
+  "ci_lower": 19.86,
+  "ci_upper": 24.69,
+  "games_played": 13,
+  "rank_delta_14d": -9
+}

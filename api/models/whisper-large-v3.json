@@ -1,0 +1,28 @@
+{
+  "model_id": "whisper-large-v3",
+  "name": "Whisper Large V3",
+  "model_type": "stt",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2024-11-01",
+  "release_date": null,
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "audio"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 970000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

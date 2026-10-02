@@ -1,0 +1,28 @@
+{
+  "model_id": "laguna-xs-2.1",
+  "name": "Laguna XS 2.1",
+  "model_type": "llm",
+  "organization": "Poolside",
+  "organization_id": "poolside",
+  "announcement_date": "2026-07-02",
+  "release_date": "2026-07-02",
+  "multimodal": false,
+  "license": "openmdw",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 50000.0,
+  "output_price": null,
+  "rank": 169,
+  "conservative": 24.36,
+  "mu": 30.7,
+  "sigma": 2.12,
+  "ci_lower": 26.47,
+  "ci_upper": 34.93,
+  "games_played": 4,
+  "rank_delta_14d": -9
+}

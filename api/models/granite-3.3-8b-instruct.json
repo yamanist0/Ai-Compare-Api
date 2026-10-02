@@ -1,0 +1,28 @@
+{
+  "model_id": "granite-3.3-8b-instruct",
+  "name": "Granite 3.3 8B Instruct",
+  "model_type": "llm",
+  "organization": "IBM",
+  "organization_id": "ibm",
+  "announcement_date": "2025-04-16",
+  "release_date": "2025-04-16",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 321,
+  "conservative": 2.39,
+  "mu": 6.08,
+  "sigma": 1.23,
+  "ci_lower": 3.62,
+  "ci_upper": 8.55,
+  "games_played": 14,
+  "rank_delta_14d": -9
+}

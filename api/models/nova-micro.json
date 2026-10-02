@@ -1,0 +1,28 @@
+{
+  "model_id": "nova-micro",
+  "name": "Nova Micro",
+  "model_type": "llm",
+  "organization": "Amazon",
+  "organization_id": "amazon",
+  "announcement_date": "2024-11-20",
+  "release_date": "2024-11-20",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 320,
+  "conservative": 2.44,
+  "mu": 6.19,
+  "sigma": 1.25,
+  "ci_lower": 3.69,
+  "ci_upper": 8.68,
+  "games_played": 17,
+  "rank_delta_14d": -9
+}

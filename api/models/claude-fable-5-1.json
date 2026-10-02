@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-fable-5-1",
+  "name": "Claude Fable 5.1",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2026-09-01",
+  "release_date": "2026-09-01",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 250000.0,
+  "output_price": null,
+  "rank": 4,
+  "conservative": 54.54,
+  "mu": 60.53,
+  "sigma": 2.0,
+  "ci_lower": 56.53,
+  "ci_upper": 64.52,
+  "games_played": 6,
+  "rank_delta_14d": -2
+}

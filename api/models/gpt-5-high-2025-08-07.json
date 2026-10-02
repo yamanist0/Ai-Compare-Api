@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5-high-2025-08-07",
+  "name": "GPT-5 High",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-08-07",
+  "release_date": "2025-08-07",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 100,
+  "conservative": 33.97,
+  "mu": 42.4,
+  "sigma": 2.81,
+  "ci_lower": 36.78,
+  "ci_upper": 48.02,
+  "games_played": 2,
+  "rank_delta_14d": -9
+}

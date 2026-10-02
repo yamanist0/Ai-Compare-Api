@@ -1,0 +1,32 @@
+{
+  "model_id": "minimax-h3",
+  "name": "MiniMax H3 (Hailuo 3.0)",
+  "model_type": "video",
+  "organization": "MiniMax",
+  "organization_id": "minimax",
+  "announcement_date": "2026-07-31",
+  "release_date": "2026-08-03",
+  "multimodal": true,
+  "license": "minimax_h3_community_license",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "audio",
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

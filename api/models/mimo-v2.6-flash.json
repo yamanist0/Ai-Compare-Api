@@ -1,0 +1,31 @@
+{
+  "model_id": "mimo-v2.6-flash",
+  "name": "MiMo-V2.6-Flash",
+  "model_type": "llm",
+  "organization": "Xiaomi",
+  "organization_id": "xiaomi",
+  "announcement_date": "2026-09-22",
+  "release_date": "2026-09-22",
+  "multimodal": true,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 2800.0,
+  "output_price": null,
+  "rank": 31,
+  "conservative": 45.66,
+  "mu": 49.73,
+  "sigma": 1.36,
+  "ci_lower": 47.02,
+  "ci_upper": 52.44,
+  "games_played": 13,
+  "rank_delta_14d": null
+}

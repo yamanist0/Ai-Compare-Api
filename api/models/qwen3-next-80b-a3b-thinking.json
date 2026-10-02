@@ -1,0 +1,28 @@
+{
+  "model_id": "qwen3-next-80b-a3b-thinking",
+  "name": "Qwen3-Next-80B-A3B-Thinking",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2025-09-10",
+  "release_date": "2025-09-10",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 177,
+  "conservative": 23.8,
+  "mu": 26.68,
+  "sigma": 0.96,
+  "ci_lower": 24.76,
+  "ci_upper": 28.6,
+  "games_played": 22,
+  "rank_delta_14d": -8
+}

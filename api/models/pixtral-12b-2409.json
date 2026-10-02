@@ -1,0 +1,29 @@
+{
+  "model_id": "pixtral-12b-2409",
+  "name": "Pixtral-12B",
+  "model_type": "llm",
+  "organization": "Mistral AI",
+  "organization_id": "mistral",
+  "announcement_date": "2024-09-17",
+  "release_date": "2024-09-17",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 342,
+  "conservative": -1.63,
+  "mu": 2.45,
+  "sigma": 1.36,
+  "ci_lower": -0.27,
+  "ci_upper": 5.18,
+  "games_played": 11,
+  "rank_delta_14d": -9
+}

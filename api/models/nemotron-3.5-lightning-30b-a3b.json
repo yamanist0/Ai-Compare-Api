@@ -1,0 +1,28 @@
+{
+  "model_id": "nemotron-3.5-lightning-30b-a3b",
+  "name": "Nemotron 3.5 Lightning (30B A3B)",
+  "model_type": "llm",
+  "organization": "NVIDIA",
+  "organization_id": "nvidia",
+  "announcement_date": "2026-08-11",
+  "release_date": "2026-08-11",
+  "multimodal": false,
+  "license": "openmdw",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 40000.0,
+  "output_price": null,
+  "rank": 185,
+  "conservative": 22.04,
+  "mu": 26.0,
+  "sigma": 1.32,
+  "ci_lower": 23.36,
+  "ci_upper": 28.63,
+  "games_played": 13,
+  "rank_delta_14d": -10
+}

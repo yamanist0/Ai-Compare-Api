@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-4.5",
+  "name": "GPT-4.5",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-02-27",
+  "release_date": "2025-02-27",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 202,
+  "conservative": 20.17,
+  "mu": 22.96,
+  "sigma": 0.93,
+  "ci_lower": 21.1,
+  "ci_upper": 24.83,
+  "games_played": 26,
+  "rank_delta_14d": -9
+}

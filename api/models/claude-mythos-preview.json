@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-mythos-preview",
+  "name": "Claude Mythos Preview",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2026-04-07",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 6,
+  "conservative": 54.33,
+  "mu": 58.34,
+  "sigma": 1.34,
+  "ci_lower": 55.67,
+  "ci_upper": 61.01,
+  "games_played": 15,
+  "rank_delta_14d": null
+}

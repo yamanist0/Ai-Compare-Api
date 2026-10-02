@@ -1,0 +1,28 @@
+{
+  "model_id": "qwen-2.5-7b-instruct",
+  "name": "Qwen2.5 7B Instruct",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2024-09-19",
+  "release_date": "2024-09-19",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 319,
+  "conservative": 2.46,
+  "mu": 6.11,
+  "sigma": 1.22,
+  "ci_lower": 3.68,
+  "ci_upper": 8.54,
+  "games_played": 14,
+  "rank_delta_14d": -9
+}

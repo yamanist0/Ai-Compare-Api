@@ -1,0 +1,30 @@
+{
+  "model_id": "nova-2-lite",
+  "name": "Nova 2 Lite",
+  "model_type": "llm",
+  "organization": "Amazon",
+  "organization_id": "amazon",
+  "announcement_date": "2025-12-02",
+  "release_date": "2025-12-02",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 300000.0,
+  "output_price": null,
+  "rank": 165,
+  "conservative": 25.37,
+  "mu": 28.64,
+  "sigma": 1.09,
+  "ci_lower": 26.46,
+  "ci_upper": 30.81,
+  "games_played": 18,
+  "rank_delta_14d": -10
+}

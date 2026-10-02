@@ -1,0 +1,28 @@
+{
+  "model_id": "laguna-s-2.1",
+  "name": "Laguna S 2.1",
+  "model_type": "llm",
+  "organization": "Poolside",
+  "organization_id": "poolside",
+  "announcement_date": "2026-07-21",
+  "release_date": "2026-07-21",
+  "multimodal": false,
+  "license": "openmdw",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 10000.0,
+  "output_price": null,
+  "rank": 60,
+  "conservative": 40.34,
+  "mu": 45.83,
+  "sigma": 1.83,
+  "ci_lower": 42.17,
+  "ci_upper": 49.5,
+  "games_played": 6,
+  "rank_delta_14d": -8
+}

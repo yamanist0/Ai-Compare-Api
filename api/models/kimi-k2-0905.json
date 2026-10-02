@@ -1,0 +1,28 @@
+{
+  "model_id": "kimi-k2-0905",
+  "name": "Kimi K2 0905",
+  "model_type": "llm",
+  "organization": "Moonshot AI",
+  "organization_id": "moonshotai",
+  "announcement_date": "2025-09-05",
+  "release_date": "2025-09-05",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 191,
+  "conservative": 21.65,
+  "mu": 26.84,
+  "sigma": 1.73,
+  "ci_lower": 23.38,
+  "ci_upper": 30.31,
+  "games_played": 6,
+  "rank_delta_14d": -9
+}

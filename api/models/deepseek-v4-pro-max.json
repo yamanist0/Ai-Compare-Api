@@ -1,0 +1,28 @@
+{
+  "model_id": "deepseek-v4-pro-max",
+  "name": "DeepSeek-V4-Pro-Max",
+  "model_type": "llm",
+  "organization": "DeepSeek",
+  "organization_id": "deepseek",
+  "announcement_date": "2026-04-23",
+  "release_date": "2026-04-23",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 100000.0,
+  "output_price": null,
+  "rank": 47,
+  "conservative": 43.0,
+  "mu": 46.06,
+  "sigma": 1.02,
+  "ci_lower": 44.02,
+  "ci_upper": 48.09,
+  "games_played": 22,
+  "rank_delta_14d": -5
+}

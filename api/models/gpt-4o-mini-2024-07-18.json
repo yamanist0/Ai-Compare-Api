@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-4o-mini-2024-07-18",
+  "name": "GPT-4o mini",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2024-07-18",
+  "release_date": "2024-07-18",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 313,
+  "conservative": 3.63,
+  "mu": 8.0,
+  "sigma": 1.46,
+  "ci_lower": 5.09,
+  "ci_upper": 10.91,
+  "games_played": 9,
+  "rank_delta_14d": -9
+}

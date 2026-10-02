@@ -1,0 +1,28 @@
+{
+  "model_id": "flux-2-dev",
+  "name": "FLUX.2 [dev]",
+  "model_type": "image",
+  "organization": "Black Forest Labs",
+  "organization_id": "black-forest-labs",
+  "announcement_date": "2025-12-01",
+  "release_date": null,
+  "multimodal": false,
+  "license": "flux_dev_non_commercial_license",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

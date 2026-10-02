@@ -1,0 +1,30 @@
+{
+  "model_id": "minimax-m3",
+  "name": "MiniMax M3",
+  "model_type": "llm",
+  "organization": "MiniMax",
+  "organization_id": "minimax",
+  "announcement_date": "2026-06-01",
+  "release_date": "2026-06-01",
+  "multimodal": true,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 56000.0,
+  "output_price": null,
+  "rank": 58,
+  "conservative": 41.18,
+  "mu": 44.26,
+  "sigma": 1.03,
+  "ci_lower": 42.2,
+  "ci_upper": 46.31,
+  "games_played": 24,
+  "rank_delta_14d": -9
+}

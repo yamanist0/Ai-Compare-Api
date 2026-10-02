@@ -1,0 +1,28 @@
+{
+  "model_id": "gpt-3.5-turbo-0125",
+  "name": "GPT-3.5 Turbo",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2023-03-21",
+  "release_date": "2023-03-21",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 500000.0,
+  "output_price": null,
+  "rank": 370,
+  "conservative": -9.4,
+  "mu": -4.64,
+  "sigma": 1.59,
+  "ci_lower": -7.82,
+  "ci_upper": -1.47,
+  "games_played": 8,
+  "rank_delta_14d": -9
+}

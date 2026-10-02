@@ -1,0 +1,29 @@
+{
+  "model_id": "grok-3-mini",
+  "name": "Grok-3 Mini",
+  "model_type": "llm",
+  "organization": "xAI",
+  "organization_id": "xai",
+  "announcement_date": "2025-02-17",
+  "release_date": "2025-02-17",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 117,
+  "conservative": 31.31,
+  "mu": 37.81,
+  "sigma": 2.17,
+  "ci_lower": 33.48,
+  "ci_upper": 42.15,
+  "games_played": 4,
+  "rank_delta_14d": -9
+}

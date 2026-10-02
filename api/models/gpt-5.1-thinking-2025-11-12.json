@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.1-thinking-2025-11-12",
+  "name": "GPT-5.1 Thinking",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-11-12",
+  "release_date": "2025-11-12",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 80,
+  "conservative": 36.55,
+  "mu": 40.92,
+  "sigma": 1.46,
+  "ci_lower": 38.01,
+  "ci_upper": 43.84,
+  "games_played": 9,
+  "rank_delta_14d": -9
+}

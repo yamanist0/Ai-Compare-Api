@@ -1,0 +1,28 @@
+{
+  "model_id": "devstral-medium-2507",
+  "name": "Devstral Medium",
+  "model_type": "llm",
+  "organization": "Mistral AI",
+  "organization_id": "mistral",
+  "announcement_date": "2025-07-10",
+  "release_date": "2025-07-10",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 249,
+  "conservative": 13.55,
+  "mu": 24.83,
+  "sigma": 3.76,
+  "ci_lower": 17.31,
+  "ci_upper": 32.35,
+  "games_played": 1,
+  "rank_delta_14d": -9
+}

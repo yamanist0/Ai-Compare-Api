@@ -1,0 +1,28 @@
+{
+  "model_id": "mythomax-l2-13b",
+  "name": "MythoMax L2 13B",
+  "model_type": "llm",
+  "organization": "Gryphe",
+  "organization_id": "gryphe",
+  "announcement_date": "2023-10-04",
+  "release_date": "2023-10-04",
+  "multimodal": false,
+  "license": "unknown",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 400000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

@@ -1,0 +1,28 @@
+{
+  "model_id": "qwen3-max-thinking",
+  "name": "Qwen3 Max Thinking",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2026-02-13",
+  "release_date": "2026-02-13",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 240000.0,
+  "output_price": null,
+  "rank": 109,
+  "conservative": 32.89,
+  "mu": 35.47,
+  "sigma": 0.86,
+  "ci_lower": 33.75,
+  "ci_upper": 37.18,
+  "games_played": 33,
+  "rank_delta_14d": -9
+}

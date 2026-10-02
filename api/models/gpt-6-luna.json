@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-6-luna",
+  "name": "GPT-6 Luna",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-09-22",
+  "release_date": "2026-09-22",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 10000.0,
+  "output_price": null,
+  "rank": 40,
+  "conservative": 44.52,
+  "mu": 50.58,
+  "sigma": 2.02,
+  "ci_lower": 46.54,
+  "ci_upper": 54.61,
+  "games_played": 5,
+  "rank_delta_14d": null
+}

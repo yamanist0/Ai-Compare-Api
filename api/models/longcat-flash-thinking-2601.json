@@ -1,0 +1,28 @@
+{
+  "model_id": "longcat-flash-thinking-2601",
+  "name": "LongCat-Flash-Thinking-2601",
+  "model_type": "llm",
+  "organization": "Meituan",
+  "organization_id": "meituan",
+  "announcement_date": "2026-01-14",
+  "release_date": "2026-01-14",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 92,
+  "conservative": 35.3,
+  "mu": 39.27,
+  "sigma": 1.32,
+  "ci_lower": 36.63,
+  "ci_upper": 41.92,
+  "games_played": 11,
+  "rank_delta_14d": -9
+}

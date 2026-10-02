@@ -1,0 +1,28 @@
+{
+  "model_id": "l3.1-70b-euryale-v2.2",
+  "name": "L3.1 70B Euryale v2.2",
+  "model_type": "llm",
+  "organization": "Sao10K",
+  "organization_id": "sao10k",
+  "announcement_date": "2024-09-12",
+  "release_date": "2024-09-12",
+  "multimodal": false,
+  "license": "unknown",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 850000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

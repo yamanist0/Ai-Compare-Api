@@ -1,0 +1,28 @@
+{
+  "model_id": "solar-pro4",
+  "name": "Solar Pro 4",
+  "model_type": "llm",
+  "organization": "Upstage",
+  "organization_id": "upstage",
+  "announcement_date": "2026-08-06",
+  "release_date": "2026-08-06",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 60000.0,
+  "output_price": null,
+  "rank": 94,
+  "conservative": 35.15,
+  "mu": 39.49,
+  "sigma": 1.45,
+  "ci_lower": 36.6,
+  "ci_upper": 42.38,
+  "games_played": 9,
+  "rank_delta_14d": -10
+}

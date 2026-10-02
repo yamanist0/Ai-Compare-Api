@@ -1,0 +1,29 @@
+{
+  "model_id": "mai-code-1.1-flash",
+  "name": "MAI-Code-1.1-Flash",
+  "model_type": "llm",
+  "organization": "Microsoft",
+  "organization_id": "microsoft",
+  "announcement_date": "2026-08-11",
+  "release_date": "2026-08-11",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 20000.0,
+  "output_price": null,
+  "rank": 144,
+  "conservative": 27.77,
+  "mu": 36.33,
+  "sigma": 2.85,
+  "ci_lower": 30.62,
+  "ci_upper": 42.04,
+  "games_played": 2,
+  "rank_delta_14d": -11
+}

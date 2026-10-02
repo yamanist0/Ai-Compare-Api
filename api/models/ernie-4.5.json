@@ -1,0 +1,28 @@
+{
+  "model_id": "ernie-4.5",
+  "name": "ERNIE 4.5",
+  "model_type": "llm",
+  "organization": "Baidu",
+  "organization_id": "baidu",
+  "announcement_date": "2025-06-25",
+  "release_date": "2025-06-25",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 375,
+  "conservative": -13.43,
+  "mu": -9.26,
+  "sigma": 1.39,
+  "ci_lower": -12.04,
+  "ci_upper": -6.48,
+  "games_played": 20,
+  "rank_delta_14d": -9
+}

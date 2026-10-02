@@ -1,0 +1,30 @@
+{
+  "model_id": "kimi-k2.8",
+  "name": "Kimi K2.8 Preview",
+  "model_type": "llm",
+  "organization": "Moonshot AI",
+  "organization_id": "moonshotai",
+  "announcement_date": "2026-09-11",
+  "release_date": "2026-09-11",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

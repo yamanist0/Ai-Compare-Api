@@ -1,0 +1,30 @@
+{
+  "model_id": "gemini-omni-flash-preview",
+  "name": "Gemini Omni Flash",
+  "model_type": "video",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2026-06-30",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": 1500000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

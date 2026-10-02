@@ -1,0 +1,28 @@
+{
+  "model_id": "mistral-large-2-2407",
+  "name": "Mistral Large 2",
+  "model_type": "llm",
+  "organization": "Mistral AI",
+  "organization_id": "mistral",
+  "announcement_date": "2024-07-24",
+  "release_date": "2024-07-24",
+  "multimodal": false,
+  "license": "mistral_research_license",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 294,
+  "conservative": 7.39,
+  "mu": 13.69,
+  "sigma": 2.1,
+  "ci_lower": 9.49,
+  "ci_upper": 17.89,
+  "games_played": 4,
+  "rank_delta_14d": -9
+}

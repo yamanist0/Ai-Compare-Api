@@ -1,0 +1,30 @@
+{
+  "model_id": "kimi-k3",
+  "name": "Kimi K3",
+  "model_type": "llm",
+  "organization": "Moonshot AI",
+  "organization_id": "moonshotai",
+  "announcement_date": "2026-07-16",
+  "release_date": "2026-07-16",
+  "multimodal": true,
+  "license": "kimi_k3",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 285000.0,
+  "output_price": null,
+  "rank": 9,
+  "conservative": 52.49,
+  "mu": 55.42,
+  "sigma": 0.98,
+  "ci_lower": 53.47,
+  "ci_upper": 57.38,
+  "games_played": 26,
+  "rank_delta_14d": -2
+}

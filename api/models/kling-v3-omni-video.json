@@ -1,0 +1,31 @@
+{
+  "model_id": "kling-v3-omni-video",
+  "name": "Kling v3 Omni Video",
+  "model_type": "video",
+  "organization": "Kling AI",
+  "organization_id": "kling",
+  "announcement_date": "2026-02-04",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "audio",
+    "video"
+  ],
+  "input_price": 0.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

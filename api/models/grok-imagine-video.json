@@ -1,0 +1,30 @@
+{
+  "model_id": "grok-imagine-video",
+  "name": "Grok Imagine Video",
+  "model_type": "video",
+  "organization": "xAI",
+  "organization_id": "xai",
+  "announcement_date": "2026-01-29",
+  "release_date": "2026-01-29",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

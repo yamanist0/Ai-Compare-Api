@@ -1,0 +1,29 @@
+{
+  "model_id": "grok-3",
+  "name": "Grok-3",
+  "model_type": "llm",
+  "organization": "xAI",
+  "organization_id": "xai",
+  "announcement_date": "2025-02-17",
+  "release_date": "2025-02-17",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 3000000.0,
+  "output_price": null,
+  "rank": 124,
+  "conservative": 30.37,
+  "mu": 36.01,
+  "sigma": 1.88,
+  "ci_lower": 32.25,
+  "ci_upper": 39.77,
+  "games_played": 5,
+  "rank_delta_14d": -9
+}

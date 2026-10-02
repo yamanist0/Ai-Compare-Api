@@ -1,0 +1,29 @@
+{
+  "model_id": "clarity-upscaler",
+  "name": "Clarity Upscaler",
+  "model_type": "image",
+  "organization": "Clarity AI",
+  "organization_id": "clarity",
+  "announcement_date": "2026-07-03",
+  "release_date": null,
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

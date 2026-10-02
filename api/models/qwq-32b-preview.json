@@ -1,0 +1,28 @@
+{
+  "model_id": "qwq-32b-preview",
+  "name": "QwQ-32B-Preview",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2024-11-28",
+  "release_date": "2024-11-28",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 278,
+  "conservative": 9.0,
+  "mu": 15.21,
+  "sigma": 2.07,
+  "ci_lower": 11.07,
+  "ci_upper": 19.36,
+  "games_played": 4,
+  "rank_delta_14d": -8
+}

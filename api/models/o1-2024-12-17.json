@@ -1,0 +1,28 @@
+{
+  "model_id": "o1-2024-12-17",
+  "name": "o1",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2024-12-17",
+  "release_date": "2024-12-17",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 197,
+  "conservative": 20.92,
+  "mu": 24.32,
+  "sigma": 1.13,
+  "ci_lower": 22.05,
+  "ci_upper": 26.58,
+  "games_played": 16,
+  "rank_delta_14d": -9
+}

@@ -1,0 +1,28 @@
+{
+  "model_id": "qwen-2.5-coder-32b-instruct",
+  "name": "Qwen2.5-Coder 32B Instruct",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2024-09-19",
+  "release_date": "2024-09-19",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 323,
+  "conservative": 2.03,
+  "mu": 5.69,
+  "sigma": 1.22,
+  "ci_lower": 3.25,
+  "ci_upper": 8.13,
+  "games_played": 13,
+  "rank_delta_14d": -9
+}

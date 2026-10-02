@@ -1,0 +1,28 @@
+{
+  "model_id": "nemotron-3-nano-30b-a3b",
+  "name": "Nemotron 3 Nano (30B A3B)",
+  "model_type": "llm",
+  "organization": "NVIDIA",
+  "organization_id": "nvidia",
+  "announcement_date": "2025-12-15",
+  "release_date": "2025-12-15",
+  "multimodal": false,
+  "license": "nvidia_open_model_license_agreement",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 25000.0,
+  "output_price": null,
+  "rank": 196,
+  "conservative": 21.03,
+  "mu": 24.47,
+  "sigma": 1.15,
+  "ci_lower": 22.18,
+  "ci_upper": 26.77,
+  "games_played": 15,
+  "rank_delta_14d": -9
+}

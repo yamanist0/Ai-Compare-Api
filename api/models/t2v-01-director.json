@@ -1,0 +1,29 @@
+{
+  "model_id": "t2v-01-director",
+  "name": "T2V-01-Director",
+  "model_type": "video",
+  "organization": "MiniMax",
+  "organization_id": "minimax",
+  "announcement_date": "2025-01-15",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

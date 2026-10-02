@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5-2025-08-07",
+  "name": "GPT-5",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-08-07",
+  "release_date": "2025-08-07",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 103,
+  "conservative": 33.77,
+  "mu": 36.52,
+  "sigma": 0.92,
+  "ci_lower": 34.69,
+  "ci_upper": 38.35,
+  "games_played": 30,
+  "rank_delta_14d": -9
+}

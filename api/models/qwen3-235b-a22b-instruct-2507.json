@@ -1,0 +1,28 @@
+{
+  "model_id": "qwen3-235b-a22b-instruct-2507",
+  "name": "Qwen3-235B-A22B-Instruct-2507",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2025-07-22",
+  "release_date": "2025-07-22",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 90000.0,
+  "output_price": null,
+  "rank": 172,
+  "conservative": 24.16,
+  "mu": 26.95,
+  "sigma": 0.93,
+  "ci_lower": 25.09,
+  "ci_upper": 28.82,
+  "games_played": 25,
+  "rank_delta_14d": -9
+}

@@ -1,0 +1,28 @@
+{
+  "model_id": "o1-mini",
+  "name": "o1-mini",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2024-09-12",
+  "release_date": "2024-09-12",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 272,
+  "conservative": 10.01,
+  "mu": 16.21,
+  "sigma": 2.07,
+  "ci_lower": 12.08,
+  "ci_upper": 20.35,
+  "games_played": 5,
+  "rank_delta_14d": -9
+}

@@ -1,0 +1,28 @@
+{
+  "model_id": "topaz-video-upscale",
+  "name": "Topaz Video Upscale",
+  "model_type": "video",
+  "organization": "Topaz Labs",
+  "organization_id": "topaz-labs",
+  "announcement_date": "2026-07-03",
+  "release_date": null,
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "video"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

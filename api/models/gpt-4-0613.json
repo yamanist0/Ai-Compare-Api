@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-4-0613",
+  "name": "GPT-4",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2023-06-13",
+  "release_date": "2023-06-13",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 316,
+  "conservative": 2.96,
+  "mu": 7.58,
+  "sigma": 1.54,
+  "ci_lower": 4.5,
+  "ci_upper": 10.66,
+  "games_played": 8,
+  "rank_delta_14d": -9
+}

@@ -1,0 +1,29 @@
+{
+  "model_id": "grok-4.6",
+  "name": "Grok 4.6",
+  "model_type": "llm",
+  "organization": "xAI",
+  "organization_id": "xai",
+  "announcement_date": "2026-08-12",
+  "release_date": "2026-08-12",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 500000.0,
+  "output_price": null,
+  "rank": 30,
+  "conservative": 45.8,
+  "mu": 51.03,
+  "sigma": 1.74,
+  "ci_lower": 47.54,
+  "ci_upper": 54.51,
+  "games_played": 8,
+  "rank_delta_14d": -7
+}

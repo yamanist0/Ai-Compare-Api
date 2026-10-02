@@ -1,0 +1,28 @@
+{
+  "model_id": "o3-mini",
+  "name": "o3-mini",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-01-30",
+  "release_date": "2025-01-30",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 193,
+  "conservative": 21.46,
+  "mu": 24.41,
+  "sigma": 0.98,
+  "ci_lower": 22.44,
+  "ci_upper": 26.38,
+  "games_played": 25,
+  "rank_delta_14d": -9
+}

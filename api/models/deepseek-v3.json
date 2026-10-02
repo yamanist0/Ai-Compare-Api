@@ -1,0 +1,28 @@
+{
+  "model_id": "deepseek-v3",
+  "name": "DeepSeek-V3",
+  "model_type": "llm",
+  "organization": "DeepSeek",
+  "organization_id": "deepseek",
+  "announcement_date": "2024-12-25",
+  "release_date": "2024-12-25",
+  "multimodal": false,
+  "license": "mit_+_model_license_(commercial_use_allowed)",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 320000.0,
+  "output_price": null,
+  "rank": 234,
+  "conservative": 15.65,
+  "mu": 19.01,
+  "sigma": 1.12,
+  "ci_lower": 16.77,
+  "ci_upper": 21.25,
+  "games_played": 19,
+  "rank_delta_14d": -9
+}

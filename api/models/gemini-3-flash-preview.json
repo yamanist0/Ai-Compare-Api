@@ -1,0 +1,31 @@
+{
+  "model_id": "gemini-3-flash-preview",
+  "name": "Gemini 3 Flash",
+  "model_type": "llm",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2025-12-17",
+  "release_date": "2025-12-17",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 50000.0,
+  "output_price": null,
+  "rank": 78,
+  "conservative": 36.78,
+  "mu": 39.55,
+  "sigma": 0.92,
+  "ci_lower": 37.7,
+  "ci_upper": 41.39,
+  "games_played": 25,
+  "rank_delta_14d": -8
+}

@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-6-astra",
+  "name": "GPT-6 Astra",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-09-03",
+  "release_date": "2026-09-04",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 1000000.0,
+  "output_price": null,
+  "rank": 2,
+  "conservative": 59.49,
+  "mu": 63.17,
+  "sigma": 1.23,
+  "ci_lower": 60.72,
+  "ci_upper": 65.63,
+  "games_played": 22,
+  "rank_delta_14d": -1
+}

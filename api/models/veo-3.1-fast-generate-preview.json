@@ -1,0 +1,29 @@
+{
+  "model_id": "veo-3.1-fast-generate-preview",
+  "name": "Veo 3.1 Fast",
+  "model_type": "video",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2025-09-01",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

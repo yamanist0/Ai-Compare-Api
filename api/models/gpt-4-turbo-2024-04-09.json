@@ -1,0 +1,28 @@
+{
+  "model_id": "gpt-4-turbo-2024-04-09",
+  "name": "GPT-4 Turbo",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2024-04-09",
+  "release_date": "2024-04-09",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 10000000.0,
+  "output_price": null,
+  "rank": 276,
+  "conservative": 9.03,
+  "mu": 14.2,
+  "sigma": 1.72,
+  "ci_lower": 10.76,
+  "ci_upper": 17.65,
+  "games_played": 6,
+  "rank_delta_14d": -9
+}

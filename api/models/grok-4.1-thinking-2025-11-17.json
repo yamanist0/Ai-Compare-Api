@@ -1,0 +1,29 @@
+{
+  "model_id": "grok-4.1-thinking-2025-11-17",
+  "name": "Grok-4.1 Thinking",
+  "model_type": "llm",
+  "organization": "xAI",
+  "organization_id": "xai",
+  "announcement_date": "2025-11-17",
+  "release_date": "2025-11-17",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 231,
+  "conservative": 16.04,
+  "mu": 27.97,
+  "sigma": 3.98,
+  "ci_lower": 20.02,
+  "ci_upper": 35.93,
+  "games_played": 2,
+  "rank_delta_14d": -9
+}

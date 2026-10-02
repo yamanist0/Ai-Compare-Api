@@ -1,0 +1,28 @@
+{
+  "model_id": "whisper-v3-turbo",
+  "name": "Whisper V3 Turbo",
+  "model_type": "stt",
+  "organization": "Fireworks AI",
+  "organization_id": "fireworks",
+  "announcement_date": "2024-11-01",
+  "release_date": null,
+  "multimodal": true,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "audio"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

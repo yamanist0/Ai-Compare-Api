@@ -1,0 +1,30 @@
+{
+  "model_id": "seed-1.8",
+  "name": "Seed 1.8",
+  "model_type": "llm",
+  "organization": "ByteDance",
+  "organization_id": "bytedance",
+  "announcement_date": "2026-02-17",
+  "release_date": "2026-02-17",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 50000.0,
+  "output_price": null,
+  "rank": 99,
+  "conservative": 34.15,
+  "mu": 36.5,
+  "sigma": 0.79,
+  "ci_lower": 34.93,
+  "ci_upper": 38.08,
+  "games_played": 56,
+  "rank_delta_14d": -9
+}

@@ -1,0 +1,28 @@
+{
+  "model_id": "ministral-8b-instruct-2410",
+  "name": "Ministral 8B Instruct",
+  "model_type": "llm",
+  "organization": "Mistral AI",
+  "organization_id": "mistral",
+  "announcement_date": "2024-10-16",
+  "release_date": "2024-10-16",
+  "multimodal": false,
+  "license": "mistral_research_license",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 358,
+  "conservative": -4.72,
+  "mu": -0.28,
+  "sigma": 1.48,
+  "ci_lower": -3.24,
+  "ci_upper": 2.68,
+  "games_played": 9,
+  "rank_delta_14d": -9
+}

@@ -1,0 +1,28 @@
+{
+  "model_id": "wan-2.6-t2v",
+  "name": "WAN Video 2.6",
+  "model_type": "video",
+  "organization": "WAN Video",
+  "organization_id": "wanvideo",
+  "announcement_date": "2026-01-01",
+  "release_date": null,
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

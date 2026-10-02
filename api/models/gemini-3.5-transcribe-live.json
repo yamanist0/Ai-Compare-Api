@@ -1,0 +1,28 @@
+{
+  "model_id": "gemini-3.5-transcribe-live",
+  "name": "Gemini 3.5 Transcribe Live",
+  "model_type": "stt",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2026-08-26",
+  "release_date": "2026-08-26",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 3500000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

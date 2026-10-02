@@ -1,0 +1,28 @@
+{
+  "model_id": "z-image-turbo",
+  "name": "Z-Image Turbo",
+  "model_type": "image",
+  "organization": "Alibaba",
+  "organization_id": "alibaba",
+  "announcement_date": "2025-12-01",
+  "release_date": null,
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

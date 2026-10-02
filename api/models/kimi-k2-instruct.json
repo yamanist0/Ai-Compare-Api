@@ -1,0 +1,28 @@
+{
+  "model_id": "kimi-k2-instruct",
+  "name": "Kimi K2 Instruct",
+  "model_type": "llm",
+  "organization": "Moonshot AI",
+  "organization_id": "moonshotai",
+  "announcement_date": "2025-07-11",
+  "release_date": "2025-07-11",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 188,
+  "conservative": 21.87,
+  "mu": 24.48,
+  "sigma": 0.87,
+  "ci_lower": 22.74,
+  "ci_upper": 26.23,
+  "games_played": 30,
+  "rank_delta_14d": -9
+}

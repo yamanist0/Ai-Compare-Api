@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.2-pro-2025-12-11",
+  "name": "GPT-5.2 Pro",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-12-11",
+  "release_date": "2025-12-11",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 50,
+  "conservative": 42.91,
+  "mu": 47.96,
+  "sigma": 1.68,
+  "ci_lower": 44.59,
+  "ci_upper": 51.32,
+  "games_played": 7,
+  "rank_delta_14d": -7
+}

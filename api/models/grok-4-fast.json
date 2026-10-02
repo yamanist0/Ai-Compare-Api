@@ -1,0 +1,29 @@
+{
+  "model_id": "grok-4-fast",
+  "name": "Grok 4 Fast",
+  "model_type": "llm",
+  "organization": "xAI",
+  "organization_id": "xai",
+  "announcement_date": "2025-08-28",
+  "release_date": "2025-08-28",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 116,
+  "conservative": 31.68,
+  "mu": 36.46,
+  "sigma": 1.6,
+  "ci_lower": 33.27,
+  "ci_upper": 39.66,
+  "games_played": 7,
+  "rank_delta_14d": -9
+}

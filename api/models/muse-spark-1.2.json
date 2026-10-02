@@ -1,0 +1,30 @@
+{
+  "model_id": "muse-spark-1.2",
+  "name": "Muse Spark 1.2",
+  "model_type": "llm",
+  "organization": "Meta",
+  "organization_id": "meta",
+  "announcement_date": "2026-08-05",
+  "release_date": "2026-08-05",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 2000.0,
+  "output_price": null,
+  "rank": 70,
+  "conservative": 38.35,
+  "mu": 46.9,
+  "sigma": 2.85,
+  "ci_lower": 41.2,
+  "ci_upper": 52.61,
+  "games_played": 2,
+  "rank_delta_14d": -17
+}

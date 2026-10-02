@@ -1,0 +1,29 @@
+{
+  "model_id": "mai-image-2.5",
+  "name": "MAI-Image-2.5",
+  "model_type": "image",
+  "organization": "Microsoft",
+  "organization_id": "microsoft",
+  "announcement_date": "2026-06-02",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

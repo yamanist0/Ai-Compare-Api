@@ -1,0 +1,28 @@
+{
+  "model_id": "qwen3-next-80b-a3b-instruct",
+  "name": "Qwen3-Next-80B-A3B-Instruct",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2025-09-10",
+  "release_date": "2025-09-10",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 90000.0,
+  "output_price": null,
+  "rank": 203,
+  "conservative": 20.15,
+  "mu": 22.96,
+  "sigma": 0.94,
+  "ci_lower": 21.08,
+  "ci_upper": 24.83,
+  "games_played": 24,
+  "rank_delta_14d": -9
+}

@@ -1,0 +1,29 @@
+{
+  "model_id": "llama-4-maverick",
+  "name": "Llama 4 Maverick",
+  "model_type": "llm",
+  "organization": "Meta",
+  "organization_id": "meta",
+  "announcement_date": "2025-04-05",
+  "release_date": "2025-04-05",
+  "multimodal": true,
+  "license": "llama_4_community_license_agreement",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 200000.0,
+  "output_price": null,
+  "rank": 240,
+  "conservative": 14.67,
+  "mu": 18.46,
+  "sigma": 1.26,
+  "ci_lower": 15.94,
+  "ci_upper": 20.98,
+  "games_played": 12,
+  "rank_delta_14d": -9
+}

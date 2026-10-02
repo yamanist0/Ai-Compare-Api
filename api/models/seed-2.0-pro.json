@@ -1,0 +1,30 @@
+{
+  "model_id": "seed-2.0-pro",
+  "name": "Seed 2.0 Pro",
+  "model_type": "llm",
+  "organization": "ByteDance",
+  "organization_id": "bytedance",
+  "announcement_date": "2026-02-14",
+  "release_date": "2026-02-14",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 100000.0,
+  "output_price": null,
+  "rank": 61,
+  "conservative": 39.47,
+  "mu": 44.6,
+  "sigma": 1.71,
+  "ci_lower": 41.18,
+  "ci_upper": 48.02,
+  "games_played": 6,
+  "rank_delta_14d": -7
+}

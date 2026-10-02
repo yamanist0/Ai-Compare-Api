@@ -1,0 +1,31 @@
+{
+  "model_id": "mimo-v2-omni",
+  "name": "MiMo-V2-Omni",
+  "model_type": "llm",
+  "organization": "Xiaomi",
+  "organization_id": "xiaomi",
+  "announcement_date": "2026-03-18",
+  "release_date": "2026-03-18",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 148,
+  "conservative": 27.54,
+  "mu": 35.08,
+  "sigma": 2.51,
+  "ci_lower": 30.05,
+  "ci_upper": 40.11,
+  "games_played": 3,
+  "rank_delta_14d": -9
+}

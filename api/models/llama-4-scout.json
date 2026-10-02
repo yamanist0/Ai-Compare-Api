@@ -1,0 +1,29 @@
+{
+  "model_id": "llama-4-scout",
+  "name": "Llama 4 Scout",
+  "model_type": "llm",
+  "organization": "Meta",
+  "organization_id": "meta",
+  "announcement_date": "2025-04-05",
+  "release_date": "2025-04-05",
+  "multimodal": true,
+  "license": "llama_4_community_license_agreement",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 100000.0,
+  "output_price": null,
+  "rank": 289,
+  "conservative": 7.84,
+  "mu": 11.72,
+  "sigma": 1.3,
+  "ci_lower": 9.13,
+  "ci_upper": 14.31,
+  "games_played": 11,
+  "rank_delta_14d": -9
+}

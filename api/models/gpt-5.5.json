@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.5",
+  "name": "GPT-5.5",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-04-23",
+  "release_date": "2026-04-23",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 500000.0,
+  "output_price": null,
+  "rank": 27,
+  "conservative": 47.78,
+  "mu": 50.6,
+  "sigma": 0.94,
+  "ci_lower": 48.72,
+  "ci_upper": 52.48,
+  "games_played": 26,
+  "rank_delta_14d": -5
+}

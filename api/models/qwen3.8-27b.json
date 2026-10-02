@@ -1,0 +1,30 @@
+{
+  "model_id": "qwen3.8-27b",
+  "name": "Qwen3.8-27B",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2026-08-14",
+  "release_date": "2026-08-14",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 40000.0,
+  "output_price": null,
+  "rank": 36,
+  "conservative": 44.8,
+  "mu": 47.82,
+  "sigma": 1.01,
+  "ci_lower": 45.8,
+  "ci_upper": 49.83,
+  "games_played": 23,
+  "rank_delta_14d": -5
+}

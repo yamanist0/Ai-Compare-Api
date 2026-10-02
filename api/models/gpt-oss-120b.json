@@ -1,0 +1,28 @@
+{
+  "model_id": "gpt-oss-120b",
+  "name": "GPT OSS 120B",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-08-05",
+  "release_date": "2025-08-05",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 37000.0,
+  "output_price": null,
+  "rank": 138,
+  "conservative": 28.68,
+  "mu": 33.54,
+  "sigma": 1.62,
+  "ci_lower": 30.3,
+  "ci_upper": 36.79,
+  "games_played": 7,
+  "rank_delta_14d": -9
+}

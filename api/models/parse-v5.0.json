@@ -1,0 +1,28 @@
+{
+  "model_id": "parse-v5.0",
+  "name": "Parse",
+  "model_type": "llm",
+  "organization": "Cohere",
+  "organization_id": "cohere",
+  "announcement_date": "2026-08-27",
+  "release_date": "2026-08-27",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

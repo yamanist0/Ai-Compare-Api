@@ -1,0 +1,29 @@
+{
+  "model_id": "grok-imagine-image-2.0",
+  "name": "Grok Imagine Image 2.0",
+  "model_type": "image",
+  "organization": "xAI",
+  "organization_id": "xai",
+  "announcement_date": "2026-08-07",
+  "release_date": "2026-08-07",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

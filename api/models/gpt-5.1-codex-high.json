@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.1-codex-high",
+  "name": "GPT-5.1 Codex High",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-11-12",
+  "release_date": "2025-11-12",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 135,
+  "conservative": 29.42,
+  "mu": 40.73,
+  "sigma": 3.77,
+  "ci_lower": 33.19,
+  "ci_upper": 48.28,
+  "games_played": 1,
+  "rank_delta_14d": -9
+}

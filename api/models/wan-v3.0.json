@@ -1,0 +1,31 @@
+{
+  "model_id": "wan-v3.0",
+  "name": "WAN 3.0",
+  "model_type": "video",
+  "organization": "WAN Video",
+  "organization_id": "wanvideo",
+  "announcement_date": "2026-08-24",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "audio",
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

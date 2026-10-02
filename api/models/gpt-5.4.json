@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.4",
+  "name": "GPT-5.4",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-03-05",
+  "release_date": "2026-03-05",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 2500000.0,
+  "output_price": null,
+  "rank": 55,
+  "conservative": 41.95,
+  "mu": 44.7,
+  "sigma": 0.92,
+  "ci_lower": 42.87,
+  "ci_upper": 46.54,
+  "games_played": 27,
+  "rank_delta_14d": -9
+}

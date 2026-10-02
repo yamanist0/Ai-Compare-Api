@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-sonnet-4-20250514",
+  "name": "Claude Sonnet 4",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2025-05-22",
+  "release_date": "2025-05-22",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 171,
+  "conservative": 24.2,
+  "mu": 28.7,
+  "sigma": 1.5,
+  "ci_lower": 25.7,
+  "ci_upper": 31.7,
+  "games_played": 8,
+  "rank_delta_14d": -9
+}

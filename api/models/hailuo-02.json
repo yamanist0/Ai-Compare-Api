@@ -1,0 +1,29 @@
+{
+  "model_id": "hailuo-02",
+  "name": "Hailuo 02",
+  "model_type": "video",
+  "organization": "MiniMax",
+  "organization_id": "minimax",
+  "announcement_date": "2024-09-01",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

@@ -1,0 +1,30 @@
+{
+  "model_id": "nova-2-sonic",
+  "name": "Nova 2 Sonic",
+  "model_type": "llm",
+  "organization": "Amazon",
+  "organization_id": "amazon",
+  "announcement_date": "2025-12-02",
+  "release_date": "2025-12-02",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "text"
+  ],
+  "output_modalities": [
+    "audio",
+    "text"
+  ],
+  "input_price": 330000.0,
+  "output_price": null,
+  "rank": 279,
+  "conservative": 8.99,
+  "mu": 16.97,
+  "sigma": 2.66,
+  "ci_lower": 11.65,
+  "ci_upper": 22.3,
+  "games_played": 3,
+  "rank_delta_14d": -10
+}

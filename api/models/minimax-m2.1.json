@@ -1,0 +1,28 @@
+{
+  "model_id": "minimax-m2.1",
+  "name": "MiniMax M2.1",
+  "model_type": "llm",
+  "organization": "MiniMax",
+  "organization_id": "minimax",
+  "announcement_date": "2025-12-23",
+  "release_date": "2025-12-23",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 300000.0,
+  "output_price": null,
+  "rank": 115,
+  "conservative": 31.87,
+  "mu": 35.26,
+  "sigma": 1.13,
+  "ci_lower": 33.0,
+  "ci_upper": 37.53,
+  "games_played": 15,
+  "rank_delta_14d": -9
+}

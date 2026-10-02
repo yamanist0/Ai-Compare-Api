@@ -1,0 +1,28 @@
+{
+  "model_id": "qwen3-14b",
+  "name": "Qwen3 14B",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2025-04-28",
+  "release_date": "2025-04-28",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 120000.0,
+  "output_price": null,
+  "rank": 220,
+  "conservative": 18.1,
+  "mu": 21.59,
+  "sigma": 1.17,
+  "ci_lower": 19.26,
+  "ci_upper": 23.92,
+  "games_played": 17,
+  "rank_delta_14d": -9
+}

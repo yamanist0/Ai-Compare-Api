@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-4.1-2025-04-14",
+  "name": "GPT-4.1",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-04-14",
+  "release_date": "2025-04-14",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 2000000.0,
+  "output_price": null,
+  "rank": 221,
+  "conservative": 18.01,
+  "mu": 20.75,
+  "sigma": 0.91,
+  "ci_lower": 18.92,
+  "ci_upper": 22.58,
+  "games_played": 28,
+  "rank_delta_14d": -9
+}

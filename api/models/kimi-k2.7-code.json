@@ -1,0 +1,30 @@
+{
+  "model_id": "kimi-k2.7-code",
+  "name": "Kimi K2.7 Code",
+  "model_type": "llm",
+  "organization": "Moonshot AI",
+  "organization_id": "moonshotai",
+  "announcement_date": "2026-06-12",
+  "release_date": "2026-06-12",
+  "multimodal": true,
+  "license": "modified_mit_license",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 136000.0,
+  "output_price": null,
+  "rank": 63,
+  "conservative": 39.29,
+  "mu": 44.65,
+  "sigma": 1.79,
+  "ci_lower": 41.08,
+  "ci_upper": 48.22,
+  "games_played": 7,
+  "rank_delta_14d": -7
+}

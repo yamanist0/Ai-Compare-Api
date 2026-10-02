@@ -1,0 +1,28 @@
+{
+  "model_id": "mochi-1",
+  "name": "Mochi 1",
+  "model_type": "video",
+  "organization": "Genmo",
+  "organization_id": "genmo",
+  "announcement_date": "2024-10-22",
+  "release_date": null,
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

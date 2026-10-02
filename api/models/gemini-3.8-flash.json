@@ -1,0 +1,31 @@
+{
+  "model_id": "gemini-3.8-flash",
+  "name": "Gemini 3.8 Flash",
+  "model_type": "llm",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2026-09-02",
+  "release_date": "2026-09-02",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 750000.0,
+  "output_price": null,
+  "rank": 19,
+  "conservative": 49.72,
+  "mu": 54.24,
+  "sigma": 1.51,
+  "ci_lower": 51.22,
+  "ci_upper": 57.25,
+  "games_played": 10,
+  "rank_delta_14d": -4
+}

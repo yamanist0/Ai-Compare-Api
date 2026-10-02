@@ -1,0 +1,29 @@
+{
+  "model_id": "ministral-3b-latest",
+  "name": "Min  istral 3 (3B Reasoning 2512)",
+  "model_type": "llm",
+  "organization": "Mistral AI",
+  "organization_id": "mistral",
+  "announcement_date": "2025-12-04",
+  "release_date": "2025-12-04",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 265,
+  "conservative": 11.16,
+  "mu": 17.32,
+  "sigma": 2.05,
+  "ci_lower": 13.21,
+  "ci_upper": 21.43,
+  "games_played": 4,
+  "rank_delta_14d": -9
+}

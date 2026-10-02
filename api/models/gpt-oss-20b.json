@@ -1,0 +1,28 @@
+{
+  "model_id": "gpt-oss-20b",
+  "name": "GPT OSS 20B",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2025-08-05",
+  "release_date": "2025-08-05",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 30000.0,
+  "output_price": null,
+  "rank": 222,
+  "conservative": 17.95,
+  "mu": 23.03,
+  "sigma": 1.69,
+  "ci_lower": 19.64,
+  "ci_upper": 26.42,
+  "games_played": 7,
+  "rank_delta_14d": -9
+}

@@ -1,0 +1,31 @@
+{
+  "model_id": "wan-v2.7",
+  "name": "WAN 2.7",
+  "model_type": "video",
+  "organization": "WAN Video",
+  "organization_id": "wanvideo",
+  "announcement_date": "2026-04-15",
+  "release_date": null,
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "audio",
+    "video"
+  ],
+  "input_price": 0.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

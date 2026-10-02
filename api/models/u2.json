@@ -1,0 +1,29 @@
+{
+  "model_id": "u2",
+  "name": "U2",
+  "model_type": "llm",
+  "organization": "Unisound",
+  "organization_id": "unisound",
+  "announcement_date": "2026-06-05",
+  "release_date": "2026-06-05",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 182,
+  "conservative": 23.34,
+  "mu": 27.1,
+  "sigma": 1.25,
+  "ci_lower": 24.6,
+  "ci_upper": 29.61,
+  "games_played": 13,
+  "rank_delta_14d": -9
+}

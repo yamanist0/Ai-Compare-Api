@@ -1,0 +1,28 @@
+{
+  "model_id": "qwen3-235b-a22b-thinking-2507",
+  "name": "Qwen3-235B-A22B-Thinking-2507",
+  "model_type": "llm",
+  "organization": "Alibaba Cloud / Qwen Team",
+  "organization_id": "qwen",
+  "announcement_date": "2025-07-25",
+  "release_date": "2025-07-25",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 141,
+  "conservative": 28.04,
+  "mu": 30.87,
+  "sigma": 0.94,
+  "ci_lower": 28.98,
+  "ci_upper": 32.75,
+  "games_played": 24,
+  "rank_delta_14d": -9
+}

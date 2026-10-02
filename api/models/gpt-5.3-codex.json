@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.3-codex",
+  "name": "GPT-5.3 Codex",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-02-05",
+  "release_date": "2026-02-05",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 1750000.0,
+  "output_price": null,
+  "rank": 82,
+  "conservative": 36.42,
+  "mu": 42.26,
+  "sigma": 1.95,
+  "ci_lower": 38.37,
+  "ci_upper": 46.16,
+  "games_played": 6,
+  "rank_delta_14d": -10
+}

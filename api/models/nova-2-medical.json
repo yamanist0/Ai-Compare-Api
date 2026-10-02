@@ -1,0 +1,28 @@
+{
+  "model_id": "nova-2-medical",
+  "name": "Nova 2 Medical",
+  "model_type": "stt",
+  "organization": "Deepgram",
+  "organization_id": "deepgram",
+  "announcement_date": "2024-01-01",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

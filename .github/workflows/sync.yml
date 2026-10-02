@@ -1,0 +1,30 @@
+name: Sync AI Compare Data
+
+on:
+  schedule:
+    # run at midnight turkey time
+    - cron: '0 21 * * *'
+  # manual trigger support
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # run python sync script
+      - name: Fetch and push data to repo
+        env:
+          GH_PAT: ${{ secrets.gh_pat }}
+        run: |
+          python sync.py

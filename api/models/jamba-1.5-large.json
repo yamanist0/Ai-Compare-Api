@@ -1,0 +1,28 @@
+{
+  "model_id": "jamba-1.5-large",
+  "name": "Jamba 1.5 Large",
+  "model_type": "llm",
+  "organization": "AI21 Labs",
+  "organization_id": "ai21",
+  "announcement_date": "2024-08-22",
+  "release_date": "2024-08-22",
+  "multimodal": false,
+  "license": "jamba_open_model_license",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 328,
+  "conservative": 0.91,
+  "mu": 5.52,
+  "sigma": 1.54,
+  "ci_lower": 2.45,
+  "ci_upper": 8.59,
+  "games_played": 8,
+  "rank_delta_14d": -9
+}

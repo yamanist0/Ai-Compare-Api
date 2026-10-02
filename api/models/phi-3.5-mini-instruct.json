@@ -1,0 +1,28 @@
+{
+  "model_id": "phi-3.5-mini-instruct",
+  "name": "Phi-3.5-mini-instruct",
+  "model_type": "llm",
+  "organization": "Microsoft",
+  "organization_id": "microsoft",
+  "announcement_date": "2024-08-23",
+  "release_date": "2024-08-23",
+  "multimodal": false,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 352,
+  "conservative": -3.83,
+  "mu": -0.74,
+  "sigma": 1.03,
+  "ci_lower": -2.8,
+  "ci_upper": 1.31,
+  "games_played": 21,
+  "rank_delta_14d": -9
+}

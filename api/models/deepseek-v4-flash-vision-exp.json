@@ -1,0 +1,29 @@
+{
+  "model_id": "deepseek-v4-flash-vision-exp",
+  "name": "DeepSeek-V4-Flash-Vision-Exp",
+  "model_type": "llm",
+  "organization": "DeepSeek",
+  "organization_id": "deepseek",
+  "announcement_date": "2026-08-21",
+  "release_date": "2026-08-21",
+  "multimodal": true,
+  "license": "unknown",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 140000.0,
+  "output_price": null,
+  "rank": 34,
+  "conservative": 45.07,
+  "mu": 50.19,
+  "sigma": 1.71,
+  "ci_lower": 46.78,
+  "ci_upper": 53.61,
+  "games_played": 7,
+  "rank_delta_14d": -9
+}

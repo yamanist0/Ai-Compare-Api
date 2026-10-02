@@ -1,0 +1,28 @@
+{
+  "model_id": "minimax-music",
+  "name": "MiniMax Music 2.6",
+  "model_type": "audio",
+  "organization": "MiniMax",
+  "organization_id": "minimax",
+  "announcement_date": "2026-01-01",
+  "release_date": null,
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "audio"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

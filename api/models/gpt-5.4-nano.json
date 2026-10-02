@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-5.4-nano",
+  "name": "GPT-5.4 nano",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-03-17",
+  "release_date": "2026-03-17",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 200000.0,
+  "output_price": null,
+  "rank": 156,
+  "conservative": 26.57,
+  "mu": 29.64,
+  "sigma": 1.02,
+  "ci_lower": 27.59,
+  "ci_upper": 31.68,
+  "games_played": 21,
+  "rank_delta_14d": -9
+}

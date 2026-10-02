@@ -1,0 +1,28 @@
+{
+  "model_id": "gemini-1.0-pro",
+  "name": "Gemini 1.0 Pro",
+  "model_type": "llm",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2024-02-15",
+  "release_date": "2024-02-15",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": 363,
+  "conservative": -5.43,
+  "mu": -0.42,
+  "sigma": 1.67,
+  "ci_lower": -3.76,
+  "ci_upper": 2.92,
+  "games_played": 9,
+  "rank_delta_14d": -9
+}

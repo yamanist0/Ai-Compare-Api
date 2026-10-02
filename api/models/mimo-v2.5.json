@@ -1,0 +1,31 @@
+{
+  "model_id": "mimo-v2.5",
+  "name": "MiMo-V2.5",
+  "model_type": "llm",
+  "organization": "Xiaomi",
+  "organization_id": "xiaomi",
+  "announcement_date": "2026-04-22",
+  "release_date": "2026-04-22",
+  "multimodal": true,
+  "license": "mit",
+  "is_open": true,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 3400.0,
+  "output_price": null,
+  "rank": 86,
+  "conservative": 36.08,
+  "mu": 40.5,
+  "sigma": 1.47,
+  "ci_lower": 37.55,
+  "ci_upper": 43.45,
+  "games_played": 10,
+  "rank_delta_14d": -5
+}
