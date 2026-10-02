@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.gh_pat || github.token }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -23,8 +25,17 @@ jobs:
           python-version: '3.11'
 
       # run python sync script
-      - name: Fetch and push data to repo
-        env:
-          GH_PAT: ${{ secrets.gh_pat }}
+      - name: Fetch and update data
         run: |
           python sync.py
+
+      # commit and push all changes in one commit
+      - name: Commit and push changes
+        run: |
+          git config user.name "ai-compare-sync"
+          git config user.email "no_email@example.com"
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "sync ai compare data"
+            git push
+          fi

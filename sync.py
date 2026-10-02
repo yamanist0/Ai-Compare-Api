@@ -1,14 +1,7 @@
 import os
 import sys
 import json
-import base64
 import urllib.request
-import urllib.error
-
-# get secret token from environment
-pat = os.environ.get("GH_PAT") or os.environ.get("gh_pat")
-
-repo = "yamanist0/Ai-Compare-Api"
 models_url = "https://api.zeroeval.com/leaderboard/models"
 general_url = "https://api.zeroeval.com/leaderboard/indexes/compact?payloadVersion=2&categories=general"
 
@@ -57,53 +50,11 @@ def merge_data(models_list, general_data):
 
     return merged, leaderboard
 
-# save files locally or push to github
-def save_file(file_path, content_str, commit_message):
+# save files locally
+def save_file(file_path, content_str, commit_message=None):
     os.makedirs(os.path.dirname(file_path) if os.path.dirname(file_path) else ".", exist_ok=True)
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(content_str)
-
-    if not pat:
-        return
-
-    api_url = f"https://api.github.com/repos/{repo}/contents/{file_path}"
-    headers = {
-        "authorization": f"Bearer {pat}",
-        "accept": "application/vnd.github+json",
-        "user-agent": "ai-compare-sync",
-        "x-github-api-version": "2022-11-28"
-    }
-
-    sha = None
-    try:
-        req = urllib.request.Request(api_url, headers=headers)
-        with urllib.request.urlopen(req) as res:
-            remote_file = json.loads(res.read().decode("utf-8"))
-            sha = remote_file.get("sha")
-            existing_content = base64.b64decode(remote_file.get("content", "")).decode("utf-8")
-            if existing_content.strip() == content_str.strip():
-                return
-    except urllib.error.HTTPError as e:
-        if e.code in (404, 409):
-            sha = None
-        else:
-            print(f"warning on {file_path}: {e}")
-
-    payload = {
-        "message": commit_message,
-        "content": base64.b64encode(content_str.encode("utf-8")).decode("utf-8")
-    }
-    if sha:
-        payload["sha"] = sha
-
-    req_data = json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(api_url, data=req_data, headers=headers, method="PUT")
-    
-    try:
-        with urllib.request.urlopen(req):
-            print(f"committed {file_path} to {repo}")
-    except Exception as err:
-        print(f"push error on {file_path}: {err}")
 
 # execute sync job
 def main():
