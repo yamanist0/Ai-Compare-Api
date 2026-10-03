@@ -2383,20 +2383,6 @@
         "games_played": 50
       },
       {
-        "model_id": "laguna-xs-2.1",
-        "model_name": "Laguna XS 2.1",
-        "organization_id": "poolside",
-        "organization_name": "Poolside",
-        "conservative": 24.35,
-        "mu": 30.69,
-        "sigma": 2.11,
-        "ci_lower": 26.46,
-        "ci_upper": 34.92,
-        "rank": 171,
-        "rank_delta_14d": -10,
-        "games_played": 4
-      },
-      {
         "model_id": "glm-4.5-air",
         "model_name": "GLM-4.5-Air",
         "organization_id": "zai-org",
@@ -2406,9 +2392,23 @@
         "sigma": 1.18,
         "ci_lower": 25.53,
         "ci_upper": 30.25,
-        "rank": 172,
+        "rank": 171,
         "rank_delta_14d": -10,
         "games_played": 14
+      },
+      {
+        "model_id": "laguna-xs-2.1",
+        "model_name": "Laguna XS 2.1",
+        "organization_id": "poolside",
+        "organization_name": "Poolside",
+        "conservative": 24.35,
+        "mu": 30.69,
+        "sigma": 2.11,
+        "ci_lower": 26.46,
+        "ci_upper": 34.92,
+        "rank": 172,
+        "rank_delta_14d": -10,
+        "games_played": 4
       },
       {
         "model_id": "claude-sonnet-4-20250514",
@@ -2915,20 +2915,6 @@
         "games_played": 18
       },
       {
-        "model_id": "grok-4.1-2025-11-17",
-        "model_name": "Grok-4.1",
-        "organization_id": "xai",
-        "organization_name": "xAI",
-        "conservative": 19.54,
-        "mu": 29.37,
-        "sigma": 3.27,
-        "ci_lower": 22.82,
-        "ci_upper": 35.92,
-        "rank": 209,
-        "rank_delta_14d": -10,
-        "games_played": 2
-      },
-      {
         "model_id": "sarvam-30b",
         "model_name": "Sarvam-30B",
         "organization_id": "sarvamai",
@@ -2938,9 +2924,23 @@
         "sigma": 1.21,
         "ci_lower": 20.75,
         "ci_upper": 25.57,
-        "rank": 210,
+        "rank": 209,
         "rank_delta_14d": -10,
         "games_played": 14
+      },
+      {
+        "model_id": "grok-4.1-2025-11-17",
+        "model_name": "Grok-4.1",
+        "organization_id": "xai",
+        "organization_name": "xAI",
+        "conservative": 19.54,
+        "mu": 29.37,
+        "sigma": 3.27,
+        "ci_lower": 22.82,
+        "ci_upper": 35.92,
+        "rank": 210,
+        "rank_delta_14d": -10,
+        "games_played": 2
       },
       {
         "model_id": "gpt-5-nano-2025-08-07",
@@ -4329,20 +4329,6 @@
         "games_played": 13
       },
       {
-        "model_id": "mistral-small-24b-instruct-2501",
-        "model_name": "Mistral Small 3 24B Instruct",
-        "organization_id": "mistral",
-        "organization_name": "Mistral AI",
-        "conservative": 4.19,
-        "mu": 8.78,
-        "sigma": 1.53,
-        "ci_lower": 5.72,
-        "ci_upper": 11.85,
-        "rank": 310,
-        "rank_delta_14d": -9,
-        "games_played": 8
-      },
-      {
         "model_id": "mistral-small-3.1-24b-instruct-2503",
         "model_name": "Mistral Small 3.1 24B Instruct",
         "organization_id": "mistral",
@@ -4352,9 +4338,23 @@
         "sigma": 1.42,
         "ci_lower": 5.62,
         "ci_upper": 11.31,
-        "rank": 311,
+        "rank": 310,
         "rank_delta_14d": -11,
         "games_played": 9
+      },
+      {
+        "model_id": "mistral-small-24b-instruct-2501",
+        "model_name": "Mistral Small 3 24B Instruct",
+        "organization_id": "mistral",
+        "organization_name": "Mistral AI",
+        "conservative": 4.19,
+        "mu": 8.78,
+        "sigma": 1.53,
+        "ci_lower": 5.72,
+        "ci_upper": 11.85,
+        "rank": 311,
+        "rank_delta_14d": -9,
+        "games_played": 8
       },
       {
         "model_id": "hermes-3-70b",
