@@ -10,6 +10,7 @@
   "license": "apache_2_0",
   "is_open": true,
   "input_modalities": [
+    "audio",
     "image",
     "text",
     "video"

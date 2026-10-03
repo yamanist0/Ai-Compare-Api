@@ -1,0 +1,28 @@
+{
+  "model_id": "genjutsu",
+  "name": "Genjutsu",
+  "model_type": "video",
+  "organization": "Higgsfield",
+  "organization_id": "higgsfield",
+  "announcement_date": "2026-09-01",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "video"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

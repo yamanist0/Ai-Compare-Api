@@ -10,6 +10,7 @@
   "license": "proprietary",
   "is_open": false,
   "input_modalities": [
+    "audio",
     "image",
     "text",
     "video"

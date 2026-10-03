@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-sonnet-5-5",
+  "name": "Claude Sonnet 5.5",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2026-09-28",
+  "release_date": "2026-09-28",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 200000.0,
+  "output_price": null,
+  "rank": 3,
+  "conservative": 58.04,
+  "mu": 61.35,
+  "sigma": 1.11,
+  "ci_lower": 59.14,
+  "ci_upper": 63.56,
+  "games_played": 25,
+  "rank_delta_14d": null
+}

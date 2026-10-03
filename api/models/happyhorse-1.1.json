@@ -1,0 +1,29 @@
+{
+  "model_id": "happyhorse-1.1",
+  "name": "Happy Horse 1.1",
+  "model_type": "video",
+  "organization": "Alibaba",
+  "organization_id": "alibaba",
+  "announcement_date": "2026-09-01",
+  "release_date": null,
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

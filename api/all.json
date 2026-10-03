@@ -1,5 +1,63 @@
 [
   {
+    "model_id": "gpt-6.1-sol",
+    "name": "GPT-6.1 Sol",
+    "model_type": "llm",
+    "organization": "OpenAI",
+    "organization_id": "openai",
+    "announcement_date": "2026-09-29",
+    "release_date": "2026-09-29",
+    "multimodal": true,
+    "license": "proprietary",
+    "is_open": false,
+    "input_modalities": [
+      "image",
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "input_price": 100000.0,
+    "output_price": null,
+    "rank": 11,
+    "conservative": 52.04,
+    "mu": 56.92,
+    "sigma": 1.63,
+    "ci_lower": 53.67,
+    "ci_upper": 60.17,
+    "games_played": 9,
+    "rank_delta_14d": null
+  },
+  {
+    "model_id": "claude-sonnet-5-5",
+    "name": "Claude Sonnet 5.5",
+    "model_type": "llm",
+    "organization": "Anthropic",
+    "organization_id": "anthropic",
+    "announcement_date": "2026-09-28",
+    "release_date": "2026-09-28",
+    "multimodal": true,
+    "license": "proprietary",
+    "is_open": false,
+    "input_modalities": [
+      "image",
+      "text"
+    ],
+    "output_modalities": [
+      "text"
+    ],
+    "input_price": 200000.0,
+    "output_price": null,
+    "rank": 3,
+    "conservative": 58.04,
+    "mu": 61.35,
+    "sigma": 1.11,
+    "ci_lower": 59.14,
+    "ci_upper": 63.56,
+    "games_played": 25,
+    "rank_delta_14d": null
+  },
+  {
     "model_id": "claude-opus-5-5",
     "name": "Claude Opus 5.5",
     "model_type": "llm",
@@ -20,12 +78,12 @@
     "input_price": 200000.0,
     "output_price": null,
     "rank": 1,
-    "conservative": 59.7,
-    "mu": 63.64,
-    "sigma": 1.31,
-    "ci_lower": 61.01,
-    "ci_upper": 66.26,
-    "games_played": 23,
+    "conservative": 60.3,
+    "mu": 63.62,
+    "sigma": 1.11,
+    "ci_lower": 61.41,
+    "ci_upper": 65.83,
+    "games_played": 27,
     "rank_delta_14d": null
   },
   {
@@ -48,12 +106,12 @@
     ],
     "input_price": 10000.0,
     "output_price": null,
-    "rank": 40,
-    "conservative": 44.52,
-    "mu": 50.58,
-    "sigma": 2.02,
-    "ci_lower": 46.54,
-    "ci_upper": 54.61,
+    "rank": 42,
+    "conservative": 44.32,
+    "mu": 50.34,
+    "sigma": 2.01,
+    "ci_lower": 46.33,
+    "ci_upper": 54.36,
     "games_played": 5,
     "rank_delta_14d": null
   },
@@ -77,12 +135,12 @@
     ],
     "input_price": 200000.0,
     "output_price": null,
-    "rank": 21,
-    "conservative": 49.39,
-    "mu": 55.45,
-    "sigma": 2.02,
-    "ci_lower": 51.41,
-    "ci_upper": 59.49,
+    "rank": 24,
+    "conservative": 49.0,
+    "mu": 54.99,
+    "sigma": 2.0,
+    "ci_lower": 50.99,
+    "ci_upper": 58.98,
     "games_played": 5,
     "rank_delta_14d": null
   },
@@ -108,12 +166,12 @@
     ],
     "input_price": 2800.0,
     "output_price": null,
-    "rank": 31,
-    "conservative": 45.66,
-    "mu": 49.73,
-    "sigma": 1.36,
-    "ci_lower": 47.02,
-    "ci_upper": 52.44,
+    "rank": 32,
+    "conservative": 45.76,
+    "mu": 49.8,
+    "sigma": 1.35,
+    "ci_lower": 47.1,
+    "ci_upper": 52.5,
     "games_played": 13,
     "rank_delta_14d": null
   },
@@ -139,13 +197,13 @@
     ],
     "input_price": 3600.0,
     "output_price": null,
-    "rank": 18,
-    "conservative": 49.96,
-    "mu": 53.92,
-    "sigma": 1.32,
-    "ci_lower": 51.28,
-    "ci_upper": 56.56,
-    "games_played": 13,
+    "rank": 20,
+    "conservative": 49.88,
+    "mu": 53.79,
+    "sigma": 1.3,
+    "ci_lower": 51.18,
+    "ci_upper": 56.39,
+    "games_played": 14,
     "rank_delta_14d": null
   },
   {
@@ -168,13 +226,13 @@
     ],
     "input_price": 500000.0,
     "output_price": null,
-    "rank": 25,
-    "conservative": 48.04,
-    "mu": 54.05,
-    "sigma": 2.0,
-    "ci_lower": 50.04,
-    "ci_upper": 58.06,
-    "games_played": 5,
+    "rank": 30,
+    "conservative": 47.47,
+    "mu": 53.1,
+    "sigma": 1.88,
+    "ci_lower": 49.35,
+    "ci_upper": 56.85,
+    "games_played": 8,
     "rank_delta_14d": null
   },
   {
@@ -192,14 +250,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 11,
-    "conservative": 51.57,
-    "mu": 56.04,
-    "sigma": 1.49,
-    "ci_lower": 53.06,
-    "ci_upper": 59.01,
+    "rank": 13,
+    "conservative": 51.59,
+    "mu": 56.08,
+    "sigma": 1.5,
+    "ci_lower": 53.08,
+    "ci_upper": 59.07,
     "games_played": 11,
-    "rank_delta_14d": null
+    "rank_delta_14d": -4
   },
   {
     "model_id": "kimi-k2.8",
@@ -251,14 +309,14 @@
     ],
     "input_price": 6000.0,
     "output_price": null,
-    "rank": 13,
-    "conservative": 51.35,
-    "mu": 54.77,
-    "sigma": 1.14,
-    "ci_lower": 52.49,
-    "ci_upper": 57.04,
+    "rank": 15,
+    "conservative": 51.19,
+    "mu": 54.59,
+    "sigma": 1.13,
+    "ci_lower": 52.33,
+    "ci_upper": 56.85,
     "games_played": 19,
-    "rank_delta_14d": -2
+    "rank_delta_14d": -3
   },
   {
     "model_id": "gpt-live-1",
@@ -369,11 +427,11 @@
     "input_price": 1000000.0,
     "output_price": null,
     "rank": 2,
-    "conservative": 59.49,
-    "mu": 63.17,
-    "sigma": 1.23,
-    "ci_lower": 60.72,
-    "ci_upper": 65.63,
+    "conservative": 59.08,
+    "mu": 62.71,
+    "sigma": 1.21,
+    "ci_lower": 60.29,
+    "ci_upper": 65.12,
     "games_played": 22,
     "rank_delta_14d": -1
   },
@@ -396,14 +454,14 @@
     ],
     "input_price": 12000.0,
     "output_price": null,
-    "rank": 51,
-    "conservative": 42.77,
-    "mu": 49.69,
+    "rank": 53,
+    "conservative": 42.75,
+    "mu": 49.68,
     "sigma": 2.31,
-    "ci_lower": 45.07,
-    "ci_upper": 54.31,
+    "ci_lower": 45.06,
+    "ci_upper": 54.3,
     "games_played": 5,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-3.8-flash",
@@ -427,14 +485,14 @@
     ],
     "input_price": 750000.0,
     "output_price": null,
-    "rank": 19,
-    "conservative": 49.72,
-    "mu": 54.24,
-    "sigma": 1.51,
-    "ci_lower": 51.22,
-    "ci_upper": 57.25,
+    "rank": 21,
+    "conservative": 49.56,
+    "mu": 54.05,
+    "sigma": 1.5,
+    "ci_lower": 51.06,
+    "ci_upper": 57.05,
     "games_played": 10,
-    "rank_delta_14d": -4
+    "rank_delta_14d": -5
   },
   {
     "model_id": "gemini-3.8-flash-cyber",
@@ -451,12 +509,12 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 66,
-    "conservative": 38.94,
-    "mu": 50.66,
+    "rank": 68,
+    "conservative": 38.89,
+    "mu": 50.61,
     "sigma": 3.91,
-    "ci_lower": 42.84,
-    "ci_upper": 58.47,
+    "ci_lower": 42.79,
+    "ci_upper": 58.42,
     "games_played": 1,
     "rank_delta_14d": -15
   },
@@ -483,11 +541,11 @@
     "input_price": 2000.0,
     "output_price": null,
     "rank": 8,
-    "conservative": 53.83,
-    "mu": 58.74,
-    "sigma": 1.64,
-    "ci_lower": 55.47,
-    "ci_upper": 62.01,
+    "conservative": 53.75,
+    "mu": 58.66,
+    "sigma": 1.63,
+    "ci_lower": 55.39,
+    "ci_upper": 61.93,
     "games_played": 10,
     "rank_delta_14d": -3
   },
@@ -511,14 +569,14 @@
     ],
     "input_price": 250000.0,
     "output_price": null,
-    "rank": 4,
-    "conservative": 54.54,
-    "mu": 60.53,
-    "sigma": 2.0,
-    "ci_lower": 56.53,
-    "ci_upper": 64.52,
+    "rank": 7,
+    "conservative": 53.82,
+    "mu": 59.69,
+    "sigma": 1.96,
+    "ci_lower": 55.78,
+    "ci_upper": 63.6,
     "games_played": 6,
-    "rank_delta_14d": -2
+    "rank_delta_14d": -5
   },
   {
     "model_id": "claude-mythos-5-1",
@@ -540,14 +598,100 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 41,
-    "conservative": 44.52,
-    "mu": 56.79,
-    "sigma": 4.09,
-    "ci_lower": 48.61,
-    "ci_upper": 64.98,
+    "rank": 45,
+    "conservative": 43.67,
+    "mu": 55.62,
+    "sigma": 3.99,
+    "ci_lower": 47.65,
+    "ci_upper": 63.59,
     "games_played": 1,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -13
+  },
+  {
+    "model_id": "genjutsu",
+    "name": "Genjutsu",
+    "model_type": "video",
+    "organization": "Higgsfield",
+    "organization_id": "higgsfield",
+    "announcement_date": "2026-09-01",
+    "release_date": null,
+    "multimodal": true,
+    "license": "proprietary",
+    "is_open": false,
+    "input_modalities": [
+      "video"
+    ],
+    "output_modalities": [
+      "video"
+    ],
+    "input_price": null,
+    "output_price": null,
+    "rank": null,
+    "conservative": null,
+    "mu": null,
+    "sigma": null,
+    "ci_lower": null,
+    "ci_upper": null,
+    "games_played": null,
+    "rank_delta_14d": null
+  },
+  {
+    "model_id": "happyhorse-1.1",
+    "name": "Happy Horse 1.1",
+    "model_type": "video",
+    "organization": "Alibaba",
+    "organization_id": "alibaba",
+    "announcement_date": "2026-09-01",
+    "release_date": null,
+    "multimodal": true,
+    "license": "proprietary",
+    "is_open": false,
+    "input_modalities": [
+      "image",
+      "text"
+    ],
+    "output_modalities": [
+      "video"
+    ],
+    "input_price": null,
+    "output_price": null,
+    "rank": null,
+    "conservative": null,
+    "mu": null,
+    "sigma": null,
+    "ci_lower": null,
+    "ci_upper": null,
+    "games_played": null,
+    "rank_delta_14d": null
+  },
+  {
+    "model_id": "pixverse-6",
+    "name": "PixVerse 6",
+    "model_type": "video",
+    "organization": "PixVerse",
+    "organization_id": "pixverse",
+    "announcement_date": "2026-09-01",
+    "release_date": null,
+    "multimodal": true,
+    "license": "proprietary",
+    "is_open": false,
+    "input_modalities": [
+      "image",
+      "text"
+    ],
+    "output_modalities": [
+      "video"
+    ],
+    "input_price": null,
+    "output_price": null,
+    "rank": null,
+    "conservative": null,
+    "mu": null,
+    "sigma": null,
+    "ci_lower": null,
+    "ci_upper": null,
+    "games_played": null,
+    "rank_delta_14d": null
   },
   {
     "model_id": "hy4-preview",
@@ -564,14 +708,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 15,
-    "conservative": 50.42,
-    "mu": 53.21,
+    "rank": 17,
+    "conservative": 50.35,
+    "mu": 53.14,
     "sigma": 0.93,
-    "ci_lower": 51.35,
-    "ci_upper": 55.07,
+    "ci_lower": 51.28,
+    "ci_upper": 54.99,
     "games_played": 31,
-    "rank_delta_14d": -3
+    "rank_delta_14d": -4
   },
   {
     "model_id": "gemini-omni-1.1-flash",
@@ -736,14 +880,14 @@
     ],
     "input_price": 30000.0,
     "output_price": null,
-    "rank": 20,
-    "conservative": 49.45,
-    "mu": 53.28,
-    "sigma": 1.28,
-    "ci_lower": 50.72,
-    "ci_upper": 55.83,
+    "rank": 22,
+    "conservative": 49.43,
+    "mu": 53.24,
+    "sigma": 1.27,
+    "ci_lower": 50.7,
+    "ci_upper": 55.79,
     "games_played": 15,
-    "rank_delta_14d": -4
+    "rank_delta_14d": -5
   },
   {
     "model_id": "qwen3.8-flash",
@@ -766,14 +910,14 @@
     ],
     "input_price": 16000.0,
     "output_price": null,
-    "rank": 24,
-    "conservative": 48.72,
-    "mu": 51.73,
+    "rank": 26,
+    "conservative": 48.64,
+    "mu": 51.64,
     "sigma": 1.0,
-    "ci_lower": 49.72,
-    "ci_upper": 53.74,
+    "ci_lower": 49.64,
+    "ci_upper": 53.65,
     "games_played": 22,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -6
   },
   {
     "model_id": "qwen3.8-flash-next",
@@ -790,14 +934,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 23,
-    "conservative": 48.77,
-    "mu": 51.78,
+    "rank": 25,
+    "conservative": 48.69,
+    "mu": 51.69,
     "sigma": 1.0,
-    "ci_lower": 49.77,
-    "ci_upper": 53.78,
+    "ci_lower": 49.69,
+    "ci_upper": 53.7,
     "games_played": 22,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -6
   },
   {
     "model_id": "granite-4.2-30b",
@@ -818,14 +962,14 @@
     ],
     "input_price": 40000.0,
     "output_price": null,
-    "rank": 176,
-    "conservative": 23.81,
-    "mu": 27.1,
+    "rank": 179,
+    "conservative": 23.8,
+    "mu": 27.09,
     "sigma": 1.1,
     "ci_lower": 24.9,
     "ci_upper": 29.29,
     "games_played": 18,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "granite-4.2-3b",
@@ -846,14 +990,14 @@
     ],
     "input_price": 7500.0,
     "output_price": null,
-    "rank": 236,
-    "conservative": 15.48,
+    "rank": 238,
+    "conservative": 15.47,
     "mu": 19.48,
     "sigma": 1.34,
     "ci_lower": 16.81,
-    "ci_upper": 22.16,
+    "ci_upper": 22.15,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "granite-4.2-8b",
@@ -874,14 +1018,14 @@
     ],
     "input_price": 15000.0,
     "output_price": null,
-    "rank": 206,
+    "rank": 208,
     "conservative": 19.66,
     "mu": 23.03,
     "sigma": 1.12,
-    "ci_lower": 20.79,
+    "ci_lower": 20.78,
     "ci_upper": 25.27,
     "games_played": 18,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "wan-v3.0",
@@ -895,6 +1039,7 @@
     "license": "proprietary",
     "is_open": false,
     "input_modalities": [
+      "audio",
       "image",
       "text",
       "video"
@@ -926,6 +1071,7 @@
     "license": "proprietary",
     "is_open": false,
     "input_modalities": [
+      "audio",
       "image",
       "text",
       "video"
@@ -965,14 +1111,14 @@
     ],
     "input_price": 140000.0,
     "output_price": null,
-    "rank": 34,
-    "conservative": 45.07,
-    "mu": 50.19,
+    "rank": 36,
+    "conservative": 45.05,
+    "mu": 50.16,
     "sigma": 1.71,
-    "ci_lower": 46.78,
-    "ci_upper": 53.61,
+    "ci_lower": 46.75,
+    "ci_upper": 53.58,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "glm-5.3",
@@ -993,14 +1139,14 @@
     ],
     "input_price": 120000.0,
     "output_price": null,
-    "rank": 10,
-    "conservative": 52.09,
-    "mu": 55.48,
+    "rank": 12,
+    "conservative": 52.02,
+    "mu": 55.4,
     "sigma": 1.13,
-    "ci_lower": 53.22,
-    "ci_upper": 57.74,
+    "ci_lower": 53.15,
+    "ci_upper": 57.66,
     "games_played": 17,
-    "rank_delta_14d": -2
+    "rank_delta_14d": -4
   },
   {
     "model_id": "qwen3.8-27b",
@@ -1023,14 +1169,14 @@
     ],
     "input_price": 40000.0,
     "output_price": null,
-    "rank": 36,
-    "conservative": 44.8,
-    "mu": 47.82,
-    "sigma": 1.01,
-    "ci_lower": 45.8,
-    "ci_upper": 49.83,
+    "rank": 37,
+    "conservative": 44.75,
+    "mu": 47.76,
+    "sigma": 1.0,
+    "ci_lower": 45.75,
+    "ci_upper": 49.77,
     "games_played": 23,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -7
   },
   {
     "model_id": "deepseek-v4-pro-0813",
@@ -1051,12 +1197,12 @@
     ],
     "input_price": 44000.0,
     "output_price": null,
-    "rank": 14,
-    "conservative": 51.08,
-    "mu": 55.28,
+    "rank": 16,
+    "conservative": 50.99,
+    "mu": 55.18,
     "sigma": 1.4,
-    "ci_lower": 52.48,
-    "ci_upper": 58.08,
+    "ci_lower": 52.38,
+    "ci_upper": 57.97,
     "games_played": 11,
     "rank_delta_14d": -5
   },
@@ -1082,12 +1228,12 @@
     ],
     "input_price": 750000.0,
     "output_price": null,
-    "rank": 28,
-    "conservative": 47.66,
-    "mu": 51.4,
-    "sigma": 1.25,
-    "ci_lower": 48.91,
-    "ci_upper": 53.89,
+    "rank": 29,
+    "conservative": 47.63,
+    "mu": 51.35,
+    "sigma": 1.24,
+    "ci_lower": 48.87,
+    "ci_upper": 53.84,
     "games_played": 15,
     "rank_delta_14d": -8
   },
@@ -1111,14 +1257,14 @@
     ],
     "input_price": 500000.0,
     "output_price": null,
-    "rank": 30,
-    "conservative": 45.8,
-    "mu": 51.03,
+    "rank": 33,
+    "conservative": 45.66,
+    "mu": 50.89,
     "sigma": 1.74,
-    "ci_lower": 47.54,
-    "ci_upper": 54.51,
+    "ci_lower": 47.4,
+    "ci_upper": 54.37,
     "games_played": 8,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -9
   },
   {
     "model_id": "lfm-2.5-vl-3b",
@@ -1135,14 +1281,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 315,
+    "rank": 317,
     "conservative": 3.19,
-    "mu": 6.65,
+    "mu": 6.64,
     "sigma": 1.15,
     "ci_lower": 4.34,
     "ci_upper": 8.95,
     "games_played": 22,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "north-micro-vision-instruct",
@@ -1159,14 +1305,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 361,
+    "rank": 363,
     "conservative": -5.12,
     "mu": -1.24,
     "sigma": 1.29,
     "ci_lower": -3.83,
     "ci_upper": 1.34,
     "games_played": 19,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ltx-2.5-fast",
@@ -1246,14 +1392,14 @@
     ],
     "input_price": 20000.0,
     "output_price": null,
-    "rank": 144,
-    "conservative": 27.77,
-    "mu": 36.33,
+    "rank": 146,
+    "conservative": 27.75,
+    "mu": 36.31,
     "sigma": 2.85,
-    "ci_lower": 30.62,
-    "ci_upper": 42.04,
+    "ci_lower": 30.6,
+    "ci_upper": 42.02,
     "games_played": 2,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -12
   },
   {
     "model_id": "nemotron-3.5-lightning-30b-a3b",
@@ -1274,9 +1420,9 @@
     ],
     "input_price": 40000.0,
     "output_price": null,
-    "rank": 185,
+    "rank": 187,
     "conservative": 22.04,
-    "mu": 26.0,
+    "mu": 25.99,
     "sigma": 1.32,
     "ci_lower": 23.36,
     "ci_upper": 28.63,
@@ -1332,14 +1478,14 @@
     ],
     "input_price": 40000.0,
     "output_price": null,
-    "rank": 96,
-    "conservative": 34.87,
-    "mu": 38.07,
+    "rank": 98,
+    "conservative": 34.86,
+    "mu": 38.05,
     "sigma": 1.06,
-    "ci_lower": 35.94,
-    "ci_upper": 40.2,
+    "ci_lower": 35.92,
+    "ci_upper": 40.18,
     "games_played": 19,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-imagine-image-2.0",
@@ -1389,14 +1535,14 @@
     ],
     "input_price": 60000.0,
     "output_price": null,
-    "rank": 94,
-    "conservative": 35.15,
-    "mu": 39.49,
+    "rank": 96,
+    "conservative": 35.14,
+    "mu": 39.48,
     "sigma": 1.45,
-    "ci_lower": 36.6,
-    "ci_upper": 42.38,
+    "ci_lower": 36.59,
+    "ci_upper": 42.37,
     "games_played": 9,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "muse-spark-1.2",
@@ -1419,14 +1565,14 @@
     ],
     "input_price": 2000.0,
     "output_price": null,
-    "rank": 70,
-    "conservative": 38.35,
-    "mu": 46.9,
+    "rank": 73,
+    "conservative": 38.22,
+    "mu": 46.77,
     "sigma": 2.85,
-    "ci_lower": 41.2,
-    "ci_upper": 52.61,
+    "ci_lower": 41.07,
+    "ci_upper": 52.47,
     "games_played": 2,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -19
   },
   {
     "model_id": "flux-3-video",
@@ -1474,14 +1620,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 214,
+    "rank": 216,
     "conservative": 19.0,
-    "mu": 24.1,
+    "mu": 24.09,
     "sigma": 1.7,
     "ci_lower": 20.7,
     "ci_upper": 27.49,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ling-3.0-flash",
@@ -1502,14 +1648,14 @@
     ],
     "input_price": 12000.0,
     "output_price": null,
-    "rank": 84,
-    "conservative": 36.25,
-    "mu": 39.54,
+    "rank": 86,
+    "conservative": 36.23,
+    "mu": 39.52,
     "sigma": 1.1,
-    "ci_lower": 37.34,
-    "ci_upper": 41.73,
+    "ci_lower": 37.33,
+    "ci_upper": 41.72,
     "games_played": 19,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "qwen-image-3.0",
@@ -1574,14 +1720,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 344,
+    "rank": 346,
     "conservative": -2.36,
     "mu": 11.78,
     "sigma": 4.71,
     "ci_lower": 2.35,
     "ci_upper": 21.21,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3.8-2.4t-a95b",
@@ -1627,14 +1773,14 @@
     ],
     "input_price": 150000.0,
     "output_price": null,
-    "rank": 54,
-    "conservative": 42.1,
-    "mu": 49.89,
+    "rank": 56,
+    "conservative": 42.09,
+    "mu": 49.88,
     "sigma": 2.6,
     "ci_lower": 44.69,
-    "ci_upper": 55.08,
+    "ci_upper": 55.07,
     "games_played": 3,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -8
   },
   {
     "model_id": "qwen3.8-max",
@@ -1657,14 +1803,14 @@
     ],
     "input_price": 200000.0,
     "output_price": null,
-    "rank": 12,
-    "conservative": 51.49,
-    "mu": 54.36,
-    "sigma": 0.96,
-    "ci_lower": 52.45,
+    "rank": 14,
+    "conservative": 51.52,
+    "mu": 54.37,
+    "sigma": 0.95,
+    "ci_lower": 52.47,
     "ci_upper": 56.27,
     "games_played": 33,
-    "rank_delta_14d": -2
+    "rank_delta_14d": -4
   },
   {
     "model_id": "deepseek-v4-flash-0731",
@@ -1685,12 +1831,12 @@
     ],
     "input_price": 15000.0,
     "output_price": null,
-    "rank": 43,
-    "conservative": 43.84,
-    "mu": 48.62,
+    "rank": 44,
+    "conservative": 43.81,
+    "mu": 48.59,
     "sigma": 1.59,
-    "ci_lower": 45.44,
-    "ci_upper": 51.81,
+    "ci_lower": 45.4,
+    "ci_upper": 51.77,
     "games_played": 8,
     "rank_delta_14d": -9
   },
@@ -1779,12 +1925,12 @@
     ],
     "input_price": 60000.0,
     "output_price": null,
-    "rank": 71,
-    "conservative": 38.34,
-    "mu": 41.35,
+    "rank": 72,
+    "conservative": 38.31,
+    "mu": 41.33,
     "sigma": 1.01,
-    "ci_lower": 39.34,
-    "ci_upper": 43.37,
+    "ci_lower": 39.31,
+    "ci_upper": 43.34,
     "games_played": 24,
     "rank_delta_14d": -9
   },
@@ -1808,14 +1954,14 @@
     ],
     "input_price": 500000.0,
     "output_price": null,
-    "rank": 3,
-    "conservative": 54.75,
-    "mu": 58.83,
-    "sigma": 1.36,
-    "ci_lower": 56.11,
-    "ci_upper": 61.55,
+    "rank": 4,
+    "conservative": 54.55,
+    "mu": 58.59,
+    "sigma": 1.34,
+    "ci_lower": 55.9,
+    "ci_upper": 61.28,
     "games_played": 12,
-    "rank_delta_14d": 1
+    "rank_delta_14d": 0
   },
   {
     "model_id": "gemini-3.5-flash-cyber",
@@ -1832,14 +1978,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 79,
-    "conservative": 36.62,
-    "mu": 48.27,
+    "rank": 81,
+    "conservative": 36.56,
+    "mu": 48.21,
     "sigma": 3.88,
-    "ci_lower": 40.51,
-    "ci_upper": 56.04,
+    "ci_lower": 40.45,
+    "ci_upper": 55.98,
     "games_played": 1,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -16
   },
   {
     "model_id": "gemini-3.5-flash-lite",
@@ -1863,14 +2009,14 @@
     ],
     "input_price": 300000.0,
     "output_price": null,
-    "rank": 130,
-    "conservative": 29.69,
-    "mu": 35.44,
+    "rank": 132,
+    "conservative": 29.65,
+    "mu": 35.4,
     "sigma": 1.92,
-    "ci_lower": 31.6,
-    "ci_upper": 39.27,
+    "ci_lower": 31.57,
+    "ci_upper": 39.23,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-3.6-flash",
@@ -1894,14 +2040,14 @@
     ],
     "input_price": 1500000.0,
     "output_price": null,
-    "rank": 48,
-    "conservative": 42.92,
-    "mu": 48.15,
+    "rank": 52,
+    "conservative": 42.83,
+    "mu": 48.05,
     "sigma": 1.74,
-    "ci_lower": 44.67,
-    "ci_upper": 51.64,
+    "ci_lower": 44.57,
+    "ci_upper": 51.54,
     "games_played": 6,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -13
   },
   {
     "model_id": "inkling",
@@ -1924,14 +2070,14 @@
     ],
     "input_price": 160000.0,
     "output_price": null,
-    "rank": 73,
-    "conservative": 37.21,
-    "mu": 41.02,
+    "rank": 75,
+    "conservative": 37.19,
+    "mu": 41.0,
     "sigma": 1.27,
-    "ci_lower": 38.48,
-    "ci_upper": 43.56,
+    "ci_lower": 38.46,
+    "ci_upper": 43.54,
     "games_played": 16,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "laguna-s-2.1",
@@ -1952,14 +2098,14 @@
     ],
     "input_price": 10000.0,
     "output_price": null,
-    "rank": 60,
-    "conservative": 40.34,
-    "mu": 45.83,
+    "rank": 62,
+    "conservative": 40.23,
+    "mu": 45.72,
     "sigma": 1.83,
-    "ci_lower": 42.17,
-    "ci_upper": 49.5,
+    "ci_lower": 42.06,
+    "ci_upper": 49.38,
     "games_played": 6,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-4.5",
@@ -1981,14 +2127,14 @@
     ],
     "input_price": 300000.0,
     "output_price": null,
-    "rank": 39,
-    "conservative": 44.57,
-    "mu": 48.77,
+    "rank": 41,
+    "conservative": 44.44,
+    "mu": 48.63,
     "sigma": 1.4,
-    "ci_lower": 45.97,
-    "ci_upper": 51.57,
+    "ci_lower": 45.84,
+    "ci_upper": 51.43,
     "games_played": 12,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -12
   },
   {
     "model_id": "kimi-k3",
@@ -2011,14 +2157,14 @@
     ],
     "input_price": 285000.0,
     "output_price": null,
-    "rank": 9,
-    "conservative": 52.49,
-    "mu": 55.42,
-    "sigma": 0.98,
-    "ci_lower": 53.47,
-    "ci_upper": 57.38,
+    "rank": 10,
+    "conservative": 52.41,
+    "mu": 55.33,
+    "sigma": 0.97,
+    "ci_lower": 53.39,
+    "ci_upper": 57.28,
     "games_played": 26,
-    "rank_delta_14d": -2
+    "rank_delta_14d": -3
   },
   {
     "model_id": "gpt-5.6-luna",
@@ -2040,14 +2186,14 @@
     ],
     "input_price": 20000.0,
     "output_price": null,
-    "rank": 35,
-    "conservative": 44.86,
-    "mu": 47.54,
+    "rank": 40,
+    "conservative": 44.68,
+    "mu": 47.35,
     "sigma": 0.89,
-    "ci_lower": 45.75,
-    "ci_upper": 49.33,
+    "ci_lower": 45.57,
+    "ci_upper": 49.13,
     "games_played": 45,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-5.6-sol",
@@ -2069,14 +2215,14 @@
     ],
     "input_price": 500000.0,
     "output_price": null,
-    "rank": 5,
-    "conservative": 54.44,
-    "mu": 57.07,
-    "sigma": 0.88,
-    "ci_lower": 55.32,
-    "ci_upper": 58.83,
+    "rank": 6,
+    "conservative": 54.06,
+    "mu": 56.66,
+    "sigma": 0.87,
+    "ci_lower": 54.92,
+    "ci_upper": 58.39,
     "games_played": 45,
-    "rank_delta_14d": -2
+    "rank_delta_14d": -3
   },
   {
     "model_id": "gpt-5.6-terra",
@@ -2098,14 +2244,14 @@
     ],
     "input_price": 200000.0,
     "output_price": null,
-    "rank": 16,
-    "conservative": 50.34,
-    "mu": 52.85,
+    "rank": 19,
+    "conservative": 50.1,
+    "mu": 52.61,
     "sigma": 0.84,
-    "ci_lower": 51.18,
-    "ci_upper": 54.53,
+    "ci_lower": 50.93,
+    "ci_upper": 54.28,
     "games_played": 45,
-    "rank_delta_14d": -2
+    "rank_delta_14d": -4
   },
   {
     "model_id": "muse-spark-1.1",
@@ -2128,12 +2274,12 @@
     ],
     "input_price": 150000.0,
     "output_price": null,
-    "rank": 22,
-    "conservative": 49.24,
-    "mu": 53.25,
+    "rank": 23,
+    "conservative": 49.16,
+    "mu": 53.17,
     "sigma": 1.34,
-    "ci_lower": 50.58,
-    "ci_upper": 55.93,
+    "ci_lower": 50.5,
+    "ci_upper": 55.84,
     "games_played": 11,
     "rank_delta_14d": -5
   },
@@ -2185,14 +2331,14 @@
     ],
     "input_price": 35000.0,
     "output_price": null,
-    "rank": 49,
-    "conservative": 42.92,
-    "mu": 45.8,
+    "rank": 51,
+    "conservative": 42.86,
+    "mu": 45.74,
     "sigma": 0.96,
-    "ci_lower": 43.88,
-    "ci_upper": 47.73,
+    "ci_lower": 43.82,
+    "ci_upper": 47.66,
     "games_played": 29,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "bria-background-removal",
@@ -2355,14 +2501,14 @@
     ],
     "input_price": 50000.0,
     "output_price": null,
-    "rank": 169,
-    "conservative": 24.36,
-    "mu": 30.7,
-    "sigma": 2.12,
-    "ci_lower": 26.47,
-    "ci_upper": 34.93,
+    "rank": 171,
+    "conservative": 24.35,
+    "mu": 30.69,
+    "sigma": 2.11,
+    "ci_lower": 26.46,
+    "ci_upper": 34.92,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-sonnet-5",
@@ -2384,12 +2530,12 @@
     ],
     "input_price": 200000.0,
     "output_price": null,
-    "rank": 26,
-    "conservative": 47.9,
-    "mu": 50.99,
-    "sigma": 1.03,
-    "ci_lower": 48.93,
-    "ci_upper": 53.05,
+    "rank": 27,
+    "conservative": 47.78,
+    "mu": 50.85,
+    "sigma": 1.02,
+    "ci_lower": 48.8,
+    "ci_upper": 52.9,
     "games_played": 22,
     "rank_delta_14d": -5
   },
@@ -2438,14 +2584,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 29,
-    "conservative": 46.11,
-    "mu": 48.45,
+    "rank": 31,
+    "conservative": 46.1,
+    "mu": 48.43,
     "sigma": 0.78,
-    "ci_lower": 46.89,
-    "ci_upper": 50.01,
+    "ci_lower": 46.88,
+    "ci_upper": 49.99,
     "games_played": 69,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -6
   },
   {
     "model_id": "seed-2.1-turbo",
@@ -2462,14 +2608,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 46,
-    "conservative": 43.04,
-    "mu": 45.36,
+    "rank": 48,
+    "conservative": 43.03,
+    "mu": 45.34,
     "sigma": 0.77,
-    "ci_lower": 43.81,
-    "ci_upper": 46.9,
+    "ci_lower": 43.8,
+    "ci_upper": 46.89,
     "games_played": 68,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -7
   },
   {
     "model_id": "glm-5.2",
@@ -2490,14 +2636,14 @@
     ],
     "input_price": 140000.0,
     "output_price": null,
-    "rank": 33,
-    "conservative": 45.27,
-    "mu": 48.45,
+    "rank": 35,
+    "conservative": 45.21,
+    "mu": 48.38,
     "sigma": 1.06,
-    "ci_lower": 46.33,
-    "ci_upper": 50.57,
+    "ci_lower": 46.27,
+    "ci_upper": 50.49,
     "games_played": 19,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -8
   },
   {
     "model_id": "grok-imagine-video-1.5",
@@ -2551,14 +2697,14 @@
     ],
     "input_price": 136000.0,
     "output_price": null,
-    "rank": 63,
-    "conservative": 39.29,
-    "mu": 44.65,
-    "sigma": 1.79,
-    "ci_lower": 41.08,
-    "ci_upper": 48.22,
+    "rank": 65,
+    "conservative": 39.23,
+    "mu": 44.58,
+    "sigma": 1.78,
+    "ci_lower": 41.01,
+    "ci_upper": 48.15,
     "games_played": 7,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -8
   },
   {
     "model_id": "diffusiongemma-26b-a4b-it",
@@ -2575,14 +2721,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 211,
+    "rank": 213,
     "conservative": 19.42,
     "mu": 23.25,
     "sigma": 1.28,
     "ci_lower": 20.69,
-    "ci_upper": 25.81,
+    "ci_upper": 25.8,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "step-3.7-flash",
@@ -2605,14 +2751,14 @@
     ],
     "input_price": 40000.0,
     "output_price": null,
-    "rank": 127,
-    "conservative": 29.99,
-    "mu": 37.04,
+    "rank": 129,
+    "conservative": 29.95,
+    "mu": 36.99,
     "sigma": 2.35,
-    "ci_lower": 32.34,
-    "ci_upper": 41.73,
+    "ci_lower": 32.3,
+    "ci_upper": 41.69,
     "games_played": 4,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "claude-fable-5",
@@ -2634,14 +2780,14 @@
     ],
     "input_price": 1000000.0,
     "output_price": null,
-    "rank": 7,
-    "conservative": 53.95,
-    "mu": 57.35,
-    "sigma": 1.13,
-    "ci_lower": 55.09,
-    "ci_upper": 59.61,
+    "rank": 9,
+    "conservative": 53.67,
+    "mu": 57.03,
+    "sigma": 1.12,
+    "ci_lower": 54.79,
+    "ci_upper": 59.26,
     "games_played": 18,
-    "rank_delta_14d": -1
+    "rank_delta_14d": -3
   },
   {
     "model_id": "north-mini-code-1.0",
@@ -2658,14 +2804,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 187,
-    "conservative": 21.96,
-    "mu": 27.73,
+    "rank": 189,
+    "conservative": 21.95,
+    "mu": 27.72,
     "sigma": 1.92,
-    "ci_lower": 23.88,
-    "ci_upper": 31.57,
+    "ci_lower": 23.87,
+    "ci_upper": 31.56,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "u2",
@@ -2687,14 +2833,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 182,
-    "conservative": 23.34,
-    "mu": 27.1,
+    "rank": 184,
+    "conservative": 23.35,
+    "mu": 27.11,
     "sigma": 1.25,
     "ci_lower": 24.6,
     "ci_upper": 29.61,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "nemotron-3-ultra-550b-a55b",
@@ -2716,14 +2862,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 85,
-    "conservative": 36.18,
-    "mu": 39.2,
+    "rank": 87,
+    "conservative": 36.16,
+    "mu": 39.18,
     "sigma": 1.01,
-    "ci_lower": 37.19,
-    "ci_upper": 41.22,
+    "ci_lower": 37.17,
+    "ci_upper": 41.2,
     "games_played": 25,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mai-code-1-flash",
@@ -2740,14 +2886,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 136,
-    "conservative": 29.09,
-    "mu": 33.15,
+    "rank": 138,
+    "conservative": 29.08,
+    "mu": 33.14,
     "sigma": 1.35,
-    "ci_lower": 30.44,
-    "ci_upper": 35.85,
+    "ci_lower": 30.43,
+    "ci_upper": 35.84,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mai-image-2.5",
@@ -2793,14 +2939,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 108,
-    "conservative": 32.96,
-    "mu": 36.32,
+    "rank": 110,
+    "conservative": 32.95,
+    "mu": 36.3,
     "sigma": 1.12,
-    "ci_lower": 34.08,
-    "ci_upper": 38.56,
+    "ci_lower": 34.07,
+    "ci_upper": 38.54,
     "games_played": 18,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "minimax-m3",
@@ -2823,12 +2969,12 @@
     ],
     "input_price": 56000.0,
     "output_price": null,
-    "rank": 58,
-    "conservative": 41.18,
-    "mu": 44.26,
+    "rank": 60,
+    "conservative": 41.15,
+    "mu": 44.22,
     "sigma": 1.03,
-    "ci_lower": 42.2,
-    "ci_upper": 46.31,
+    "ci_lower": 42.17,
+    "ci_upper": 46.28,
     "games_played": 24,
     "rank_delta_14d": -9
   },
@@ -2881,14 +3027,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 52,
-    "conservative": 42.51,
-    "mu": 44.72,
+    "rank": 54,
+    "conservative": 42.49,
+    "mu": 44.7,
     "sigma": 0.74,
-    "ci_lower": 43.25,
-    "ci_upper": 46.2,
+    "ci_lower": 43.22,
+    "ci_upper": 46.18,
     "games_played": 59,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "claude-opus-4-8",
@@ -2910,12 +3056,12 @@
     ],
     "input_price": 500000.0,
     "output_price": null,
-    "rank": 17,
-    "conservative": 50.27,
-    "mu": 53.03,
-    "sigma": 0.92,
-    "ci_lower": 51.19,
-    "ci_upper": 54.86,
+    "rank": 18,
+    "conservative": 50.17,
+    "mu": 52.92,
+    "sigma": 0.91,
+    "ci_lower": 51.09,
+    "ci_upper": 54.75,
     "games_played": 27,
     "rank_delta_14d": -4
   },
@@ -2934,14 +3080,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 186,
-    "conservative": 21.98,
+    "rank": 188,
+    "conservative": 21.97,
     "mu": 25.53,
     "sigma": 1.19,
     "ci_lower": 23.16,
-    "ci_upper": 27.91,
+    "ci_upper": 27.9,
     "games_played": 15,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "command-a-plus-05-2026",
@@ -2958,14 +3104,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 174,
-    "conservative": 24.02,
+    "rank": 176,
+    "conservative": 24.01,
     "mu": 28.15,
     "sigma": 1.38,
     "ci_lower": 25.39,
     "ci_upper": 30.9,
     "games_played": 10,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-3.5-flash",
@@ -2989,14 +3135,14 @@
     ],
     "input_price": 1500000.0,
     "output_price": null,
-    "rank": 53,
-    "conservative": 42.41,
-    "mu": 45.57,
+    "rank": 55,
+    "conservative": 42.37,
+    "mu": 45.53,
     "sigma": 1.05,
-    "ci_lower": 43.47,
-    "ci_upper": 47.68,
+    "ci_lower": 43.43,
+    "ci_upper": 47.64,
     "games_played": 18,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "qwen3.7-max",
@@ -3017,14 +3163,14 @@
     ],
     "input_price": 250000.0,
     "output_price": null,
-    "rank": 32,
-    "conservative": 45.4,
-    "mu": 47.95,
+    "rank": 34,
+    "conservative": 45.38,
+    "mu": 47.92,
     "sigma": 0.85,
-    "ci_lower": 46.25,
-    "ci_upper": 49.64,
+    "ci_lower": 46.23,
+    "ci_upper": 49.62,
     "games_played": 37,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -6
   },
   {
     "model_id": "grok-4.3",
@@ -3045,14 +3191,14 @@
     ],
     "input_price": 1250000.0,
     "output_price": null,
-    "rank": 183,
-    "conservative": 22.21,
-    "mu": 33.82,
+    "rank": 185,
+    "conservative": 22.19,
+    "mu": 33.8,
     "sigma": 3.87,
-    "ci_lower": 26.08,
-    "ci_upper": 41.56,
+    "ci_lower": 26.06,
+    "ci_upper": 41.54,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.5-instant",
@@ -3074,14 +3220,14 @@
     ],
     "input_price": 5000000.0,
     "output_price": null,
-    "rank": 112,
-    "conservative": 32.21,
-    "mu": 37.0,
-    "sigma": 1.6,
-    "ci_lower": 33.81,
-    "ci_upper": 40.19,
+    "rank": 114,
+    "conservative": 32.24,
+    "mu": 37.02,
+    "sigma": 1.59,
+    "ci_lower": 33.83,
+    "ci_upper": 40.2,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-medium-3-5",
@@ -3103,14 +3249,14 @@
     ],
     "input_price": 1500000.0,
     "output_price": null,
-    "rank": 151,
-    "conservative": 26.86,
-    "mu": 31.63,
+    "rank": 153,
+    "conservative": 26.85,
+    "mu": 31.62,
     "sigma": 1.59,
-    "ci_lower": 28.45,
-    "ci_upper": 34.81,
+    "ci_lower": 28.44,
+    "ci_upper": 34.8,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "seed-2.0-code",
@@ -3162,14 +3308,14 @@
     ],
     "input_price": 4300.0,
     "output_price": null,
-    "rank": 159,
-    "conservative": 25.7,
-    "mu": 28.68,
+    "rank": 161,
+    "conservative": 25.69,
+    "mu": 28.67,
     "sigma": 0.99,
-    "ci_lower": 26.69,
-    "ci_upper": 30.66,
+    "ci_lower": 26.68,
+    "ci_upper": 30.65,
     "games_played": 28,
-    "rank_delta_14d": -1
+    "rank_delta_14d": -2
   },
   {
     "model_id": "happyhorse-1.0",
@@ -3220,14 +3366,14 @@
     ],
     "input_price": 18000.0,
     "output_price": null,
-    "rank": 87,
-    "conservative": 36.06,
-    "mu": 39.22,
+    "rank": 89,
+    "conservative": 36.03,
+    "mu": 39.19,
     "sigma": 1.05,
-    "ci_lower": 37.11,
-    "ci_upper": 41.32,
+    "ci_lower": 37.08,
+    "ci_upper": 41.29,
     "games_played": 19,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "deepseek-v4-flash-max",
@@ -3248,14 +3394,14 @@
     ],
     "input_price": 18000.0,
     "output_price": null,
-    "rank": 65,
-    "conservative": 39.06,
-    "mu": 42.21,
+    "rank": 67,
+    "conservative": 39.03,
+    "mu": 42.18,
     "sigma": 1.05,
-    "ci_lower": 40.11,
-    "ci_upper": 44.3,
+    "ci_lower": 40.08,
+    "ci_upper": 44.27,
     "games_played": 19,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -8
   },
   {
     "model_id": "deepseek-v4-pro-max",
@@ -3276,14 +3422,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 47,
-    "conservative": 43.0,
-    "mu": 46.06,
+    "rank": 49,
+    "conservative": 42.97,
+    "mu": 46.02,
     "sigma": 1.02,
-    "ci_lower": 44.02,
-    "ci_upper": 48.09,
+    "ci_lower": 43.98,
+    "ci_upper": 48.05,
     "games_played": 22,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -7
   },
   {
     "model_id": "gpt-5.5",
@@ -3305,12 +3451,12 @@
     ],
     "input_price": 500000.0,
     "output_price": null,
-    "rank": 27,
-    "conservative": 47.78,
-    "mu": 50.6,
+    "rank": 28,
+    "conservative": 47.72,
+    "mu": 50.53,
     "sigma": 0.94,
-    "ci_lower": 48.72,
-    "ci_upper": 52.48,
+    "ci_lower": 48.66,
+    "ci_upper": 52.41,
     "games_played": 26,
     "rank_delta_14d": -5
   },
@@ -3334,12 +3480,12 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 38,
-    "conservative": 44.71,
-    "mu": 51.52,
+    "rank": 39,
+    "conservative": 44.7,
+    "mu": 51.5,
     "sigma": 2.27,
-    "ci_lower": 46.98,
-    "ci_upper": 56.06,
+    "ci_lower": 46.96,
+    "ci_upper": 56.04,
     "games_played": 4,
     "rank_delta_14d": -5
   },
@@ -3365,14 +3511,14 @@
     ],
     "input_price": 3400.0,
     "output_price": null,
-    "rank": 86,
-    "conservative": 36.08,
-    "mu": 40.5,
+    "rank": 88,
+    "conservative": 36.06,
+    "mu": 40.48,
     "sigma": 1.47,
-    "ci_lower": 37.55,
-    "ci_upper": 43.45,
+    "ci_lower": 37.53,
+    "ci_upper": 43.42,
     "games_played": 10,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -6
   },
   {
     "model_id": "gpt-image-2",
@@ -3424,14 +3570,14 @@
     ],
     "input_price": 320000.0,
     "output_price": null,
-    "rank": 90,
-    "conservative": 35.5,
-    "mu": 37.8,
+    "rank": 92,
+    "conservative": 35.49,
+    "mu": 37.79,
     "sigma": 0.77,
-    "ci_lower": 36.27,
-    "ci_upper": 39.33,
+    "ci_lower": 36.26,
+    "ci_upper": 39.32,
     "games_played": 43,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "kimi-k2.6",
@@ -3454,14 +3600,14 @@
     ],
     "input_price": 150000.0,
     "output_price": null,
-    "rank": 44,
-    "conservative": 43.59,
-    "mu": 46.27,
+    "rank": 46,
+    "conservative": 43.56,
+    "mu": 46.24,
     "sigma": 0.89,
-    "ci_lower": 44.48,
-    "ci_upper": 48.05,
+    "ci_lower": 44.45,
+    "ci_upper": 48.02,
     "games_played": 28,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "claude-opus-4-7",
@@ -3483,12 +3629,12 @@
     ],
     "input_price": 5000000.0,
     "output_price": null,
-    "rank": 42,
-    "conservative": 43.89,
-    "mu": 46.85,
+    "rank": 43,
+    "conservative": 43.85,
+    "mu": 46.81,
     "sigma": 0.99,
-    "ci_lower": 44.88,
-    "ci_upper": 48.83,
+    "ci_lower": 44.84,
+    "ci_upper": 48.79,
     "games_played": 21,
     "rank_delta_14d": -7
   },
@@ -3513,14 +3659,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 111,
-    "conservative": 32.4,
-    "mu": 34.62,
+    "rank": 113,
+    "conservative": 32.39,
+    "mu": 34.61,
     "sigma": 0.74,
-    "ci_lower": 33.14,
-    "ci_upper": 36.1,
+    "ci_lower": 33.13,
+    "ci_upper": 36.09,
     "games_played": 49,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "wan-v2.7",
@@ -3534,6 +3680,7 @@
     "license": "apache_2_0",
     "is_open": true,
     "input_modalities": [
+      "audio",
       "image",
       "text",
       "video"
@@ -3568,14 +3715,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 158,
+    "rank": 160,
     "conservative": 25.98,
     "mu": 29.38,
     "sigma": 1.13,
-    "ci_lower": 27.12,
-    "ci_upper": 31.65,
+    "ci_lower": 27.11,
+    "ci_upper": 31.64,
     "games_played": 15,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "muse-spark",
@@ -3592,14 +3739,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 56,
-    "conservative": 41.62,
-    "mu": 44.92,
+    "rank": 58,
+    "conservative": 41.69,
+    "mu": 44.99,
     "sigma": 1.1,
-    "ci_lower": 42.72,
-    "ci_upper": 47.12,
+    "ci_lower": 42.79,
+    "ci_upper": 47.19,
     "games_played": 18,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "claude-mythos-preview",
@@ -3621,12 +3768,12 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 6,
-    "conservative": 54.33,
-    "mu": 58.34,
-    "sigma": 1.34,
+    "rank": 5,
+    "conservative": 54.35,
+    "mu": 58.31,
+    "sigma": 1.32,
     "ci_lower": 55.67,
-    "ci_upper": 61.01,
+    "ci_upper": 60.94,
     "games_played": 15,
     "rank_delta_14d": null
   },
@@ -3649,14 +3796,14 @@
     ],
     "input_price": 205000.0,
     "output_price": null,
-    "rank": 64,
-    "conservative": 39.1,
-    "mu": 42.28,
+    "rank": 66,
+    "conservative": 39.07,
+    "mu": 42.25,
     "sigma": 1.06,
-    "ci_lower": 40.16,
-    "ci_upper": 44.39,
+    "ci_lower": 40.13,
+    "ci_upper": 44.36,
     "games_played": 18,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -8
   },
   {
     "model_id": "gemma-4-26b-a4b-it",
@@ -3678,14 +3825,14 @@
     ],
     "input_price": 70000.0,
     "output_price": null,
-    "rank": 132,
-    "conservative": 29.55,
+    "rank": 135,
+    "conservative": 29.54,
     "mu": 33.38,
     "sigma": 1.28,
-    "ci_lower": 30.83,
+    "ci_lower": 30.82,
     "ci_upper": 35.94,
     "games_played": 12,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -12
   },
   {
     "model_id": "gemma-4-31b-it",
@@ -3709,14 +3856,14 @@
     ],
     "input_price": 50000.0,
     "output_price": null,
-    "rank": 107,
-    "conservative": 33.08,
-    "mu": 36.58,
+    "rank": 109,
+    "conservative": 33.1,
+    "mu": 36.61,
     "sigma": 1.17,
-    "ci_lower": 34.25,
-    "ci_upper": 38.92,
+    "ci_lower": 34.27,
+    "ci_upper": 38.94,
     "games_played": 15,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-4-e2b-it",
@@ -3733,14 +3880,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 297,
-    "conservative": 6.73,
+    "rank": 299,
+    "conservative": 6.72,
     "mu": 11.14,
     "sigma": 1.47,
     "ci_lower": 8.2,
     "ci_upper": 14.09,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-4-e4b-it",
@@ -3761,14 +3908,14 @@
     ],
     "input_price": 20000.0,
     "output_price": null,
-    "rank": 248,
-    "conservative": 13.8,
+    "rank": 250,
+    "conservative": 13.79,
     "mu": 18.04,
-    "sigma": 1.42,
+    "sigma": 1.41,
     "ci_lower": 15.21,
     "ci_upper": 20.87,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -11
   },
   {
     "model_id": "glm-5v-turbo",
@@ -3791,14 +3938,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 125,
-    "conservative": 30.26,
-    "mu": 35.39,
+    "rank": 127,
+    "conservative": 30.25,
+    "mu": 35.38,
     "sigma": 1.71,
-    "ci_lower": 31.97,
-    "ci_upper": 38.81,
+    "ci_lower": 31.96,
+    "ci_upper": 38.8,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3.6-plus",
@@ -3821,14 +3968,14 @@
     ],
     "input_price": 50000.0,
     "output_price": null,
-    "rank": 62,
-    "conservative": 39.36,
-    "mu": 41.47,
+    "rank": 64,
+    "conservative": 39.35,
+    "mu": 41.45,
     "sigma": 0.7,
-    "ci_lower": 40.06,
-    "ci_upper": 42.88,
+    "ci_lower": 40.05,
+    "ci_upper": 42.86,
     "games_played": 64,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -8
   },
   {
     "model_id": "seedance-2.0-fast",
@@ -3872,6 +4019,7 @@
     "license": "proprietary",
     "is_open": false,
     "input_modalities": [
+      "audio",
       "image",
       "text",
       "video"
@@ -3913,14 +4061,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 148,
-    "conservative": 27.54,
-    "mu": 35.08,
+    "rank": 150,
+    "conservative": 27.53,
+    "mu": 35.07,
     "sigma": 2.51,
     "ci_lower": 30.05,
-    "ci_upper": 40.11,
+    "ci_upper": 40.1,
     "games_played": 3,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mimo-v2-pro",
@@ -3941,14 +4089,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 89,
-    "conservative": 35.59,
-    "mu": 40.55,
+    "rank": 91,
+    "conservative": 35.58,
+    "mu": 40.53,
     "sigma": 1.65,
-    "ci_lower": 37.24,
-    "ci_upper": 43.85,
+    "ci_lower": 37.23,
+    "ci_upper": 43.84,
     "games_played": 7,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "minimax-m2.7",
@@ -3969,14 +4117,14 @@
     ],
     "input_price": 60000.0,
     "output_price": null,
-    "rank": 91,
-    "conservative": 35.33,
-    "mu": 40.17,
+    "rank": 94,
+    "conservative": 35.29,
+    "mu": 40.12,
     "sigma": 1.61,
-    "ci_lower": 36.94,
-    "ci_upper": 43.39,
+    "ci_lower": 36.9,
+    "ci_upper": 43.34,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gpt-5.4-mini",
@@ -3998,14 +4146,14 @@
     ],
     "input_price": 750000.0,
     "output_price": null,
-    "rank": 126,
+    "rank": 128,
     "conservative": 30.05,
     "mu": 33.12,
     "sigma": 1.02,
     "ci_lower": 31.07,
     "ci_upper": 35.17,
     "games_played": 20,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-5.4-nano",
@@ -4027,14 +4175,14 @@
     ],
     "input_price": 200000.0,
     "output_price": null,
-    "rank": 156,
-    "conservative": 26.57,
+    "rank": 158,
+    "conservative": 26.58,
     "mu": 29.64,
     "sigma": 1.02,
-    "ci_lower": 27.59,
+    "ci_lower": 27.6,
     "ci_upper": 31.68,
     "games_played": 21,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-small-latest",
@@ -4056,14 +4204,14 @@
     ],
     "input_price": 150000.0,
     "output_price": null,
-    "rank": 215,
+    "rank": 217,
     "conservative": 18.99,
-    "mu": 23.36,
+    "mu": 23.35,
     "sigma": 1.46,
-    "ci_lower": 20.45,
+    "ci_lower": 20.44,
     "ci_upper": 26.27,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "nemotron-3-super-120b-a12b",
@@ -4084,14 +4232,14 @@
     ],
     "input_price": 85000.0,
     "output_price": null,
-    "rank": 153,
-    "conservative": 26.79,
-    "mu": 29.65,
+    "rank": 155,
+    "conservative": 26.78,
+    "mu": 29.64,
     "sigma": 0.95,
     "ci_lower": 27.74,
-    "ci_upper": 31.55,
+    "ci_upper": 31.54,
     "games_played": 23,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ltx-2-19b",
@@ -4144,14 +4292,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 351,
+    "rank": 353,
     "conservative": -3.46,
     "mu": 12.74,
     "sigma": 5.4,
     "ci_lower": 1.94,
     "ci_upper": 23.54,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-4.20-beta-0309-reasoning",
@@ -4173,14 +4321,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 178,
-    "conservative": 23.73,
-    "mu": 32.57,
-    "sigma": 2.95,
-    "ci_lower": 26.68,
-    "ci_upper": 38.46,
+    "rank": 180,
+    "conservative": 23.71,
+    "mu": 32.55,
+    "sigma": 2.94,
+    "ci_lower": 26.66,
+    "ci_upper": 38.44,
     "games_played": 2,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "grok-4.20-multi-agent-beta-0309",
@@ -4226,14 +4374,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 160,
-    "conservative": 25.69,
+    "rank": 162,
+    "conservative": 25.68,
     "mu": 29.19,
     "sigma": 1.17,
     "ci_lower": 26.85,
     "ci_upper": 31.53,
     "games_played": 14,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "sarvam-30b",
@@ -4250,14 +4398,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 208,
+    "rank": 210,
     "conservative": 19.54,
     "mu": 23.16,
     "sigma": 1.21,
     "ci_lower": 20.75,
-    "ci_upper": 25.58,
+    "ci_upper": 25.57,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.4",
@@ -4279,14 +4427,14 @@
     ],
     "input_price": 2500000.0,
     "output_price": null,
-    "rank": 55,
-    "conservative": 41.95,
-    "mu": 44.7,
+    "rank": 57,
+    "conservative": 41.91,
+    "mu": 44.66,
     "sigma": 0.92,
-    "ci_lower": 42.87,
-    "ci_upper": 46.54,
+    "ci_lower": 42.83,
+    "ci_upper": 46.5,
     "games_played": 27,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.3-chat-latest",
@@ -4308,14 +4456,14 @@
     ],
     "input_price": 1750000.0,
     "output_price": null,
-    "rank": 134,
-    "conservative": 29.46,
-    "mu": 38.93,
-    "sigma": 3.15,
-    "ci_lower": 32.62,
-    "ci_upper": 45.24,
+    "rank": 133,
+    "conservative": 29.6,
+    "mu": 39.03,
+    "sigma": 3.14,
+    "ci_lower": 32.74,
+    "ci_upper": 45.31,
     "games_played": 2,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -8
   },
   {
     "model_id": "gemini-3.1-flash-lite-preview",
@@ -4339,14 +4487,14 @@
     ],
     "input_price": 250000.0,
     "output_price": null,
-    "rank": 120,
-    "conservative": 30.88,
+    "rank": 122,
+    "conservative": 30.87,
     "mu": 34.41,
     "sigma": 1.18,
-    "ci_lower": 32.06,
-    "ci_upper": 36.77,
+    "ci_lower": 32.05,
+    "ci_upper": 36.76,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3.5-0.8b",
@@ -4363,14 +4511,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 368,
-    "conservative": -6.17,
-    "mu": -1.78,
+    "rank": 370,
+    "conservative": -6.19,
+    "mu": -1.8,
     "sigma": 1.46,
-    "ci_lower": -4.71,
-    "ci_upper": 1.15,
+    "ci_lower": -4.72,
+    "ci_upper": 1.13,
     "games_played": 20,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3.5-2b",
@@ -4387,14 +4535,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 311,
-    "conservative": 3.83,
-    "mu": 7.5,
+    "rank": 313,
+    "conservative": 3.82,
+    "mu": 7.49,
     "sigma": 1.22,
-    "ci_lower": 5.05,
-    "ci_upper": 9.95,
+    "ci_lower": 5.04,
+    "ci_upper": 9.94,
     "games_played": 20,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3.5-4b",
@@ -4411,14 +4559,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 209,
-    "conservative": 19.51,
-    "mu": 22.47,
+    "rank": 212,
+    "conservative": 19.5,
+    "mu": 22.46,
     "sigma": 0.99,
     "ci_lower": 20.49,
     "ci_upper": 24.44,
     "games_played": 25,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -11
   },
   {
     "model_id": "qwen3.5-9b",
@@ -4441,14 +4589,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 167,
-    "conservative": 24.72,
-    "mu": 27.55,
+    "rank": 169,
+    "conservative": 24.71,
+    "mu": 27.54,
     "sigma": 0.94,
     "ci_lower": 25.66,
-    "ci_upper": 29.44,
+    "ci_upper": 29.43,
     "games_played": 25,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gemini-3.1-flash-image-preview",
@@ -4498,14 +4646,14 @@
     ],
     "input_price": 250000.0,
     "output_price": null,
-    "rank": 179,
+    "rank": 181,
     "conservative": 23.55,
-    "mu": 28.73,
+    "mu": 28.72,
     "sigma": 1.73,
-    "ci_lower": 25.28,
+    "ci_lower": 25.27,
     "ci_upper": 32.18,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3.5-122b-a10b",
@@ -4528,14 +4676,14 @@
     ],
     "input_price": 290000.0,
     "output_price": null,
-    "rank": 95,
+    "rank": 97,
     "conservative": 35.0,
-    "mu": 37.05,
+    "mu": 37.04,
     "sigma": 0.68,
-    "ci_lower": 35.69,
-    "ci_upper": 38.42,
+    "ci_lower": 35.68,
+    "ci_upper": 38.41,
     "games_played": 81,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3.5-27b",
@@ -4558,14 +4706,14 @@
     ],
     "input_price": 260000.0,
     "output_price": null,
-    "rank": 101,
-    "conservative": 33.92,
-    "mu": 35.94,
+    "rank": 103,
+    "conservative": 33.91,
+    "mu": 35.93,
     "sigma": 0.67,
     "ci_lower": 34.59,
-    "ci_upper": 37.29,
+    "ci_upper": 37.28,
     "games_played": 82,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3.5-35b-a3b",
@@ -4588,14 +4736,14 @@
     ],
     "input_price": 50000.0,
     "output_price": null,
-    "rank": 121,
+    "rank": 123,
     "conservative": 30.84,
-    "mu": 32.91,
+    "mu": 32.9,
     "sigma": 0.69,
-    "ci_lower": 31.53,
-    "ci_upper": 34.28,
+    "ci_lower": 31.52,
+    "ci_upper": 34.27,
     "games_played": 81,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-3.1-pro-preview",
@@ -4619,14 +4767,14 @@
     ],
     "input_price": 2000000.0,
     "output_price": null,
-    "rank": 45,
-    "conservative": 43.19,
-    "mu": 46.22,
+    "rank": 47,
+    "conservative": 43.2,
+    "mu": 46.23,
     "sigma": 1.01,
-    "ci_lower": 44.2,
-    "ci_upper": 48.24,
+    "ci_lower": 44.21,
+    "ci_upper": 48.25,
     "games_played": 21,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -9
   },
   {
     "model_id": "claude-sonnet-4-6",
@@ -4650,14 +4798,14 @@
     ],
     "input_price": 3000000.0,
     "output_price": null,
-    "rank": 76,
-    "conservative": 36.92,
-    "mu": 39.81,
+    "rank": 78,
+    "conservative": 36.91,
+    "mu": 39.8,
     "sigma": 0.96,
-    "ci_lower": 37.89,
-    "ci_upper": 41.74,
+    "ci_lower": 37.87,
+    "ci_upper": 41.72,
     "games_played": 22,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "seed-1.8",
@@ -4680,14 +4828,14 @@
     ],
     "input_price": 50000.0,
     "output_price": null,
-    "rank": 99,
-    "conservative": 34.15,
+    "rank": 101,
+    "conservative": 34.14,
     "mu": 36.5,
     "sigma": 0.79,
     "ci_lower": 34.93,
-    "ci_upper": 38.08,
+    "ci_upper": 38.07,
     "games_played": 56,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "seed-2.0-mini",
@@ -4710,12 +4858,12 @@
     ],
     "input_price": 20000.0,
     "output_price": null,
-    "rank": 143,
-    "conservative": 27.8,
-    "mu": 30.3,
+    "rank": 144,
+    "conservative": 27.81,
+    "mu": 30.31,
     "sigma": 0.83,
-    "ci_lower": 28.63,
-    "ci_upper": 31.97,
+    "ci_lower": 28.64,
+    "ci_upper": 31.98,
     "games_played": 79,
     "rank_delta_14d": -9
   },
@@ -4740,14 +4888,14 @@
     ],
     "input_price": 220000.0,
     "output_price": null,
-    "rank": 68,
-    "conservative": 38.67,
+    "rank": 70,
+    "conservative": 38.66,
     "mu": 41.07,
     "sigma": 0.8,
-    "ci_lower": 39.47,
-    "ci_upper": 42.68,
+    "ci_lower": 39.46,
+    "ci_upper": 42.67,
     "games_played": 37,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "seed-2.0-lite",
@@ -4764,14 +4912,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 114,
+    "rank": 116,
     "conservative": 31.91,
     "mu": 37.5,
     "sigma": 1.86,
     "ci_lower": 33.77,
     "ci_upper": 41.22,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "seed-2.0-pro",
@@ -4794,14 +4942,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 61,
+    "rank": 63,
     "conservative": 39.47,
     "mu": 44.6,
     "sigma": 1.71,
     "ci_lower": 41.18,
-    "ci_upper": 48.02,
+    "ci_upper": 48.01,
     "games_played": 6,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -8
   },
   {
     "model_id": "qwen3-max-thinking",
@@ -4822,14 +4970,14 @@
     ],
     "input_price": 240000.0,
     "output_price": null,
-    "rank": 109,
-    "conservative": 32.89,
-    "mu": 35.47,
+    "rank": 111,
+    "conservative": 32.88,
+    "mu": 35.45,
     "sigma": 0.86,
-    "ci_lower": 33.75,
-    "ci_upper": 37.18,
+    "ci_lower": 33.74,
+    "ci_upper": 37.17,
     "games_played": 33,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "minimax-m2.5",
@@ -4851,14 +4999,14 @@
     ],
     "input_price": 30000.0,
     "output_price": null,
-    "rank": 77,
-    "conservative": 36.86,
-    "mu": 43.13,
+    "rank": 79,
+    "conservative": 36.83,
+    "mu": 43.1,
     "sigma": 2.09,
-    "ci_lower": 38.95,
-    "ci_upper": 47.3,
+    "ci_lower": 38.92,
+    "ci_upper": 47.28,
     "games_played": 5,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "glm-5",
@@ -4879,14 +5027,14 @@
     ],
     "input_price": 1000000.0,
     "output_price": null,
-    "rank": 75,
-    "conservative": 37.06,
-    "mu": 42.71,
+    "rank": 77,
+    "conservative": 37.05,
+    "mu": 42.7,
     "sigma": 1.88,
-    "ci_lower": 38.95,
-    "ci_upper": 46.48,
+    "ci_lower": 38.94,
+    "ci_upper": 46.47,
     "games_played": 5,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "minicpm-sala",
@@ -4903,14 +5051,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 242,
+    "rank": 244,
     "conservative": 14.39,
     "mu": 18.46,
     "sigma": 1.36,
-    "ci_lower": 15.75,
+    "ci_lower": 15.74,
     "ci_upper": 21.17,
     "games_played": 12,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-opus-4-6",
@@ -4932,12 +5080,12 @@
     ],
     "input_price": 5000000.0,
     "output_price": null,
-    "rank": 37,
-    "conservative": 44.74,
-    "mu": 47.57,
+    "rank": 38,
+    "conservative": 44.7,
+    "mu": 47.53,
     "sigma": 0.94,
-    "ci_lower": 45.68,
-    "ci_upper": 49.46,
+    "ci_lower": 45.64,
+    "ci_upper": 49.42,
     "games_played": 26,
     "rank_delta_14d": -5
   },
@@ -4961,14 +5109,14 @@
     ],
     "input_price": 1750000.0,
     "output_price": null,
-    "rank": 82,
-    "conservative": 36.42,
-    "mu": 42.26,
+    "rank": 84,
+    "conservative": 36.38,
+    "mu": 42.22,
     "sigma": 1.95,
-    "ci_lower": 38.37,
-    "ci_upper": 46.16,
+    "ci_lower": 38.32,
+    "ci_upper": 46.11,
     "games_played": 6,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "longcat-flash-lite",
@@ -4989,14 +5137,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 216,
-    "conservative": 18.66,
+    "rank": 218,
+    "conservative": 18.65,
     "mu": 22.27,
     "sigma": 1.21,
     "ci_lower": 19.86,
-    "ci_upper": 24.69,
+    "ci_upper": 24.68,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "kling-v3",
@@ -5166,14 +5314,14 @@
     ],
     "input_price": 20000.0,
     "output_price": null,
-    "rank": 74,
-    "conservative": 37.15,
+    "rank": 76,
+    "conservative": 37.14,
     "mu": 42.12,
     "sigma": 1.66,
     "ci_lower": 38.8,
     "ci_upper": 45.44,
     "games_played": 7,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "grok-imagine-image-pro",
@@ -5283,14 +5431,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 67,
+    "rank": 69,
     "conservative": 38.75,
     "mu": 41.21,
     "sigma": 0.82,
     "ci_lower": 39.57,
-    "ci_upper": 42.86,
+    "ci_upper": 42.85,
     "games_played": 40,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "ernie-5.0",
@@ -5307,14 +5455,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 105,
+    "rank": 107,
     "conservative": 33.42,
     "mu": 39.01,
     "sigma": 1.86,
     "ci_lower": 35.28,
     "ci_upper": 42.73,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "glm-4.7-flash",
@@ -5335,14 +5483,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 181,
+    "rank": 183,
     "conservative": 23.47,
     "mu": 28.68,
     "sigma": 1.74,
     "ci_lower": 25.21,
     "ci_upper": 32.15,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "flux-2-klein",
@@ -5388,14 +5536,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 163,
+    "rank": 165,
     "conservative": 25.46,
     "mu": 31.19,
     "sigma": 1.91,
     "ci_lower": 27.37,
     "ci_upper": 35.01,
     "games_played": 6,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gpt-5.2-codex",
@@ -5417,14 +5565,14 @@
     ],
     "input_price": 1750000.0,
     "output_price": null,
-    "rank": 98,
-    "conservative": 34.26,
-    "mu": 41.34,
+    "rank": 100,
+    "conservative": 34.22,
+    "mu": 41.29,
     "sigma": 2.36,
-    "ci_lower": 36.62,
-    "ci_upper": 46.05,
+    "ci_lower": 36.58,
+    "ci_upper": 46.01,
     "games_played": 3,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "longcat-flash-thinking-2601",
@@ -5445,11 +5593,11 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 92,
+    "rank": 93,
     "conservative": 35.3,
     "mu": 39.27,
     "sigma": 1.32,
-    "ci_lower": 36.63,
+    "ci_lower": 36.62,
     "ci_upper": 41.92,
     "games_played": 11,
     "rank_delta_14d": -9
@@ -5694,6 +5842,35 @@
     "license": "proprietary",
     "is_open": false,
     "input_modalities": [
+      "video"
+    ],
+    "output_modalities": [
+      "video"
+    ],
+    "input_price": null,
+    "output_price": null,
+    "rank": null,
+    "conservative": null,
+    "mu": null,
+    "sigma": null,
+    "ci_lower": null,
+    "ci_upper": null,
+    "games_played": null,
+    "rank_delta_14d": null
+  },
+  {
+    "model_id": "kling-o1-omni-video",
+    "name": "Kling O1 Omni Video",
+    "model_type": "video",
+    "organization": "Kling AI",
+    "organization_id": "kling",
+    "announcement_date": "2026-01-01",
+    "release_date": null,
+    "multimodal": true,
+    "license": "proprietary",
+    "is_open": false,
+    "input_modalities": [
+      "image",
       "video"
     ],
     "output_modalities": [
@@ -6013,14 +6190,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 157,
+    "rank": 159,
     "conservative": 26.21,
     "mu": 31.4,
     "sigma": 1.73,
     "ci_lower": 27.94,
     "ci_upper": 34.86,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "minimax-m2.1",
@@ -6041,14 +6218,14 @@
     ],
     "input_price": 300000.0,
     "output_price": null,
-    "rank": 115,
-    "conservative": 31.87,
+    "rank": 117,
+    "conservative": 31.86,
     "mu": 35.26,
     "sigma": 1.13,
-    "ci_lower": 33.0,
-    "ci_upper": 37.53,
+    "ci_lower": 32.99,
+    "ci_upper": 37.52,
     "games_played": 15,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "glm-4.7",
@@ -6069,14 +6246,14 @@
     ],
     "input_price": 80000.0,
     "output_price": null,
-    "rank": 97,
+    "rank": 99,
     "conservative": 34.28,
-    "mu": 37.9,
+    "mu": 37.89,
     "sigma": 1.21,
     "ci_lower": 35.48,
-    "ci_upper": 40.31,
+    "ci_upper": 40.3,
     "games_played": 13,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "flux-2-max",
@@ -6129,14 +6306,14 @@
     ],
     "input_price": 50000.0,
     "output_price": null,
-    "rank": 78,
+    "rank": 80,
     "conservative": 36.78,
     "mu": 39.55,
     "sigma": 0.92,
     "ci_lower": 37.7,
-    "ci_upper": 41.39,
+    "ci_upper": 41.4,
     "games_played": 25,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-image-1.5",
@@ -6187,14 +6364,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 123,
-    "conservative": 30.69,
-    "mu": 34.13,
+    "rank": 125,
+    "conservative": 30.68,
+    "mu": 34.12,
     "sigma": 1.15,
     "ci_lower": 31.83,
-    "ci_upper": 36.42,
+    "ci_upper": 36.41,
     "games_played": 15,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "nemotron-3-nano-30b-a3b",
@@ -6215,14 +6392,14 @@
     ],
     "input_price": 25000.0,
     "output_price": null,
-    "rank": 196,
+    "rank": 198,
     "conservative": 21.03,
     "mu": 24.47,
     "sigma": 1.15,
     "ci_lower": 22.18,
-    "ci_upper": 26.77,
+    "ci_upper": 26.76,
     "games_played": 15,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-max",
@@ -6243,14 +6420,14 @@
     ],
     "input_price": 240000.0,
     "output_price": null,
-    "rank": 190,
+    "rank": 192,
     "conservative": 21.73,
     "mu": 26.88,
     "sigma": 1.72,
-    "ci_lower": 23.45,
+    "ci_lower": 23.44,
     "ci_upper": 30.32,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.2-2025-12-11",
@@ -6272,14 +6449,14 @@
     ],
     "input_price": 1750000.0,
     "output_price": null,
-    "rank": 57,
-    "conservative": 41.3,
-    "mu": 44.25,
+    "rank": 59,
+    "conservative": 41.28,
+    "mu": 44.23,
     "sigma": 0.98,
-    "ci_lower": 42.28,
-    "ci_upper": 46.22,
+    "ci_lower": 42.26,
+    "ci_upper": 46.2,
     "games_played": 23,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-5.2-pro-2025-12-11",
@@ -6303,12 +6480,12 @@
     "output_price": null,
     "rank": 50,
     "conservative": 42.91,
-    "mu": 47.96,
+    "mu": 47.95,
     "sigma": 1.68,
     "ci_lower": 44.59,
-    "ci_upper": 51.32,
+    "ci_upper": 51.31,
     "games_played": 7,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -6
   },
   {
     "model_id": "ministral-3-14b-base-2512",
@@ -6325,14 +6502,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 314,
+    "rank": 316,
     "conservative": 3.6,
     "mu": 9.38,
     "sigma": 1.93,
     "ci_lower": 5.53,
     "ci_upper": 13.23,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ministral-3-14b-instruct-2512",
@@ -6349,14 +6526,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 271,
+    "rank": 273,
     "conservative": 10.13,
     "mu": 16.8,
     "sigma": 2.22,
     "ci_lower": 12.35,
     "ci_upper": 21.25,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ministral-14b-latest",
@@ -6378,14 +6555,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 199,
+    "rank": 201,
     "conservative": 20.58,
     "mu": 26.77,
     "sigma": 2.06,
     "ci_lower": 22.64,
     "ci_upper": 30.9,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ministral-3-3b-base-2512",
@@ -6402,14 +6579,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 369,
+    "rank": 371,
     "conservative": -6.41,
     "mu": -0.54,
     "sigma": 1.96,
     "ci_lower": -4.46,
     "ci_upper": 3.37,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ministral-3-3b-instruct-2512",
@@ -6426,14 +6603,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 322,
+    "rank": 324,
     "conservative": 2.19,
     "mu": 8.95,
     "sigma": 2.25,
     "ci_lower": 4.45,
     "ci_upper": 13.46,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ministral-3b-latest",
@@ -6455,14 +6632,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 265,
+    "rank": 267,
     "conservative": 11.16,
     "mu": 17.32,
     "sigma": 2.05,
     "ci_lower": 13.21,
     "ci_upper": 21.43,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ministral-3-8b-base-2512",
@@ -6479,14 +6656,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 339,
+    "rank": 341,
     "conservative": -1.1,
     "mu": 4.66,
     "sigma": 1.92,
     "ci_lower": 0.82,
     "ci_upper": 8.5,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ministral-3-8b-instruct-2512",
@@ -6503,14 +6680,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 291,
+    "rank": 293,
     "conservative": 7.68,
     "mu": 14.3,
     "sigma": 2.21,
     "ci_lower": 9.89,
     "ci_upper": 18.72,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ministral-8b-latest",
@@ -6532,14 +6709,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 228,
+    "rank": 230,
     "conservative": 16.47,
     "mu": 22.64,
     "sigma": 2.06,
     "ci_lower": 18.53,
     "ci_upper": 26.75,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-large-3-675b-base-2512",
@@ -6556,14 +6733,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 281,
+    "rank": 283,
     "conservative": 8.81,
     "mu": 14.53,
     "sigma": 1.91,
     "ci_lower": 10.72,
     "ci_upper": 18.34,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-large-latest",
@@ -6585,14 +6762,14 @@
     ],
     "input_price": 500000.0,
     "output_price": null,
-    "rank": 277,
+    "rank": 279,
     "conservative": 9.02,
     "mu": 14.74,
     "sigma": 1.91,
     "ci_lower": 10.93,
     "ci_upper": 18.56,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-large-3-675B-instruct-2512-eagle",
@@ -6609,14 +6786,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 282,
+    "rank": 284,
     "conservative": 8.71,
     "mu": 14.43,
     "sigma": 1.91,
     "ci_lower": 10.62,
     "ci_upper": 18.25,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-large-3-675b-instruct-2512-nvfp4",
@@ -6633,14 +6810,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 280,
+    "rank": 282,
     "conservative": 8.91,
     "mu": 14.63,
     "sigma": 1.91,
     "ci_lower": 10.82,
     "ci_upper": 18.45,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "nova-2-lite",
@@ -6663,14 +6840,14 @@
     ],
     "input_price": 300000.0,
     "output_price": null,
-    "rank": 165,
-    "conservative": 25.37,
-    "mu": 28.64,
+    "rank": 167,
+    "conservative": 25.36,
+    "mu": 28.63,
     "sigma": 1.09,
-    "ci_lower": 26.46,
+    "ci_lower": 26.45,
     "ci_upper": 30.81,
     "games_played": 18,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "nova-2-omni",
@@ -6687,14 +6864,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 161,
+    "rank": 164,
     "conservative": 25.67,
     "mu": 29.36,
     "sigma": 1.23,
     "ci_lower": 26.9,
     "ci_upper": 31.82,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -11
   },
   {
     "model_id": "nova-2-pro",
@@ -6711,14 +6888,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 122,
+    "rank": 124,
     "conservative": 30.82,
-    "mu": 34.14,
+    "mu": 34.13,
     "sigma": 1.11,
-    "ci_lower": 31.93,
-    "ci_upper": 36.35,
+    "ci_lower": 31.92,
+    "ci_upper": 36.34,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "nova-2-sonic",
@@ -6741,14 +6918,14 @@
     ],
     "input_price": 330000.0,
     "output_price": null,
-    "rank": 279,
+    "rank": 281,
     "conservative": 8.99,
     "mu": 16.97,
     "sigma": 2.66,
     "ci_lower": 11.65,
-    "ci_upper": 22.3,
+    "ci_upper": 22.29,
     "games_played": 3,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "deepseek-v3.2",
@@ -6769,14 +6946,14 @@
     ],
     "input_price": 130000.0,
     "output_price": null,
-    "rank": 106,
-    "conservative": 33.21,
-    "mu": 36.51,
+    "rank": 108,
+    "conservative": 33.2,
+    "mu": 36.5,
     "sigma": 1.1,
-    "ci_lower": 34.31,
-    "ci_upper": 38.71,
+    "ci_lower": 34.3,
+    "ci_upper": 38.7,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-chat",
@@ -6825,14 +7002,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 102,
-    "conservative": 33.88,
+    "rank": 104,
+    "conservative": 33.87,
     "mu": 38.4,
     "sigma": 1.51,
-    "ci_lower": 35.39,
-    "ci_upper": 41.42,
+    "ci_lower": 35.38,
+    "ci_upper": 41.41,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-reasoner",
@@ -6853,14 +7030,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 110,
+    "rank": 112,
     "conservative": 32.57,
-    "mu": 36.03,
+    "mu": 36.02,
     "sigma": 1.15,
-    "ci_lower": 33.73,
-    "ci_upper": 38.34,
+    "ci_lower": 33.72,
+    "ci_upper": 38.33,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "flux-2-dev",
@@ -7082,14 +7259,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 72,
-    "conservative": 38.18,
-    "mu": 42.27,
+    "rank": 74,
+    "conservative": 38.17,
+    "mu": 42.26,
     "sigma": 1.36,
-    "ci_lower": 39.54,
-    "ci_upper": 45.0,
+    "ci_lower": 39.53,
+    "ci_upper": 44.99,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.1-codex",
@@ -7111,14 +7288,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 133,
-    "conservative": 29.52,
-    "mu": 37.86,
+    "rank": 136,
+    "conservative": 29.51,
+    "mu": 37.85,
     "sigma": 2.78,
-    "ci_lower": 32.3,
+    "ci_lower": 32.29,
     "ci_upper": 43.41,
     "games_played": 3,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-3-pro-preview",
@@ -7142,14 +7319,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 69,
-    "conservative": 38.52,
-    "mu": 41.54,
+    "rank": 71,
+    "conservative": 38.51,
+    "mu": 41.53,
     "sigma": 1.01,
-    "ci_lower": 39.53,
-    "ci_upper": 43.56,
+    "ci_lower": 39.52,
+    "ci_upper": 43.55,
     "games_played": 21,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gemini-3-pro-image-preview",
@@ -7201,14 +7378,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 207,
+    "rank": 209,
     "conservative": 19.54,
     "mu": 29.37,
     "sigma": 3.27,
     "ci_lower": 22.82,
-    "ci_upper": 35.91,
+    "ci_upper": 35.92,
     "games_played": 2,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-4-1-fast-non-reasoning",
@@ -7288,14 +7465,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 231,
+    "rank": 233,
     "conservative": 16.04,
     "mu": 27.97,
     "sigma": 3.98,
     "ci_lower": 20.02,
-    "ci_upper": 35.93,
+    "ci_upper": 35.92,
     "games_played": 2,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.1-2025-11-13",
@@ -7317,14 +7494,14 @@
     ],
     "input_price": 1250000.0,
     "output_price": null,
-    "rank": 83,
+    "rank": 85,
     "conservative": 36.32,
-    "mu": 40.7,
+    "mu": 40.69,
     "sigma": 1.46,
-    "ci_lower": 37.78,
+    "ci_lower": 37.77,
     "ci_upper": 43.61,
     "games_played": 9,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-5.1-codex-high",
@@ -7346,14 +7523,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 135,
+    "rank": 137,
     "conservative": 29.42,
     "mu": 40.73,
     "sigma": 3.77,
     "ci_lower": 33.19,
     "ci_upper": 48.28,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.1-codex-mini",
@@ -7375,14 +7552,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 347,
+    "rank": 349,
     "conservative": -2.77,
     "mu": 8.95,
     "sigma": 3.91,
     "ci_lower": 1.13,
     "ci_upper": 16.77,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.1-high-2025-11-12",
@@ -7404,14 +7581,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 93,
-    "conservative": 35.22,
-    "mu": 42.3,
+    "rank": 95,
+    "conservative": 35.21,
+    "mu": 42.29,
     "sigma": 2.36,
-    "ci_lower": 37.58,
-    "ci_upper": 47.01,
+    "ci_lower": 37.57,
+    "ci_upper": 47.0,
     "games_played": 3,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-5.1-instant-2025-11-12",
@@ -7433,14 +7610,14 @@
     ],
     "input_price": 1250000.0,
     "output_price": null,
-    "rank": 81,
+    "rank": 83,
     "conservative": 36.45,
     "mu": 40.82,
     "sigma": 1.46,
-    "ci_lower": 37.91,
-    "ci_upper": 43.74,
+    "ci_lower": 37.9,
+    "ci_upper": 43.73,
     "games_played": 9,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-5.1-medium-2025-11-12",
@@ -7462,14 +7639,14 @@
     ],
     "input_price": 1250000.0,
     "output_price": null,
-    "rank": 118,
+    "rank": 120,
     "conservative": 31.23,
     "mu": 42.57,
     "sigma": 3.78,
     "ci_lower": 35.01,
     "ci_upper": 50.13,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.1-thinking-2025-11-12",
@@ -7491,14 +7668,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 80,
-    "conservative": 36.55,
+    "rank": 82,
+    "conservative": 36.54,
     "mu": 40.92,
     "sigma": 1.46,
-    "ci_lower": 38.01,
-    "ci_upper": 43.84,
+    "ci_lower": 38.0,
+    "ci_upper": 43.83,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "minimax-m2",
@@ -7519,14 +7696,14 @@
     ],
     "input_price": 30000.0,
     "output_price": null,
-    "rank": 152,
-    "conservative": 26.83,
+    "rank": 154,
+    "conservative": 26.82,
     "mu": 30.3,
     "sigma": 1.16,
-    "ci_lower": 27.99,
+    "ci_lower": 27.98,
     "ci_upper": 32.62,
     "games_played": 15,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "sonic-3",
@@ -7576,12 +7753,12 @@
     ],
     "input_price": 1000000.0,
     "output_price": null,
-    "rank": 162,
-    "conservative": 25.66,
-    "mu": 29.02,
+    "rank": 163,
+    "conservative": 25.68,
+    "mu": 29.04,
     "sigma": 1.12,
-    "ci_lower": 26.78,
-    "ci_upper": 31.26,
+    "ci_lower": 26.8,
+    "ci_upper": 31.28,
     "games_played": 18,
     "rank_delta_14d": -11
   },
@@ -7606,14 +7783,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 137,
+    "rank": 139,
     "conservative": 28.99,
     "mu": 33.73,
     "sigma": 1.58,
     "ci_lower": 30.57,
     "ci_upper": 36.89,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-sonnet-4-5-20250929",
@@ -7637,14 +7814,14 @@
     ],
     "input_price": 3000000.0,
     "output_price": null,
-    "rank": 113,
+    "rank": 115,
     "conservative": 32.1,
     "mu": 36.88,
     "sigma": 1.59,
     "ci_lower": 33.69,
-    "ci_upper": 40.07,
+    "ci_upper": 40.06,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-v3.2-exp",
@@ -7665,14 +7842,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 140,
+    "rank": 142,
     "conservative": 28.16,
-    "mu": 31.67,
+    "mu": 31.66,
     "sigma": 1.17,
-    "ci_lower": 29.33,
-    "ci_upper": 34.01,
+    "ci_lower": 29.32,
+    "ci_upper": 34.0,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "longcat-flash-thinking",
@@ -7693,14 +7870,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 139,
+    "rank": 141,
     "conservative": 28.6,
     "mu": 32.2,
     "sigma": 1.2,
     "ci_lower": 29.8,
-    "ci_upper": 34.61,
+    "ci_upper": 34.6,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-vl-235b-a22b-instruct",
@@ -7723,14 +7900,14 @@
     ],
     "input_price": 110000.0,
     "output_price": null,
-    "rank": 168,
-    "conservative": 24.67,
-    "mu": 26.89,
+    "rank": 170,
+    "conservative": 24.66,
+    "mu": 26.88,
     "sigma": 0.74,
-    "ci_lower": 25.41,
-    "ci_upper": 28.37,
+    "ci_lower": 25.4,
+    "ci_upper": 28.36,
     "games_played": 50,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-vl-235b-a22b-thinking",
@@ -7753,14 +7930,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 154,
+    "rank": 156,
     "conservative": 26.66,
     "mu": 28.85,
     "sigma": 0.73,
     "ci_lower": 27.39,
-    "ci_upper": 30.31,
+    "ci_upper": 30.3,
     "games_played": 58,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-vl-30b-a3b-instruct",
@@ -7783,14 +7960,14 @@
     ],
     "input_price": 150000.0,
     "output_price": null,
-    "rank": 229,
+    "rank": 231,
     "conservative": 16.39,
     "mu": 18.55,
     "sigma": 0.72,
     "ci_lower": 17.11,
     "ci_upper": 19.99,
     "games_played": 50,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-vl-30b-a3b-thinking",
@@ -7813,14 +7990,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 219,
+    "rank": 221,
     "conservative": 18.24,
     "mu": 20.38,
     "sigma": 0.71,
-    "ci_lower": 18.96,
+    "ci_lower": 18.95,
     "ci_upper": 21.81,
     "games_played": 50,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-vl-32b-instruct",
@@ -7837,14 +8014,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 201,
+    "rank": 203,
     "conservative": 20.26,
     "mu": 22.5,
     "sigma": 0.74,
     "ci_lower": 21.01,
     "ci_upper": 23.99,
     "games_played": 45,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-vl-32b-thinking",
@@ -7861,14 +8038,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 180,
+    "rank": 182,
     "conservative": 23.54,
     "mu": 25.77,
     "sigma": 0.74,
     "ci_lower": 24.28,
-    "ci_upper": 27.26,
+    "ci_upper": 27.25,
     "games_played": 47,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-vl-4b-instruct",
@@ -7890,14 +8067,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 268,
+    "rank": 270,
     "conservative": 10.67,
     "mu": 12.97,
     "sigma": 0.77,
-    "ci_lower": 11.44,
+    "ci_lower": 11.43,
     "ci_upper": 14.5,
     "games_played": 45,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-vl-4b-thinking",
@@ -7919,14 +8096,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 255,
-    "conservative": 12.92,
+    "rank": 257,
+    "conservative": 12.91,
     "mu": 15.13,
     "sigma": 0.74,
-    "ci_lower": 13.66,
+    "ci_lower": 13.65,
     "ci_upper": 16.61,
     "games_played": 48,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-vl-8b-instruct",
@@ -7949,14 +8126,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 246,
+    "rank": 248,
     "conservative": 13.85,
     "mu": 16.08,
     "sigma": 0.74,
-    "ci_lower": 14.6,
+    "ci_lower": 14.59,
     "ci_upper": 17.57,
     "games_played": 46,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-vl-8b-thinking",
@@ -7978,14 +8155,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 230,
+    "rank": 232,
     "conservative": 16.24,
     "mu": 18.39,
     "sigma": 0.72,
-    "ci_lower": 16.96,
+    "ci_lower": 16.95,
     "ci_upper": 19.82,
     "games_played": 50,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5-codex-2025-09-15",
@@ -8002,14 +8179,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 155,
+    "rank": 157,
     "conservative": 26.63,
     "mu": 37.9,
     "sigma": 3.76,
     "ci_lower": 30.38,
     "ci_upper": 45.42,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-next-80b-a3b-base",
@@ -8054,14 +8231,14 @@
     ],
     "input_price": 90000.0,
     "output_price": null,
-    "rank": 203,
+    "rank": 205,
     "conservative": 20.15,
     "mu": 22.96,
     "sigma": 0.94,
     "ci_lower": 21.08,
     "ci_upper": 24.83,
     "games_played": 24,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-next-80b-a3b-thinking",
@@ -8082,14 +8259,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 177,
+    "rank": 178,
     "conservative": 23.8,
     "mu": 26.68,
     "sigma": 0.96,
     "ci_lower": 24.76,
     "ci_upper": 28.6,
     "games_played": 22,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "kimi-k2-0905",
@@ -8110,14 +8287,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 191,
+    "rank": 193,
     "conservative": 21.65,
     "mu": 26.84,
     "sigma": 1.73,
     "ci_lower": 23.38,
     "ci_upper": 30.31,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "kimi-k2-instruct-0905",
@@ -8134,14 +8311,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 192,
+    "rank": 194,
     "conservative": 21.57,
     "mu": 24.23,
     "sigma": 0.89,
     "ci_lower": 22.46,
     "ci_upper": 26.01,
     "games_played": 27,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "kimi-k2-thinking-0905",
@@ -8162,14 +8339,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 88,
-    "conservative": 35.93,
-    "mu": 39.06,
+    "rank": 90,
+    "conservative": 35.91,
+    "mu": 39.04,
     "sigma": 1.04,
-    "ci_lower": 36.97,
-    "ci_upper": 41.15,
+    "ci_lower": 36.95,
+    "ci_upper": 41.12,
     "games_played": 20,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "mistral-large-3-2509",
@@ -8191,14 +8368,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 269,
+    "rank": 271,
     "conservative": 10.43,
     "mu": 15.3,
     "sigma": 1.62,
     "ci_lower": 12.06,
     "ci_upper": 18.54,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ray-2",
@@ -8335,14 +8512,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 204,
-    "conservative": 19.8,
+    "rank": 206,
+    "conservative": 19.79,
     "mu": 23.08,
     "sigma": 1.09,
     "ci_lower": 20.89,
     "ci_upper": 25.27,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-4-fast",
@@ -8364,14 +8541,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 116,
+    "rank": 118,
     "conservative": 31.68,
     "mu": 36.46,
     "sigma": 1.6,
     "ci_lower": 33.27,
-    "ci_upper": 39.66,
+    "ci_upper": 39.65,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-4-fast-non-reasoning",
@@ -8450,14 +8627,14 @@
     ],
     "input_price": 200000.0,
     "output_price": null,
-    "rank": 198,
+    "rank": 200,
     "conservative": 20.73,
     "mu": 32.0,
     "sigma": 3.76,
     "ci_lower": 24.49,
     "ci_upper": 39.52,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "nvidia-nemotron-nano-9b-v2",
@@ -8474,14 +8651,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 217,
+    "rank": 219,
     "conservative": 18.45,
     "mu": 24.04,
     "sigma": 1.87,
     "ci_lower": 20.31,
     "ci_upper": 27.77,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "glm-4.5v",
@@ -8533,14 +8710,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 103,
-    "conservative": 33.77,
-    "mu": 36.52,
+    "rank": 105,
+    "conservative": 33.78,
+    "mu": 36.53,
     "sigma": 0.92,
     "ci_lower": 34.69,
-    "ci_upper": 38.35,
+    "ci_upper": 38.36,
     "games_played": 30,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5-high-2025-08-07",
@@ -8562,14 +8739,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 100,
+    "rank": 102,
     "conservative": 33.97,
     "mu": 42.4,
     "sigma": 2.81,
     "ci_lower": 36.78,
     "ci_upper": 48.02,
     "games_played": 2,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5-medium-2025-08-07",
@@ -8591,14 +8768,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 131,
+    "rank": 134,
     "conservative": 29.57,
     "mu": 38.0,
     "sigma": 2.81,
     "ci_lower": 32.38,
     "ci_upper": 43.61,
     "games_played": 2,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5-mini-2025-08-07",
@@ -8620,14 +8797,14 @@
     ],
     "input_price": 250000.0,
     "output_price": null,
-    "rank": 150,
-    "conservative": 27.32,
-    "mu": 33.01,
+    "rank": 152,
+    "conservative": 27.31,
+    "mu": 33.0,
     "sigma": 1.9,
     "ci_lower": 29.21,
     "ci_upper": 36.8,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5-nano-2025-08-07",
@@ -8649,7 +8826,7 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 210,
+    "rank": 211,
     "conservative": 19.5,
     "mu": 25.22,
     "sigma": 1.91,
@@ -8678,14 +8855,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 129,
+    "rank": 131,
     "conservative": 29.86,
     "mu": 34.57,
     "sigma": 1.57,
     "ci_lower": 31.43,
     "ci_upper": 37.71,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-oss-120b",
@@ -8706,14 +8883,14 @@
     ],
     "input_price": 37000.0,
     "output_price": null,
-    "rank": 138,
-    "conservative": 28.68,
+    "rank": 140,
+    "conservative": 28.67,
     "mu": 33.54,
     "sigma": 1.62,
-    "ci_lower": 30.3,
-    "ci_upper": 36.79,
+    "ci_lower": 30.29,
+    "ci_upper": 36.78,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-oss-120b-high",
@@ -8734,14 +8911,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 164,
+    "rank": 166,
     "conservative": 25.43,
     "mu": 30.24,
     "sigma": 1.6,
     "ci_lower": 27.03,
     "ci_upper": 33.45,
     "games_played": 7,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gpt-oss-20b",
@@ -8762,12 +8939,12 @@
     ],
     "input_price": 30000.0,
     "output_price": null,
-    "rank": 222,
-    "conservative": 17.95,
-    "mu": 23.03,
+    "rank": 223,
+    "conservative": 18.02,
+    "mu": 23.1,
     "sigma": 1.69,
-    "ci_lower": 19.64,
-    "ci_upper": 26.42,
+    "ci_lower": 19.71,
+    "ci_upper": 26.48,
     "games_played": 7,
     "rank_delta_14d": -9
   },
@@ -8790,14 +8967,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 147,
+    "rank": 149,
     "conservative": 27.62,
     "mu": 36.07,
     "sigma": 2.82,
     "ci_lower": 30.44,
     "ci_upper": 41.7,
     "games_played": 2,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "glm-4.5",
@@ -8818,14 +8995,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 146,
-    "conservative": 27.68,
+    "rank": 148,
+    "conservative": 27.67,
     "mu": 31.25,
     "sigma": 1.19,
     "ci_lower": 28.87,
     "ci_upper": 33.63,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "glm-4.5-air",
@@ -8842,14 +9019,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 170,
+    "rank": 172,
     "conservative": 24.35,
     "mu": 27.89,
     "sigma": 1.18,
     "ci_lower": 25.53,
     "ci_upper": 30.25,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-235b-a22b-thinking-2507",
@@ -8870,14 +9047,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 141,
+    "rank": 143,
     "conservative": 28.04,
-    "mu": 30.87,
+    "mu": 30.86,
     "sigma": 0.94,
     "ci_lower": 28.98,
     "ci_upper": 32.75,
     "games_played": 24,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-235b-a22b-instruct-2507",
@@ -8898,14 +9075,14 @@
     ],
     "input_price": 90000.0,
     "output_price": null,
-    "rank": 172,
-    "conservative": 24.16,
+    "rank": 174,
+    "conservative": 24.15,
     "mu": 26.95,
     "sigma": 0.93,
-    "ci_lower": 25.09,
-    "ci_upper": 28.82,
+    "ci_lower": 25.08,
+    "ci_upper": 28.81,
     "games_played": 25,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "devstral-small-2507",
@@ -8926,14 +9103,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 275,
+    "rank": 277,
     "conservative": 9.27,
     "mu": 20.57,
     "sigma": 3.77,
     "ci_lower": 13.04,
     "ci_upper": 28.11,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "kimi-k2-base",
@@ -8950,14 +9127,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 250,
+    "rank": 252,
     "conservative": 13.45,
     "mu": 17.45,
     "sigma": 1.33,
     "ci_lower": 14.79,
     "ci_upper": 20.12,
     "games_played": 12,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "kimi-k2-instruct",
@@ -8978,14 +9155,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 188,
+    "rank": 190,
     "conservative": 21.87,
     "mu": 24.48,
     "sigma": 0.87,
     "ci_lower": 22.74,
-    "ci_upper": 26.23,
+    "ci_upper": 26.22,
     "games_played": 30,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "devstral-medium-2507",
@@ -9006,14 +9183,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 249,
+    "rank": 251,
     "conservative": 13.55,
     "mu": 24.83,
     "sigma": 3.76,
     "ci_lower": 17.31,
     "ci_upper": 32.35,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-4",
@@ -9035,14 +9212,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 104,
+    "rank": 106,
     "conservative": 33.68,
     "mu": 38.82,
     "sigma": 1.71,
-    "ci_lower": 35.4,
+    "ci_lower": 35.39,
     "ci_upper": 42.24,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-4-heavy",
@@ -9059,11 +9236,11 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 59,
-    "conservative": 40.68,
+    "rank": 61,
+    "conservative": 40.67,
     "mu": 46.41,
     "sigma": 1.91,
-    "ci_lower": 42.59,
+    "ci_lower": 42.58,
     "ci_upper": 50.23,
     "games_played": 6,
     "rank_delta_14d": null
@@ -9170,14 +9347,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 372,
+    "rank": 374,
     "conservative": -10.22,
     "mu": -5.99,
     "sigma": 1.41,
     "ci_lower": -8.81,
     "ci_upper": -3.17,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-3n-e2b-it",
@@ -9194,14 +9371,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 374,
-    "conservative": -10.58,
+    "rank": 376,
+    "conservative": -10.57,
     "mu": -7.06,
     "sigma": 1.17,
     "ci_lower": -9.4,
     "ci_upper": -4.71,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-3n-e4b",
@@ -9218,14 +9395,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 367,
+    "rank": 369,
     "conservative": -6.15,
     "mu": -2.06,
     "sigma": 1.36,
     "ci_lower": -4.79,
     "ci_upper": 0.66,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-3n-e4b-it",
@@ -9247,14 +9424,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 356,
-    "conservative": -4.66,
+    "rank": 358,
+    "conservative": -4.65,
     "mu": -1.19,
     "sigma": 1.16,
     "ci_lower": -3.5,
-    "ci_upper": 1.12,
+    "ci_upper": 1.13,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ernie-4.5",
@@ -9275,14 +9452,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 375,
+    "rank": 377,
     "conservative": -13.43,
     "mu": -9.26,
     "sigma": 1.39,
     "ci_lower": -12.04,
     "ci_upper": -6.48,
     "games_played": 20,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-small-3.2-24b-instruct-2506",
@@ -9304,14 +9481,14 @@
     ],
     "input_price": 75000.0,
     "output_price": null,
-    "rank": 284,
+    "rank": 286,
     "conservative": 8.45,
     "mu": 12.22,
     "sigma": 1.26,
     "ci_lower": 9.71,
     "ci_upper": 14.73,
     "games_played": 12,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-2.5-flash-lite",
@@ -9333,14 +9510,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 270,
+    "rank": 272,
     "conservative": 10.42,
     "mu": 14.53,
     "sigma": 1.37,
     "ci_lower": 11.79,
     "ci_upper": 17.26,
     "games_played": 12,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "minimax-m1-40k",
@@ -9357,14 +9534,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 200,
+    "rank": 202,
     "conservative": 20.52,
     "mu": 23.89,
     "sigma": 1.12,
-    "ci_lower": 21.65,
-    "ci_upper": 26.14,
+    "ci_lower": 21.64,
+    "ci_upper": 26.13,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "minimax-m1-80k",
@@ -9385,14 +9562,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 194,
+    "rank": 196,
     "conservative": 21.44,
-    "mu": 24.79,
+    "mu": 24.78,
     "sigma": 1.11,
-    "ci_lower": 22.56,
+    "ci_lower": 22.55,
     "ci_upper": 27.01,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "magistral-medium",
@@ -9409,14 +9586,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 253,
+    "rank": 255,
     "conservative": 13.06,
     "mu": 18.22,
     "sigma": 1.72,
     "ci_lower": 14.78,
-    "ci_upper": 21.66,
+    "ci_upper": 21.65,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "magistral-small-2506",
@@ -9433,14 +9610,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 267,
+    "rank": 269,
     "conservative": 10.68,
     "mu": 16.84,
     "sigma": 2.06,
     "ci_lower": 12.73,
     "ci_upper": 20.95,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "o3-pro-2025-06-10",
@@ -9491,14 +9668,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 128,
+    "rank": 130,
     "conservative": 29.91,
     "mu": 33.69,
     "sigma": 1.26,
     "ci_lower": 31.17,
     "ci_upper": 36.21,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "imagen-4.0-fast-generate-001",
@@ -9660,14 +9837,14 @@
     ],
     "input_price": 350000.0,
     "output_price": null,
-    "rank": 173,
+    "rank": 175,
     "conservative": 24.1,
     "mu": 27.47,
     "sigma": 1.12,
     "ci_lower": 25.22,
     "ci_upper": 29.71,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-opus-4-20250514",
@@ -9689,14 +9866,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 145,
+    "rank": 147,
     "conservative": 27.7,
-    "mu": 32.13,
+    "mu": 32.12,
     "sigma": 1.48,
     "ci_lower": 29.17,
     "ci_upper": 35.08,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-sonnet-4-20250514",
@@ -9718,14 +9895,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 171,
+    "rank": 173,
     "conservative": 24.2,
-    "mu": 28.7,
+    "mu": 28.69,
     "sigma": 1.5,
     "ci_lower": 25.7,
-    "ci_upper": 31.7,
+    "ci_upper": 31.69,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-2.5-flash",
@@ -9748,14 +9925,14 @@
     ],
     "input_price": 300000.0,
     "output_price": null,
-    "rank": 189,
-    "conservative": 21.77,
-    "mu": 25.31,
+    "rank": 191,
+    "conservative": 21.76,
+    "mu": 25.3,
     "sigma": 1.18,
-    "ci_lower": 22.95,
-    "ci_upper": 27.68,
+    "ci_lower": 22.94,
+    "ci_upper": 27.67,
     "games_played": 15,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-2.5-pro",
@@ -9778,14 +9955,14 @@
     ],
     "input_price": 1250000.0,
     "output_price": null,
-    "rank": 142,
-    "conservative": 27.8,
-    "mu": 31.53,
+    "rank": 145,
+    "conservative": 27.79,
+    "mu": 31.52,
     "sigma": 1.24,
     "ci_lower": 29.04,
     "ci_upper": 34.01,
     "games_played": 15,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gemini-diffusion",
@@ -9802,14 +9979,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 329,
+    "rank": 331,
     "conservative": 0.88,
     "mu": 5.74,
     "sigma": 1.62,
     "ci_lower": 2.5,
     "ci_upper": 8.98,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-3n-e2b-it-litert-preview",
@@ -9826,14 +10003,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 371,
+    "rank": 373,
     "conservative": -9.58,
     "mu": -6.78,
     "sigma": 0.94,
     "ci_lower": -8.65,
     "ci_upper": -4.91,
     "games_played": 28,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-3n-e4b-it-litert-preview",
@@ -9850,14 +10027,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 362,
+    "rank": 364,
     "conservative": -5.17,
     "mu": -2.43,
     "sigma": 0.91,
     "ci_lower": -4.26,
-    "ci_upper": -0.6,
+    "ci_upper": -0.61,
     "games_played": 28,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "medgemma-4b-it",
@@ -9874,14 +10051,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 355,
+    "rank": 357,
     "conservative": -4.55,
     "mu": 11.29,
     "sigma": 5.28,
     "ci_lower": 0.73,
     "ci_upper": 21.85,
     "games_played": 2,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "granite-4.0-tiny-preview",
@@ -9898,14 +10075,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 364,
+    "rank": 366,
     "conservative": -5.5,
     "mu": -1.19,
     "sigma": 1.44,
     "ci_lower": -4.06,
     "ci_upper": 1.68,
     "games_played": 12,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "bagel",
@@ -9950,14 +10127,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 295,
+    "rank": 297,
     "conservative": 7.15,
     "mu": 15.65,
     "sigma": 2.83,
     "ci_lower": 9.98,
     "ci_upper": 21.31,
     "games_played": 2,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "phi-4-reasoning",
@@ -9974,14 +10151,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 260,
+    "rank": 262,
     "conservative": 12.01,
     "mu": 16.51,
     "sigma": 1.5,
     "ci_lower": 13.51,
     "ci_upper": 19.51,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "phi-4-reasoning-plus",
@@ -9998,14 +10175,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 237,
+    "rank": 239,
     "conservative": 15.01,
     "mu": 19.51,
     "sigma": 1.5,
     "ci_lower": 16.51,
     "ci_upper": 22.51,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-235b-a22b",
@@ -10026,14 +10203,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 235,
+    "rank": 237,
     "conservative": 15.55,
     "mu": 18.56,
     "sigma": 1.0,
     "ci_lower": 16.55,
     "ci_upper": 20.57,
     "games_played": 21,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-30b-a3b",
@@ -10054,14 +10231,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 223,
+    "rank": 225,
     "conservative": 17.28,
     "mu": 21.81,
     "sigma": 1.51,
     "ci_lower": 18.79,
     "ci_upper": 24.83,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-32b",
@@ -10082,14 +10259,14 @@
     ],
     "input_price": 80000.0,
     "output_price": null,
-    "rank": 218,
-    "conservative": 18.43,
-    "mu": 23.13,
+    "rank": 220,
+    "conservative": 18.42,
+    "mu": 23.12,
     "sigma": 1.57,
     "ci_lower": 19.99,
-    "ci_upper": 26.26,
+    "ci_upper": 26.25,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-guard-4-12b",
@@ -10139,14 +10316,14 @@
     ],
     "input_price": 120000.0,
     "output_price": null,
-    "rank": 220,
-    "conservative": 18.1,
+    "rank": 222,
+    "conservative": 18.09,
     "mu": 21.59,
-    "sigma": 1.17,
+    "sigma": 1.16,
     "ci_lower": 19.26,
     "ci_upper": 23.92,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "granite-3.3-8b-base",
@@ -10163,14 +10340,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 335,
+    "rank": 337,
     "conservative": -0.54,
     "mu": 2.67,
     "sigma": 1.07,
     "ci_lower": 0.53,
     "ci_upper": 4.81,
     "games_played": 19,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "granite-3.3-8b-instruct",
@@ -10191,14 +10368,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 321,
+    "rank": 323,
     "conservative": 2.39,
     "mu": 6.08,
     "sigma": 1.23,
     "ci_lower": 3.62,
     "ci_upper": 8.55,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "o3-2025-04-16",
@@ -10220,14 +10397,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 119,
-    "conservative": 31.05,
-    "mu": 33.97,
+    "rank": 121,
+    "conservative": 31.04,
+    "mu": 33.96,
     "sigma": 0.98,
-    "ci_lower": 32.02,
-    "ci_upper": 35.92,
+    "ci_lower": 32.01,
+    "ci_upper": 35.91,
     "games_played": 22,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "o4-mini",
@@ -10249,14 +10426,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 149,
+    "rank": 151,
     "conservative": 27.46,
-    "mu": 30.99,
+    "mu": 30.98,
     "sigma": 1.17,
     "ci_lower": 28.64,
     "ci_upper": 33.33,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-4.1-2025-04-14",
@@ -10278,14 +10455,14 @@
     ],
     "input_price": 2000000.0,
     "output_price": null,
-    "rank": 221,
-    "conservative": 18.01,
-    "mu": 20.75,
+    "rank": 224,
+    "conservative": 18.0,
+    "mu": 20.74,
     "sigma": 0.91,
     "ci_lower": 18.92,
-    "ci_upper": 22.58,
+    "ci_upper": 22.57,
     "games_played": 28,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gpt-4.1-mini-2025-04-14",
@@ -10307,14 +10484,14 @@
     ],
     "input_price": 400000.0,
     "output_price": null,
-    "rank": 245,
+    "rank": 247,
     "conservative": 14.01,
     "mu": 16.82,
     "sigma": 0.94,
-    "ci_lower": 14.95,
-    "ci_upper": 18.7,
+    "ci_lower": 14.94,
+    "ci_upper": 18.69,
     "games_played": 28,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-4.1-nano-2025-04-14",
@@ -10336,14 +10513,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 326,
+    "rank": 328,
     "conservative": 1.65,
     "mu": 5.44,
     "sigma": 1.26,
     "ci_lower": 2.91,
     "ci_upper": 7.97,
     "games_played": 24,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "l3-8b-lunaris-v1",
@@ -10388,14 +10565,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 212,
+    "rank": 214,
     "conservative": 19.11,
     "mu": 24.41,
     "sigma": 1.77,
     "ci_lower": 20.87,
     "ci_upper": 27.95,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-4-maverick",
@@ -10417,14 +10594,14 @@
     ],
     "input_price": 200000.0,
     "output_price": null,
-    "rank": 240,
+    "rank": 242,
     "conservative": 14.67,
     "mu": 18.46,
     "sigma": 1.26,
     "ci_lower": 15.94,
     "ci_upper": 20.98,
     "games_played": 12,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-4-scout",
@@ -10446,14 +10623,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 289,
+    "rank": 291,
     "conservative": 7.84,
     "mu": 11.72,
     "sigma": 1.3,
     "ci_lower": 9.13,
     "ci_upper": 14.31,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "arcana",
@@ -10498,14 +10675,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 305,
+    "rank": 307,
     "conservative": 5.16,
     "mu": 7.97,
     "sigma": 0.94,
     "ci_lower": 6.1,
     "ci_upper": 9.84,
     "games_played": 30,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-v3-0324",
@@ -10526,14 +10703,14 @@
     ],
     "input_price": 135000.0,
     "output_price": null,
-    "rank": 251,
+    "rank": 253,
     "conservative": 13.37,
     "mu": 18.95,
     "sigma": 1.86,
     "ci_lower": 15.23,
     "ci_upper": 22.67,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-3.1-nemotron-nano-8b-v1",
@@ -10550,14 +10727,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 306,
+    "rank": 308,
     "conservative": 4.75,
     "mu": 9.79,
     "sigma": 1.68,
     "ci_lower": 6.43,
     "ci_upper": 13.15,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-3.3-nemotron-super-49b-v1",
@@ -10574,14 +10751,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 252,
+    "rank": 254,
     "conservative": 13.1,
     "mu": 18.25,
     "sigma": 1.72,
     "ci_lower": 14.82,
     "ci_upper": 21.69,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-small-3.1-24b-base-2503",
@@ -10603,14 +10780,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 331,
+    "rank": 333,
     "conservative": 0.34,
     "mu": 5.99,
     "sigma": 1.88,
     "ci_lower": 2.22,
     "ci_upper": 9.75,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-small-3.1-24b-instruct-2503",
@@ -10627,14 +10804,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 308,
+    "rank": 311,
     "conservative": 4.19,
     "mu": 8.47,
     "sigma": 1.42,
     "ci_lower": 5.62,
     "ci_upper": 11.31,
     "games_played": 9,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gemma-3-12b-it",
@@ -10656,14 +10833,14 @@
     ],
     "input_price": 50000.0,
     "output_price": null,
-    "rank": 301,
+    "rank": 303,
     "conservative": 5.56,
     "mu": 8.38,
     "sigma": 0.94,
     "ci_lower": 6.5,
     "ci_upper": 10.26,
     "games_played": 26,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-3-1b-it",
@@ -10680,14 +10857,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 373,
+    "rank": 375,
     "conservative": -10.53,
-    "mu": -6.71,
+    "mu": -6.72,
     "sigma": 1.27,
     "ci_lower": -9.26,
     "ci_upper": -4.17,
     "games_played": 18,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-3-27b-it",
@@ -10709,14 +10886,14 @@
     ],
     "input_price": 80000.0,
     "output_price": null,
-    "rank": 286,
+    "rank": 288,
     "conservative": 8.26,
     "mu": 11.07,
     "sigma": 0.93,
     "ci_lower": 9.2,
     "ci_upper": 12.94,
     "games_played": 27,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-3-4b-it",
@@ -10738,14 +10915,14 @@
     ],
     "input_price": 50000.0,
     "output_price": null,
-    "rank": 343,
+    "rank": 345,
     "conservative": -1.87,
     "mu": 1.12,
     "sigma": 1.0,
     "ci_lower": -0.87,
     "ci_upper": 3.11,
     "games_played": 26,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwq-32b",
@@ -10762,14 +10939,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 238,
-    "conservative": 14.76,
+    "rank": 240,
+    "conservative": 14.75,
     "mu": 19.58,
     "sigma": 1.61,
-    "ci_lower": 16.37,
-    "ci_upper": 22.8,
+    "ci_lower": 16.36,
+    "ci_upper": 22.79,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "cogView-4-250304",
@@ -10814,14 +10991,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 274,
+    "rank": 276,
     "conservative": 9.72,
     "mu": 12.57,
     "sigma": 0.95,
     "ci_lower": 10.67,
     "ci_upper": 14.47,
     "games_played": 28,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-4.5",
@@ -10843,14 +11020,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 202,
-    "conservative": 20.17,
+    "rank": 204,
+    "conservative": 20.16,
     "mu": 22.96,
     "sigma": 0.93,
-    "ci_lower": 21.1,
-    "ci_upper": 24.83,
+    "ci_lower": 21.09,
+    "ci_upper": 24.82,
     "games_played": 26,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "wan-2.1-14b",
@@ -10901,14 +11078,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 175,
+    "rank": 177,
     "conservative": 23.92,
     "mu": 27.82,
     "sigma": 1.3,
     "ci_lower": 25.22,
     "ci_upper": 30.41,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-3",
@@ -10930,14 +11107,14 @@
     ],
     "input_price": 3000000.0,
     "output_price": null,
-    "rank": 124,
+    "rank": 126,
     "conservative": 30.37,
     "mu": 36.01,
     "sigma": 1.88,
     "ci_lower": 32.25,
     "ci_upper": 39.77,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-3-mini",
@@ -10959,14 +11136,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 117,
+    "rank": 119,
     "conservative": 31.31,
     "mu": 37.81,
     "sigma": 2.17,
     "ci_lower": 33.48,
     "ci_upper": 42.15,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen-image-2.0",
@@ -11016,14 +11193,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 257,
+    "rank": 259,
     "conservative": 12.37,
     "mu": 16.53,
     "sigma": 1.39,
     "ci_lower": 13.75,
     "ci_upper": 19.3,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "phi-4-mini",
@@ -11040,14 +11217,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 353,
+    "rank": 355,
     "conservative": -4.07,
     "mu": -0.74,
     "sigma": 1.11,
     "ci_lower": -2.96,
     "ci_upper": 1.48,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "phi-4-multimodal-instruct",
@@ -11069,14 +11246,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 318,
+    "rank": 320,
     "conservative": 2.78,
-    "mu": 6.71,
+    "mu": 6.7,
     "sigma": 1.31,
     "ci_lower": 4.09,
     "ci_upper": 9.32,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3-coder-480b-a35b-instruct",
@@ -11097,14 +11274,14 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 195,
+    "rank": 197,
     "conservative": 21.07,
     "mu": 25.63,
     "sigma": 1.52,
     "ci_lower": 22.59,
     "ci_upper": 28.67,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-small-24b-base-2501",
@@ -11121,14 +11298,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 333,
+    "rank": 335,
     "conservative": -0.3,
     "mu": 4.03,
     "sigma": 1.45,
     "ci_lower": 1.14,
     "ci_upper": 6.93,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-small-24b-instruct-2501",
@@ -11149,14 +11326,14 @@
     ],
     "input_price": 50000.0,
     "output_price": null,
-    "rank": 309,
+    "rank": 310,
     "conservative": 4.19,
     "mu": 8.78,
     "sigma": 1.53,
     "ci_lower": 5.72,
     "ci_upper": 11.85,
     "games_played": 8,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "o3-mini",
@@ -11177,14 +11354,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 193,
-    "conservative": 21.46,
-    "mu": 24.41,
+    "rank": 195,
+    "conservative": 21.45,
+    "mu": 24.4,
     "sigma": 0.98,
-    "ci_lower": 22.44,
-    "ci_upper": 26.38,
+    "ci_lower": 22.43,
+    "ci_upper": 26.37,
     "games_played": 25,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen2.5-vl-72b",
@@ -11201,14 +11378,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 256,
+    "rank": 258,
     "conservative": 12.67,
-    "mu": 15.66,
+    "mu": 15.65,
     "sigma": 1.0,
     "ci_lower": 13.66,
     "ci_upper": 17.65,
     "games_played": 27,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen2.5-vl-7b",
@@ -11225,14 +11402,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 298,
+    "rank": 300,
     "conservative": 6.52,
     "mu": 9.61,
     "sigma": 1.03,
     "ci_lower": 7.55,
     "ci_upper": 11.67,
     "games_played": 29,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-2.0-flash-thinking",
@@ -11249,14 +11426,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 225,
+    "rank": 227,
     "conservative": 16.72,
     "mu": 23.8,
     "sigma": 2.36,
     "ci_lower": 19.08,
     "ci_upper": 28.52,
     "games_played": 3,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-r1",
@@ -11305,14 +11482,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 241,
+    "rank": 243,
     "conservative": 14.47,
     "mu": 20.68,
     "sigma": 2.07,
     "ci_lower": 16.54,
     "ci_upper": 24.82,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-r1-distill-llama-8b",
@@ -11329,14 +11506,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 296,
+    "rank": 298,
     "conservative": 7.0,
     "mu": 13.24,
     "sigma": 2.08,
     "ci_lower": 9.08,
     "ci_upper": 17.4,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-r1-distill-qwen-14b",
@@ -11353,14 +11530,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 266,
+    "rank": 268,
     "conservative": 10.94,
     "mu": 17.13,
     "sigma": 2.07,
     "ci_lower": 13.0,
     "ci_upper": 21.27,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-r1-distill-qwen-1.5b",
@@ -11377,14 +11554,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 348,
+    "rank": 350,
     "conservative": -2.97,
     "mu": 3.57,
     "sigma": 2.18,
     "ci_lower": -0.79,
     "ci_upper": 7.92,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-r1-distill-qwen-32b",
@@ -11405,14 +11582,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 254,
+    "rank": 256,
     "conservative": 13.05,
     "mu": 19.25,
     "sigma": 2.07,
     "ci_lower": 15.12,
     "ci_upper": 23.38,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-r1-distill-qwen-7b",
@@ -11429,14 +11606,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 285,
+    "rank": 287,
     "conservative": 8.43,
     "mu": 14.65,
     "sigma": 2.07,
     "ci_lower": 10.5,
     "ci_upper": 18.79,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-r1-zero",
@@ -11453,14 +11630,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 232,
+    "rank": 234,
     "conservative": 16.0,
     "mu": 22.21,
     "sigma": 2.07,
     "ci_lower": 18.07,
     "ci_upper": 26.35,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "kimi-k1.5",
@@ -11477,14 +11654,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 224,
+    "rank": 226,
     "conservative": 17.16,
     "mu": 21.92,
     "sigma": 1.59,
-    "ci_lower": 18.75,
+    "ci_lower": 18.74,
     "ci_upper": 25.1,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "eleven_v3",
@@ -11592,14 +11769,14 @@
     ],
     "input_price": 130000.0,
     "output_price": null,
-    "rank": 184,
+    "rank": 186,
     "conservative": 22.05,
     "mu": 25.34,
     "sigma": 1.1,
     "ci_lower": 23.15,
     "ci_upper": 27.53,
     "games_played": 16,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -10
   },
   {
     "model_id": "flux-2-flex",
@@ -11966,14 +12143,14 @@
     ],
     "input_price": 320000.0,
     "output_price": null,
-    "rank": 234,
-    "conservative": 15.65,
-    "mu": 19.01,
+    "rank": 236,
+    "conservative": 15.64,
+    "mu": 19.0,
     "sigma": 1.12,
-    "ci_lower": 16.77,
+    "ci_lower": 16.76,
     "ci_upper": 21.25,
     "games_played": 19,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qvq-72b-preview",
@@ -11990,14 +12167,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 288,
+    "rank": 290,
     "conservative": 7.86,
     "mu": 15.18,
     "sigma": 2.44,
     "ci_lower": 10.3,
     "ci_upper": 20.06,
     "games_played": 3,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "o1-2024-12-17",
@@ -12018,14 +12195,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 197,
+    "rank": 199,
     "conservative": 20.92,
     "mu": 24.32,
     "sigma": 1.13,
     "ci_lower": 22.05,
     "ci_upper": 26.58,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "o1-pro",
@@ -12042,14 +12219,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 205,
+    "rank": 207,
     "conservative": 19.68,
     "mu": 28.14,
     "sigma": 2.82,
     "ci_lower": 22.5,
     "ci_upper": 33.79,
     "games_played": 2,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "deepseek-vl2",
@@ -12071,14 +12248,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 317,
+    "rank": 319,
     "conservative": 2.9,
     "mu": 6.65,
     "sigma": 1.25,
     "ci_lower": 4.15,
     "ci_upper": 9.16,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-vl2-small",
@@ -12095,14 +12272,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 327,
+    "rank": 329,
     "conservative": 1.23,
     "mu": 5.0,
     "sigma": 1.26,
     "ci_lower": 2.49,
     "ci_upper": 7.52,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-vl2-tiny",
@@ -12119,14 +12296,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 357,
+    "rank": 359,
     "conservative": -4.7,
     "mu": -0.59,
     "sigma": 1.37,
     "ci_lower": -3.33,
     "ci_upper": 2.16,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-2-image-1212",
@@ -12175,14 +12352,14 @@
     ],
     "input_price": 70000.0,
     "output_price": null,
-    "rank": 302,
+    "rank": 304,
     "conservative": 5.41,
     "mu": 9.24,
     "sigma": 1.28,
-    "ci_lower": 6.69,
+    "ci_lower": 6.68,
     "ci_upper": 11.8,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-3.3-70b-instruct",
@@ -12203,7 +12380,7 @@
     ],
     "input_price": 100000.0,
     "output_price": null,
-    "rank": 247,
+    "rank": 249,
     "conservative": 13.8,
     "mu": 18.43,
     "sigma": 1.54,
@@ -12317,14 +12494,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 227,
+    "rank": 229,
     "conservative": 16.49,
     "mu": 20.48,
     "sigma": 1.33,
     "ci_lower": 17.82,
     "ci_upper": 23.14,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "ink-whisper",
@@ -12630,14 +12807,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 278,
+    "rank": 280,
     "conservative": 9.0,
     "mu": 15.21,
     "sigma": 2.07,
     "ci_lower": 11.07,
     "ci_upper": 19.36,
     "games_played": 4,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -9
   },
   {
     "model_id": "nova-lite",
@@ -12659,14 +12836,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 293,
+    "rank": 295,
     "conservative": 7.56,
     "mu": 10.57,
     "sigma": 1.0,
     "ci_lower": 8.56,
     "ci_upper": 12.58,
     "games_played": 24,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "nova-micro",
@@ -12687,14 +12864,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 320,
+    "rank": 322,
     "conservative": 2.44,
     "mu": 6.19,
     "sigma": 1.25,
     "ci_lower": 3.69,
     "ci_upper": 8.68,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "nova-pro",
@@ -12716,14 +12893,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 258,
+    "rank": 260,
     "conservative": 12.25,
     "mu": 15.35,
     "sigma": 1.03,
     "ci_lower": 13.28,
     "ci_upper": 17.42,
     "games_played": 24,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "pixtral-large",
@@ -12745,14 +12922,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 262,
+    "rank": 264,
     "conservative": 11.79,
     "mu": 17.0,
     "sigma": 1.74,
     "ci_lower": 13.53,
     "ci_upper": 20.48,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gen-4-aleph",
@@ -13056,14 +13233,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 304,
+    "rank": 306,
     "conservative": 5.19,
     "mu": 9.66,
     "sigma": 1.49,
     "ci_lower": 6.68,
-    "ci_upper": 12.65,
+    "ci_upper": 12.64,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-3-5-sonnet-20241022",
@@ -13085,14 +13262,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 213,
+    "rank": 215,
     "conservative": 19.06,
     "mu": 22.35,
     "sigma": 1.1,
     "ci_lower": 20.15,
     "ci_upper": 24.54,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mochi-1",
@@ -13169,14 +13346,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 358,
+    "rank": 360,
     "conservative": -4.72,
     "mu": -0.28,
     "sigma": 1.48,
     "ci_lower": -3.24,
     "ci_upper": 2.68,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "hermes-3-405b",
@@ -13197,14 +13374,14 @@
     ],
     "input_price": 1000000.0,
     "output_price": null,
-    "rank": 307,
+    "rank": 309,
     "conservative": 4.29,
     "mu": 8.28,
     "sigma": 1.33,
     "ci_lower": 5.62,
     "ci_upper": 10.95,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-3.1-nemotron-70b-instruct",
@@ -13221,14 +13398,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 330,
+    "rank": 332,
     "conservative": 0.36,
     "mu": 5.29,
     "sigma": 1.64,
     "ci_lower": 2.0,
     "ci_upper": 8.57,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "nova-3",
@@ -13359,14 +13536,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 340,
+    "rank": 342,
     "conservative": -1.3,
     "mu": 2.86,
     "sigma": 1.39,
     "ci_lower": 0.09,
     "ci_upper": 5.64,
     "games_played": 10,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-3.2-3b-instruct",
@@ -13387,14 +13564,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 366,
+    "rank": 368,
     "conservative": -6.07,
     "mu": -1.71,
     "sigma": 1.45,
     "ci_lower": -4.61,
     "ci_upper": 1.19,
     "games_played": 10,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-3.2-90b-instruct",
@@ -13416,14 +13593,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 303,
+    "rank": 305,
     "conservative": 5.22,
     "mu": 9.05,
     "sigma": 1.28,
-    "ci_lower": 6.5,
+    "ci_lower": 6.49,
     "ci_upper": 11.61,
     "games_played": 12,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen-2.5-14b-instruct",
@@ -13440,14 +13617,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 312,
+    "rank": 314,
     "conservative": 3.8,
     "mu": 7.35,
     "sigma": 1.18,
     "ci_lower": 4.98,
     "ci_upper": 9.71,
     "games_played": 15,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen-2.5-32b-instruct",
@@ -13464,14 +13641,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 290,
+    "rank": 292,
     "conservative": 7.71,
     "mu": 11.03,
     "sigma": 1.11,
     "ci_lower": 8.81,
     "ci_upper": 13.25,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen-2.5-72b-instruct",
@@ -13492,14 +13669,14 @@
     ],
     "input_price": 360000.0,
     "output_price": null,
-    "rank": 259,
+    "rank": 261,
     "conservative": 12.11,
     "mu": 15.72,
     "sigma": 1.2,
-    "ci_lower": 13.32,
+    "ci_lower": 13.31,
     "ci_upper": 18.13,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen-2.5-7b-instruct",
@@ -13520,14 +13697,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 319,
+    "rank": 321,
     "conservative": 2.46,
     "mu": 6.11,
     "sigma": 1.22,
     "ci_lower": 3.68,
     "ci_upper": 8.54,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen-2.5-coder-32b-instruct",
@@ -13548,14 +13725,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 323,
+    "rank": 325,
     "conservative": 2.03,
     "mu": 5.69,
     "sigma": 1.22,
     "ci_lower": 3.25,
     "ci_upper": 8.13,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen-2.5-coder-7b-instruct",
@@ -13572,14 +13749,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 349,
+    "rank": 351,
     "conservative": -3.19,
     "mu": 0.43,
     "sigma": 1.21,
     "ci_lower": -1.98,
     "ci_upper": 2.85,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-small-2409",
@@ -13629,14 +13806,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 342,
+    "rank": 344,
     "conservative": -1.63,
     "mu": 2.45,
     "sigma": 1.36,
     "ci_lower": -0.27,
     "ci_upper": 5.18,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "l3.1-70b-euryale-v2.2",
@@ -13685,14 +13862,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 272,
+    "rank": 274,
     "conservative": 10.01,
     "mu": 16.21,
     "sigma": 2.07,
     "ci_lower": 12.08,
     "ci_upper": 20.35,
     "games_played": 5,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "o1-preview",
@@ -13713,14 +13890,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 226,
+    "rank": 228,
     "conservative": 16.57,
     "mu": 21.17,
     "sigma": 1.54,
     "ci_lower": 18.1,
     "ci_upper": 24.24,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "aura-asteria-en",
@@ -14164,14 +14341,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 334,
+    "rank": 336,
     "conservative": -0.51,
     "mu": 4.72,
     "sigma": 1.75,
     "ci_lower": 1.23,
     "ci_upper": 8.21,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen2-vl-72b",
@@ -14188,14 +14365,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 243,
+    "rank": 245,
     "conservative": 14.31,
     "mu": 18.59,
     "sigma": 1.43,
     "ci_lower": 15.73,
     "ci_upper": 21.44,
     "games_played": 12,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "phi-3.5-mini-instruct",
@@ -14216,14 +14393,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 352,
+    "rank": 354,
     "conservative": -3.83,
     "mu": -0.74,
     "sigma": 1.03,
     "ci_lower": -2.8,
     "ci_upper": 1.31,
     "games_played": 21,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "phi-3.5-moe-instruct",
@@ -14240,14 +14417,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 324,
+    "rank": 326,
     "conservative": 1.91,
     "mu": 5.01,
     "sigma": 1.04,
     "ci_lower": 2.94,
     "ci_upper": 7.08,
     "games_played": 21,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "phi-3.5-vision-instruct",
@@ -14264,14 +14441,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 350,
+    "rank": 352,
     "conservative": -3.37,
     "mu": 1.89,
     "sigma": 1.75,
     "ci_lower": -1.62,
     "ci_upper": 5.4,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "jamba-1.5-large",
@@ -14292,14 +14469,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 328,
+    "rank": 330,
     "conservative": 0.91,
     "mu": 5.52,
     "sigma": 1.54,
     "ci_lower": 2.45,
     "ci_upper": 8.59,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "jamba-1.5-mini",
@@ -14320,14 +14497,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 365,
+    "rank": 367,
     "conservative": -5.68,
     "mu": -0.96,
     "sigma": 1.57,
     "ci_lower": -4.11,
     "ci_upper": 2.19,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "hermes-3-70b",
@@ -14348,14 +14525,14 @@
     ],
     "input_price": 700000.0,
     "output_price": null,
-    "rank": 310,
+    "rank": 312,
     "conservative": 4.03,
-    "mu": 7.45,
+    "mu": 7.44,
     "sigma": 1.14,
     "ci_lower": 5.17,
     "ci_upper": 9.72,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-2",
@@ -14377,14 +14554,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 264,
+    "rank": 266,
     "conservative": 11.43,
     "mu": 15.9,
     "sigma": 1.49,
     "ci_lower": 12.92,
     "ci_upper": 18.87,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-2-mini",
@@ -14401,14 +14578,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 283,
+    "rank": 285,
     "conservative": 8.58,
     "mu": 13.04,
     "sigma": 1.49,
     "ci_lower": 10.06,
     "ci_upper": 16.02,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-4o-2024-08-06",
@@ -14430,14 +14607,14 @@
     ],
     "input_price": 2500000.0,
     "output_price": null,
-    "rank": 244,
-    "conservative": 14.14,
+    "rank": 246,
+    "conservative": 14.13,
     "mu": 16.6,
     "sigma": 0.82,
-    "ci_lower": 14.96,
+    "ci_lower": 14.95,
     "ci_upper": 18.24,
     "games_played": 37,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "flux-1.1-pro",
@@ -14574,14 +14751,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 294,
+    "rank": 296,
     "conservative": 7.39,
     "mu": 13.69,
     "sigma": 2.1,
     "ci_lower": 9.49,
     "ci_upper": 17.89,
     "games_played": 4,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-3.1-405b-instruct",
@@ -14602,14 +14779,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 239,
+    "rank": 241,
     "conservative": 14.73,
     "mu": 18.69,
     "sigma": 1.32,
     "ci_lower": 16.05,
     "ci_upper": 21.33,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-3.1-70b-instruct",
@@ -14630,14 +14807,14 @@
     ],
     "input_price": 400000.0,
     "output_price": null,
-    "rank": 292,
+    "rank": 294,
     "conservative": 7.64,
     "mu": 11.66,
     "sigma": 1.34,
     "ci_lower": 8.98,
     "ci_upper": 14.34,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "llama-3.1-8b-instruct",
@@ -14658,14 +14835,14 @@
     ],
     "input_price": 20000.0,
     "output_price": null,
-    "rank": 345,
+    "rank": 347,
     "conservative": -2.58,
     "mu": 1.61,
     "sigma": 1.4,
-    "ci_lower": -1.18,
+    "ci_lower": -1.19,
     "ci_upper": 4.41,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen2-72b-instruct",
@@ -14682,14 +14859,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 300,
-    "conservative": 5.77,
+    "rank": 302,
+    "conservative": 5.76,
     "mu": 9.11,
     "sigma": 1.12,
     "ci_lower": 6.88,
     "ci_upper": 11.34,
     "games_played": 17,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen2-7b-instruct",
@@ -14706,14 +14883,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 354,
+    "rank": 356,
     "conservative": -4.48,
     "mu": -0.52,
     "sigma": 1.32,
     "ci_lower": -3.16,
     "ci_upper": 2.12,
     "games_played": 14,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-4o-mini-2024-07-18",
@@ -14735,14 +14912,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 313,
+    "rank": 315,
     "conservative": 3.63,
     "mu": 8.0,
     "sigma": 1.46,
     "ci_lower": 5.09,
     "ci_upper": 10.91,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "mistral-nemo-instruct-2407",
@@ -14763,14 +14940,14 @@
     ],
     "input_price": 19000.0,
     "output_price": null,
-    "rank": 359,
+    "rank": 361,
     "conservative": -4.76,
     "mu": 0.36,
     "sigma": 1.71,
     "ci_lower": -3.06,
     "ci_upper": 3.77,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-2-27b-it",
@@ -14787,14 +14964,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 336,
+    "rank": 338,
     "conservative": -0.71,
     "mu": 2.82,
     "sigma": 1.18,
     "ci_lower": 0.47,
     "ci_upper": 5.17,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemma-2-9b-it",
@@ -14811,14 +14988,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 360,
+    "rank": 362,
     "conservative": -4.86,
     "mu": -1.38,
     "sigma": 1.16,
     "ci_lower": -3.7,
     "ci_upper": 0.94,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-3-5-sonnet-20240620",
@@ -14840,14 +15017,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 233,
+    "rank": 235,
     "conservative": 15.87,
     "mu": 20.26,
     "sigma": 1.46,
     "ci_lower": 17.33,
     "ci_upper": 23.18,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "codestral-22b",
@@ -14864,14 +15041,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 332,
+    "rank": 334,
     "conservative": 0.01,
     "mu": 8.55,
     "sigma": 2.85,
     "ci_lower": 2.86,
     "ci_upper": 14.25,
     "games_played": 2,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "chatgpt-4o-latest",
@@ -14893,14 +15070,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 166,
+    "rank": 168,
     "conservative": 24.85,
     "mu": 36.13,
     "sigma": 3.76,
     "ci_lower": 28.61,
     "ci_upper": 43.66,
     "games_played": 1,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gpt-4o-2024-05-13",
@@ -14922,14 +15099,14 @@
     ],
     "input_price": 2500000.0,
     "output_price": null,
-    "rank": 263,
+    "rank": 265,
     "conservative": 11.5,
     "mu": 16.0,
     "sigma": 1.5,
     "ci_lower": 13.0,
     "ci_upper": 18.99,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-v2.5",
@@ -14950,14 +15127,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 287,
+    "rank": 289,
     "conservative": 8.06,
-    "mu": 12.28,
+    "mu": 12.27,
     "sigma": 1.41,
     "ci_lower": 9.46,
     "ci_upper": 15.09,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-1.5-flash",
@@ -14979,14 +15156,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 299,
+    "rank": 301,
     "conservative": 5.98,
     "mu": 9.21,
     "sigma": 1.08,
     "ci_lower": 7.06,
     "ci_upper": 11.36,
     "games_played": 20,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-1.5-pro",
@@ -15008,14 +15185,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 261,
+    "rank": 263,
     "conservative": 12.0,
     "mu": 15.17,
     "sigma": 1.06,
     "ci_lower": 13.06,
     "ci_upper": 17.29,
     "games_played": 21,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-1.5v",
@@ -15032,14 +15209,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 338,
+    "rank": 340,
     "conservative": -0.8,
     "mu": 4.15,
     "sigma": 1.65,
     "ci_lower": 0.85,
-    "ci_upper": 7.46,
+    "ci_upper": 7.45,
     "games_played": 7,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-4-turbo-2024-04-09",
@@ -15060,14 +15237,14 @@
     ],
     "input_price": 10000000.0,
     "output_price": null,
-    "rank": 276,
+    "rank": 278,
     "conservative": 9.03,
     "mu": 14.2,
     "sigma": 1.72,
     "ci_lower": 10.76,
     "ci_upper": 17.65,
     "games_played": 6,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "grok-1.5",
@@ -15084,14 +15261,14 @@
     "output_modalities": [],
     "input_price": null,
     "output_price": null,
-    "rank": 346,
+    "rank": 348,
     "conservative": -2.65,
     "mu": 1.61,
     "sigma": 1.42,
     "ci_lower": -1.23,
     "ci_upper": 4.45,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-1.5-flash-8b",
@@ -15113,14 +15290,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 337,
+    "rank": 339,
     "conservative": -0.76,
     "mu": 3.46,
     "sigma": 1.41,
     "ci_lower": 0.65,
     "ci_upper": 6.28,
     "games_played": 13,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-3-haiku-20240307",
@@ -15142,14 +15319,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 341,
+    "rank": 343,
     "conservative": -1.46,
     "mu": 2.61,
     "sigma": 1.36,
     "ci_lower": -0.1,
     "ci_upper": 5.33,
     "games_played": 10,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-3-opus-20240229",
@@ -15171,14 +15348,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 273,
+    "rank": 275,
     "conservative": 9.86,
     "mu": 13.84,
     "sigma": 1.32,
     "ci_lower": 11.19,
     "ci_upper": 16.48,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-3-sonnet-20240229",
@@ -15200,14 +15377,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 325,
+    "rank": 327,
     "conservative": 1.72,
     "mu": 5.62,
     "sigma": 1.3,
     "ci_lower": 3.02,
     "ci_upper": 8.22,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-1.0-pro",
@@ -15228,14 +15405,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 363,
+    "rank": 365,
     "conservative": -5.43,
     "mu": -0.42,
     "sigma": 1.67,
     "ci_lower": -3.76,
     "ci_upper": 2.92,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "best",
@@ -15454,14 +15631,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 316,
+    "rank": 318,
     "conservative": 2.96,
     "mu": 7.58,
     "sigma": 1.54,
     "ci_lower": 4.5,
-    "ci_upper": 10.66,
+    "ci_upper": 10.65,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-3.5-turbo-0125",
@@ -15482,14 +15659,14 @@
     ],
     "input_price": 500000.0,
     "output_price": null,
-    "rank": 370,
+    "rank": 372,
     "conservative": -9.4,
     "mu": -4.64,
     "sigma": 1.59,
     "ci_lower": -7.82,
     "ci_upper": -1.47,
     "games_played": 8,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "whisper-1",
