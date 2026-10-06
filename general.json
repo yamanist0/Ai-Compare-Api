@@ -237,7 +237,7 @@
         "ci_lower": 51.28,
         "ci_upper": 54.99,
         "rank": 17,
-        "rank_delta_14d": -4,
+        "rank_delta_14d": -3,
         "games_played": 31
       },
       {
@@ -251,7 +251,7 @@
         "ci_lower": 51.09,
         "ci_upper": 54.75,
         "rank": 18,
-        "rank_delta_14d": -4,
+        "rank_delta_14d": -3,
         "games_played": 27
       },
       {
@@ -265,7 +265,7 @@
         "ci_lower": 50.93,
         "ci_upper": 54.28,
         "rank": 19,
-        "rank_delta_14d": -4,
+        "rank_delta_14d": -6,
         "games_played": 45
       },
       {
@@ -279,7 +279,7 @@
         "ci_lower": 51.18,
         "ci_upper": 56.39,
         "rank": 20,
-        "rank_delta_14d": null,
+        "rank_delta_14d": 35,
         "games_played": 14
       },
       {
@@ -377,7 +377,7 @@
         "ci_lower": 48.8,
         "ci_upper": 52.9,
         "rank": 27,
-        "rank_delta_14d": -5,
+        "rank_delta_14d": -4,
         "games_played": 22
       },
       {
@@ -391,7 +391,7 @@
         "ci_lower": 48.66,
         "ci_upper": 52.41,
         "rank": 28,
-        "rank_delta_14d": -5,
+        "rank_delta_14d": -4,
         "games_played": 26
       },
       {
@@ -405,7 +405,7 @@
         "ci_lower": 48.87,
         "ci_upper": 53.84,
         "rank": 29,
-        "rank_delta_14d": -8,
+        "rank_delta_14d": -7,
         "games_played": 15
       },
       {
@@ -419,7 +419,7 @@
         "ci_lower": 49.35,
         "ci_upper": 56.85,
         "rank": 30,
-        "rank_delta_14d": null,
+        "rank_delta_14d": -9,
         "games_played": 8
       },
       {
@@ -433,7 +433,7 @@
         "ci_lower": 46.88,
         "ci_upper": 49.99,
         "rank": 31,
-        "rank_delta_14d": -6,
+        "rank_delta_14d": -5,
         "games_played": 69
       },
       {
@@ -447,7 +447,7 @@
         "ci_lower": 47.1,
         "ci_upper": 52.5,
         "rank": 32,
-        "rank_delta_14d": null,
+        "rank_delta_14d": -4,
         "games_played": 13
       },
       {
@@ -461,7 +461,7 @@
         "ci_lower": 47.4,
         "ci_upper": 54.37,
         "rank": 33,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -8,
         "games_played": 8
       },
       {
@@ -475,7 +475,7 @@
         "ci_lower": 46.23,
         "ci_upper": 49.62,
         "rank": 34,
-        "rank_delta_14d": -6,
+        "rank_delta_14d": -4,
         "games_played": 37
       },
       {
@@ -489,7 +489,7 @@
         "ci_lower": 46.27,
         "ci_upper": 50.49,
         "rank": 35,
-        "rank_delta_14d": -8,
+        "rank_delta_14d": -6,
         "games_played": 19
       },
       {
@@ -503,7 +503,7 @@
         "ci_lower": 46.75,
         "ci_upper": 53.58,
         "rank": 36,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -9,
         "games_played": 7
       },
       {
@@ -517,7 +517,7 @@
         "ci_lower": 45.75,
         "ci_upper": 49.77,
         "rank": 37,
-        "rank_delta_14d": -7,
+        "rank_delta_14d": -3,
         "games_played": 23
       },
       {
@@ -531,7 +531,7 @@
         "ci_lower": 45.64,
         "ci_upper": 49.42,
         "rank": 38,
-        "rank_delta_14d": -5,
+        "rank_delta_14d": -3,
         "games_played": 26
       },
       {
@@ -545,7 +545,7 @@
         "ci_lower": 46.96,
         "ci_upper": 56.04,
         "rank": 39,
-        "rank_delta_14d": -5,
+        "rank_delta_14d": -3,
         "games_played": 4
       },
       {
@@ -573,7 +573,7 @@
         "ci_lower": 45.84,
         "ci_upper": 51.43,
         "rank": 41,
-        "rank_delta_14d": -12,
+        "rank_delta_14d": -8,
         "games_played": 12
       },
       {
@@ -601,7 +601,7 @@
         "ci_lower": 44.84,
         "ci_upper": 48.79,
         "rank": 43,
-        "rank_delta_14d": -7,
+        "rank_delta_14d": -5,
         "games_played": 21
       },
       {
@@ -615,7 +615,7 @@
         "ci_lower": 45.4,
         "ci_upper": 51.77,
         "rank": 44,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -643,7 +643,7 @@
         "ci_lower": 44.45,
         "ci_upper": 48.02,
         "rank": 46,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 28
       },
       {
@@ -657,7 +657,7 @@
         "ci_lower": 44.21,
         "ci_upper": 48.25,
         "rank": 47,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 21
       },
       {
@@ -671,7 +671,7 @@
         "ci_lower": 43.8,
         "ci_upper": 46.89,
         "rank": 48,
-        "rank_delta_14d": -7,
+        "rank_delta_14d": -6,
         "games_played": 68
       },
       {
@@ -685,7 +685,7 @@
         "ci_lower": 43.98,
         "ci_upper": 48.05,
         "rank": 49,
-        "rank_delta_14d": -7,
+        "rank_delta_14d": -5,
         "games_played": 22
       },
       {
@@ -699,7 +699,7 @@
         "ci_lower": 44.59,
         "ci_upper": 51.31,
         "rank": 50,
-        "rank_delta_14d": -6,
+        "rank_delta_14d": -4,
         "games_played": 7
       },
       {
@@ -713,7 +713,7 @@
         "ci_lower": 43.82,
         "ci_upper": 47.66,
         "rank": 51,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 29
       },
       {
@@ -727,7 +727,7 @@
         "ci_lower": 44.57,
         "ci_upper": 51.54,
         "rank": 52,
-        "rank_delta_14d": -13,
+        "rank_delta_14d": -11,
         "games_played": 6
       },
       {
@@ -741,7 +741,7 @@
         "ci_lower": 45.06,
         "ci_upper": 54.3,
         "rank": 53,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -8,
         "games_played": 5
       },
       {
@@ -755,7 +755,7 @@
         "ci_lower": 43.22,
         "ci_upper": 46.18,
         "rank": 54,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 59
       },
       {
@@ -769,7 +769,7 @@
         "ci_lower": 43.43,
         "ci_upper": 47.64,
         "rank": 55,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 18
       },
       {
@@ -783,7 +783,7 @@
         "ci_lower": 44.69,
         "ci_upper": 55.07,
         "rank": 56,
-        "rank_delta_14d": -8,
+        "rank_delta_14d": -7,
         "games_played": 3
       },
       {
@@ -797,7 +797,7 @@
         "ci_lower": 42.83,
         "ci_upper": 46.5,
         "rank": 57,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 27
       },
       {
@@ -811,7 +811,7 @@
         "ci_lower": 42.79,
         "ci_upper": 47.19,
         "rank": 58,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 18
       },
       {
@@ -825,7 +825,7 @@
         "ci_lower": 42.26,
         "ci_upper": 46.2,
         "rank": 59,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 23
       },
       {
@@ -839,7 +839,7 @@
         "ci_lower": 42.17,
         "ci_upper": 46.28,
         "rank": 60,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 24
       },
       {
@@ -867,7 +867,7 @@
         "ci_lower": 42.06,
         "ci_upper": 49.38,
         "rank": 62,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -8,
         "games_played": 6
       },
       {
@@ -881,7 +881,7 @@
         "ci_lower": 41.18,
         "ci_upper": 48.01,
         "rank": 63,
-        "rank_delta_14d": -8,
+        "rank_delta_14d": -5,
         "games_played": 6
       },
       {
@@ -895,7 +895,7 @@
         "ci_lower": 40.05,
         "ci_upper": 42.86,
         "rank": 64,
-        "rank_delta_14d": -8,
+        "rank_delta_14d": -5,
         "games_played": 64
       },
       {
@@ -923,7 +923,7 @@
         "ci_lower": 40.13,
         "ci_upper": 44.36,
         "rank": 66,
-        "rank_delta_14d": -8,
+        "rank_delta_14d": -6,
         "games_played": 18
       },
       {
@@ -937,7 +937,7 @@
         "ci_lower": 40.08,
         "ci_upper": 44.27,
         "rank": 67,
-        "rank_delta_14d": -8,
+        "rank_delta_14d": -5,
         "games_played": 19
       },
       {
@@ -951,7 +951,7 @@
         "ci_lower": 42.79,
         "ci_upper": 58.42,
         "rank": 68,
-        "rank_delta_14d": -15,
+        "rank_delta_14d": -12,
         "games_played": 1
       },
       {
@@ -965,7 +965,7 @@
         "ci_lower": 39.57,
         "ci_upper": 42.85,
         "rank": 69,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 40
       },
       {
@@ -979,7 +979,7 @@
         "ci_lower": 39.46,
         "ci_upper": 42.67,
         "rank": 70,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 37
       },
       {
@@ -993,7 +993,7 @@
         "ci_lower": 39.52,
         "ci_upper": 43.55,
         "rank": 71,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 21
       },
       {
@@ -1007,7 +1007,7 @@
         "ci_lower": 39.31,
         "ci_upper": 43.34,
         "rank": 72,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 24
       },
       {
@@ -1021,7 +1021,7 @@
         "ci_lower": 41.07,
         "ci_upper": 52.47,
         "rank": 73,
-        "rank_delta_14d": -19,
+        "rank_delta_14d": -12,
         "games_played": 2
       },
       {
@@ -1035,7 +1035,7 @@
         "ci_lower": 39.53,
         "ci_upper": 44.99,
         "rank": 74,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -1049,7 +1049,7 @@
         "ci_lower": 38.46,
         "ci_upper": 43.54,
         "rank": 75,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 16
       },
       {
@@ -1063,7 +1063,7 @@
         "ci_lower": 38.8,
         "ci_upper": 45.44,
         "rank": 76,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 7
       },
       {
@@ -1077,7 +1077,7 @@
         "ci_lower": 38.94,
         "ci_upper": 46.47,
         "rank": 77,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 5
       },
       {
@@ -1091,7 +1091,7 @@
         "ci_lower": 37.87,
         "ci_upper": 41.72,
         "rank": 78,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 22
       },
       {
@@ -1105,7 +1105,7 @@
         "ci_lower": 38.92,
         "ci_upper": 47.28,
         "rank": 79,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 5
       },
       {
@@ -1119,7 +1119,7 @@
         "ci_lower": 37.7,
         "ci_upper": 41.4,
         "rank": 80,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 25
       },
       {
@@ -1133,7 +1133,7 @@
         "ci_lower": 40.45,
         "ci_upper": 55.98,
         "rank": 81,
-        "rank_delta_14d": -16,
+        "rank_delta_14d": -13,
         "games_played": 1
       },
       {
@@ -1147,7 +1147,7 @@
         "ci_lower": 38.0,
         "ci_upper": 43.83,
         "rank": 82,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -1161,7 +1161,7 @@
         "ci_lower": 37.9,
         "ci_upper": 43.73,
         "rank": 83,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 9
       },
       {
@@ -1175,7 +1175,7 @@
         "ci_lower": 38.32,
         "ci_upper": 46.11,
         "rank": 84,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 6
       },
       {
@@ -1189,7 +1189,7 @@
         "ci_lower": 37.77,
         "ci_upper": 43.61,
         "rank": 85,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 9
       },
       {
@@ -1203,7 +1203,7 @@
         "ci_lower": 37.33,
         "ci_upper": 41.72,
         "rank": 86,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 19
       },
       {
@@ -1217,7 +1217,7 @@
         "ci_lower": 37.17,
         "ci_upper": 41.2,
         "rank": 87,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 25
       },
       {
@@ -1245,7 +1245,7 @@
         "ci_lower": 37.08,
         "ci_upper": 41.29,
         "rank": 89,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 19
       },
       {
@@ -1259,7 +1259,7 @@
         "ci_lower": 36.95,
         "ci_upper": 41.12,
         "rank": 90,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 20
       },
       {
@@ -1273,7 +1273,7 @@
         "ci_lower": 37.23,
         "ci_upper": 43.84,
         "rank": 91,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -1287,7 +1287,7 @@
         "ci_lower": 36.26,
         "ci_upper": 39.32,
         "rank": 92,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 43
       },
       {
@@ -1301,7 +1301,7 @@
         "ci_lower": 36.62,
         "ci_upper": 41.92,
         "rank": 93,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 11
       },
       {
@@ -1315,7 +1315,7 @@
         "ci_lower": 36.9,
         "ci_upper": 43.34,
         "rank": 94,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 8
       },
       {
@@ -1329,7 +1329,7 @@
         "ci_lower": 37.57,
         "ci_upper": 47.0,
         "rank": 95,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 3
       },
       {
@@ -1343,7 +1343,7 @@
         "ci_lower": 36.59,
         "ci_upper": 42.37,
         "rank": 96,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -1357,7 +1357,7 @@
         "ci_lower": 35.68,
         "ci_upper": 38.41,
         "rank": 97,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 81
       },
       {
@@ -1371,7 +1371,7 @@
         "ci_lower": 35.92,
         "ci_upper": 40.18,
         "rank": 98,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 19
       },
       {
@@ -1385,7 +1385,7 @@
         "ci_lower": 35.48,
         "ci_upper": 40.3,
         "rank": 99,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 13
       },
       {
@@ -1399,7 +1399,7 @@
         "ci_lower": 36.58,
         "ci_upper": 46.01,
         "rank": 100,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 3
       },
       {
@@ -1413,7 +1413,7 @@
         "ci_lower": 34.93,
         "ci_upper": 38.07,
         "rank": 101,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 56
       },
       {
@@ -1427,7 +1427,7 @@
         "ci_lower": 36.78,
         "ci_upper": 48.02,
         "rank": 102,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 2
       },
       {
@@ -1441,7 +1441,7 @@
         "ci_lower": 34.59,
         "ci_upper": 37.28,
         "rank": 103,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 82
       },
       {
@@ -1455,7 +1455,7 @@
         "ci_lower": 35.38,
         "ci_upper": 41.41,
         "rank": 104,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -1469,7 +1469,7 @@
         "ci_lower": 34.69,
         "ci_upper": 38.36,
         "rank": 105,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 30
       },
       {
@@ -1483,7 +1483,7 @@
         "ci_lower": 35.39,
         "ci_upper": 42.24,
         "rank": 106,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -1497,7 +1497,7 @@
         "ci_lower": 35.28,
         "ci_upper": 42.73,
         "rank": 107,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -1511,7 +1511,7 @@
         "ci_lower": 34.3,
         "ci_upper": 38.7,
         "rank": 108,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -1525,7 +1525,7 @@
         "ci_lower": 34.27,
         "ci_upper": 38.94,
         "rank": 109,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 15
       },
       {
@@ -1539,7 +1539,7 @@
         "ci_lower": 34.07,
         "ci_upper": 38.54,
         "rank": 110,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 18
       },
       {
@@ -1553,7 +1553,7 @@
         "ci_lower": 33.74,
         "ci_upper": 37.17,
         "rank": 111,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 33
       },
       {
@@ -1567,7 +1567,7 @@
         "ci_lower": 33.72,
         "ci_upper": 38.33,
         "rank": 112,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -1581,7 +1581,7 @@
         "ci_lower": 33.13,
         "ci_upper": 36.09,
         "rank": 113,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 49
       },
       {
@@ -1595,7 +1595,7 @@
         "ci_lower": 33.83,
         "ci_upper": 40.2,
         "rank": 114,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -1609,7 +1609,7 @@
         "ci_lower": 33.69,
         "ci_upper": 40.06,
         "rank": 115,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -1623,7 +1623,7 @@
         "ci_lower": 33.77,
         "ci_upper": 41.22,
         "rank": 116,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -1637,7 +1637,7 @@
         "ci_lower": 32.99,
         "ci_upper": 37.52,
         "rank": 117,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 15
       },
       {
@@ -1651,7 +1651,7 @@
         "ci_lower": 33.27,
         "ci_upper": 39.65,
         "rank": 118,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -1665,7 +1665,7 @@
         "ci_lower": 33.48,
         "ci_upper": 42.15,
         "rank": 119,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -1679,7 +1679,7 @@
         "ci_lower": 35.01,
         "ci_upper": 50.13,
         "rank": 120,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -1693,7 +1693,7 @@
         "ci_lower": 32.01,
         "ci_upper": 35.91,
         "rank": 121,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 22
       },
       {
@@ -1707,7 +1707,7 @@
         "ci_lower": 32.05,
         "ci_upper": 36.76,
         "rank": 122,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -1721,7 +1721,7 @@
         "ci_lower": 31.52,
         "ci_upper": 34.27,
         "rank": 123,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 81
       },
       {
@@ -1735,7 +1735,7 @@
         "ci_lower": 31.92,
         "ci_upper": 36.34,
         "rank": 124,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -1749,7 +1749,7 @@
         "ci_lower": 31.83,
         "ci_upper": 36.41,
         "rank": 125,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 15
       },
       {
@@ -1763,7 +1763,7 @@
         "ci_lower": 32.25,
         "ci_upper": 39.77,
         "rank": 126,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -1777,7 +1777,7 @@
         "ci_lower": 31.96,
         "ci_upper": 38.8,
         "rank": 127,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -1791,7 +1791,7 @@
         "ci_lower": 31.07,
         "ci_upper": 35.17,
         "rank": 128,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 20
       },
       {
@@ -1805,7 +1805,7 @@
         "ci_lower": 32.3,
         "ci_upper": 41.69,
         "rank": 129,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 4
       },
       {
@@ -1819,7 +1819,7 @@
         "ci_lower": 31.17,
         "ci_upper": 36.21,
         "rank": 130,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -1833,7 +1833,7 @@
         "ci_lower": 31.43,
         "ci_upper": 37.71,
         "rank": 131,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -1847,7 +1847,7 @@
         "ci_lower": 31.57,
         "ci_upper": 39.23,
         "rank": 132,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -1861,7 +1861,7 @@
         "ci_lower": 32.74,
         "ci_upper": 45.31,
         "rank": 133,
-        "rank_delta_14d": -8,
+        "rank_delta_14d": -5,
         "games_played": 2
       },
       {
@@ -1875,7 +1875,7 @@
         "ci_lower": 32.38,
         "ci_upper": 43.61,
         "rank": 134,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 2
       },
       {
@@ -1889,7 +1889,7 @@
         "ci_lower": 30.82,
         "ci_upper": 35.94,
         "rank": 135,
-        "rank_delta_14d": -12,
+        "rank_delta_14d": -9,
         "games_played": 12
       },
       {
@@ -1903,7 +1903,7 @@
         "ci_lower": 32.29,
         "ci_upper": 43.41,
         "rank": 136,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 3
       },
       {
@@ -1917,7 +1917,7 @@
         "ci_lower": 33.19,
         "ci_upper": 48.28,
         "rank": 137,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -1931,7 +1931,7 @@
         "ci_lower": 30.43,
         "ci_upper": 35.84,
         "rank": 138,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -1945,7 +1945,7 @@
         "ci_lower": 30.57,
         "ci_upper": 36.89,
         "rank": 139,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -1959,7 +1959,7 @@
         "ci_lower": 30.29,
         "ci_upper": 36.78,
         "rank": 140,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -1973,7 +1973,7 @@
         "ci_lower": 29.8,
         "ci_upper": 34.6,
         "rank": 141,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -1987,7 +1987,7 @@
         "ci_lower": 29.32,
         "ci_upper": 34.0,
         "rank": 142,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -2001,7 +2001,7 @@
         "ci_lower": 28.98,
         "ci_upper": 32.75,
         "rank": 143,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 24
       },
       {
@@ -2015,7 +2015,7 @@
         "ci_lower": 28.64,
         "ci_upper": 31.98,
         "rank": 144,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 79
       },
       {
@@ -2029,7 +2029,7 @@
         "ci_lower": 29.04,
         "ci_upper": 34.01,
         "rank": 145,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 15
       },
       {
@@ -2043,7 +2043,7 @@
         "ci_lower": 30.6,
         "ci_upper": 42.02,
         "rank": 146,
-        "rank_delta_14d": -12,
+        "rank_delta_14d": -9,
         "games_played": 2
       },
       {
@@ -2057,7 +2057,7 @@
         "ci_lower": 29.17,
         "ci_upper": 35.08,
         "rank": 147,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -2071,7 +2071,7 @@
         "ci_lower": 28.87,
         "ci_upper": 33.63,
         "rank": 148,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -2085,7 +2085,7 @@
         "ci_lower": 30.44,
         "ci_upper": 41.7,
         "rank": 149,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 2
       },
       {
@@ -2099,7 +2099,7 @@
         "ci_lower": 30.05,
         "ci_upper": 40.1,
         "rank": 150,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 3
       },
       {
@@ -2113,7 +2113,7 @@
         "ci_lower": 28.64,
         "ci_upper": 33.33,
         "rank": 151,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -2127,7 +2127,7 @@
         "ci_lower": 29.21,
         "ci_upper": 36.8,
         "rank": 152,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -2141,7 +2141,7 @@
         "ci_lower": 28.44,
         "ci_upper": 34.8,
         "rank": 153,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -2155,7 +2155,7 @@
         "ci_lower": 27.98,
         "ci_upper": 32.62,
         "rank": 154,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 15
       },
       {
@@ -2169,7 +2169,7 @@
         "ci_lower": 27.74,
         "ci_upper": 31.54,
         "rank": 155,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 23
       },
       {
@@ -2183,7 +2183,7 @@
         "ci_lower": 27.39,
         "ci_upper": 30.3,
         "rank": 156,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 58
       },
       {
@@ -2197,7 +2197,7 @@
         "ci_lower": 30.38,
         "ci_upper": 45.42,
         "rank": 157,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -2211,7 +2211,7 @@
         "ci_lower": 27.6,
         "ci_upper": 31.68,
         "rank": 158,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 21
       },
       {
@@ -2225,7 +2225,7 @@
         "ci_lower": 27.94,
         "ci_upper": 34.86,
         "rank": 159,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -2239,7 +2239,7 @@
         "ci_lower": 27.11,
         "ci_upper": 31.64,
         "rank": 160,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 15
       },
       {
@@ -2253,7 +2253,7 @@
         "ci_lower": 26.68,
         "ci_upper": 30.65,
         "rank": 161,
-        "rank_delta_14d": -2,
+        "rank_delta_14d": -4,
         "games_played": 28
       },
       {
@@ -2267,7 +2267,7 @@
         "ci_lower": 26.85,
         "ci_upper": 31.53,
         "rank": 162,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -9,
         "games_played": 14
       },
       {
@@ -2281,7 +2281,7 @@
         "ci_lower": 26.8,
         "ci_upper": 31.28,
         "rank": 163,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 18
       },
       {
@@ -2295,7 +2295,7 @@
         "ci_lower": 26.9,
         "ci_upper": 31.82,
         "rank": 164,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 16
       },
       {
@@ -2309,7 +2309,7 @@
         "ci_lower": 27.37,
         "ci_upper": 35.01,
         "rank": 165,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -2323,7 +2323,7 @@
         "ci_lower": 27.03,
         "ci_upper": 33.45,
         "rank": 166,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -2337,7 +2337,7 @@
         "ci_lower": 26.45,
         "ci_upper": 30.81,
         "rank": 167,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 18
       },
       {
@@ -2351,7 +2351,7 @@
         "ci_lower": 28.61,
         "ci_upper": 43.66,
         "rank": 168,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -2365,7 +2365,7 @@
         "ci_lower": 25.66,
         "ci_upper": 29.43,
         "rank": 169,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 25
       },
       {
@@ -2379,7 +2379,7 @@
         "ci_lower": 25.4,
         "ci_upper": 28.36,
         "rank": 170,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 50
       },
       {
@@ -2393,7 +2393,7 @@
         "ci_lower": 26.46,
         "ci_upper": 34.92,
         "rank": 171,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -8,
         "games_played": 4
       },
       {
@@ -2407,7 +2407,7 @@
         "ci_lower": 25.53,
         "ci_upper": 30.25,
         "rank": 172,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -6,
         "games_played": 14
       },
       {
@@ -2421,7 +2421,7 @@
         "ci_lower": 25.7,
         "ci_upper": 31.69,
         "rank": 173,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -2435,7 +2435,7 @@
         "ci_lower": 25.08,
         "ci_upper": 28.81,
         "rank": 174,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 25
       },
       {
@@ -2449,7 +2449,7 @@
         "ci_lower": 25.22,
         "ci_upper": 29.71,
         "rank": 175,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -2463,7 +2463,7 @@
         "ci_lower": 25.39,
         "ci_upper": 30.9,
         "rank": 176,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 10
       },
       {
@@ -2477,7 +2477,7 @@
         "ci_lower": 25.22,
         "ci_upper": 30.41,
         "rank": 177,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -2491,7 +2491,7 @@
         "ci_lower": 24.76,
         "ci_upper": 28.6,
         "rank": 178,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 22
       },
       {
@@ -2505,7 +2505,7 @@
         "ci_lower": 24.9,
         "ci_upper": 29.29,
         "rank": 179,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 18
       },
       {
@@ -2519,7 +2519,7 @@
         "ci_lower": 26.66,
         "ci_upper": 38.44,
         "rank": 180,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 2
       },
       {
@@ -2533,7 +2533,7 @@
         "ci_lower": 25.27,
         "ci_upper": 32.18,
         "rank": 181,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -2547,7 +2547,7 @@
         "ci_lower": 24.28,
         "ci_upper": 27.25,
         "rank": 182,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 47
       },
       {
@@ -2561,7 +2561,7 @@
         "ci_lower": 25.21,
         "ci_upper": 32.15,
         "rank": 183,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -2575,7 +2575,7 @@
         "ci_lower": 24.6,
         "ci_upper": 29.61,
         "rank": 184,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -2589,7 +2589,7 @@
         "ci_lower": 26.06,
         "ci_upper": 41.54,
         "rank": 185,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -2603,7 +2603,7 @@
         "ci_lower": 23.15,
         "ci_upper": 27.53,
         "rank": 186,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -2617,7 +2617,7 @@
         "ci_lower": 23.36,
         "ci_upper": 28.63,
         "rank": 187,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -2631,7 +2631,7 @@
         "ci_lower": 23.16,
         "ci_upper": 27.9,
         "rank": 188,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 15
       },
       {
@@ -2645,7 +2645,7 @@
         "ci_lower": 23.87,
         "ci_upper": 31.56,
         "rank": 189,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -2659,7 +2659,7 @@
         "ci_lower": 22.74,
         "ci_upper": 26.22,
         "rank": 190,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 30
       },
       {
@@ -2673,7 +2673,7 @@
         "ci_lower": 22.94,
         "ci_upper": 27.67,
         "rank": 191,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 15
       },
       {
@@ -2687,7 +2687,7 @@
         "ci_lower": 23.44,
         "ci_upper": 30.32,
         "rank": 192,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -2701,7 +2701,7 @@
         "ci_lower": 23.38,
         "ci_upper": 30.31,
         "rank": 193,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -2715,7 +2715,7 @@
         "ci_lower": 22.46,
         "ci_upper": 26.01,
         "rank": 194,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 27
       },
       {
@@ -2729,7 +2729,7 @@
         "ci_lower": 22.43,
         "ci_upper": 26.37,
         "rank": 195,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 25
       },
       {
@@ -2743,7 +2743,7 @@
         "ci_lower": 22.55,
         "ci_upper": 27.01,
         "rank": 196,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -2757,7 +2757,7 @@
         "ci_lower": 22.59,
         "ci_upper": 28.67,
         "rank": 197,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -2771,7 +2771,7 @@
         "ci_lower": 22.18,
         "ci_upper": 26.76,
         "rank": 198,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 15
       },
       {
@@ -2785,7 +2785,7 @@
         "ci_lower": 22.05,
         "ci_upper": 26.58,
         "rank": 199,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -2799,7 +2799,7 @@
         "ci_lower": 24.49,
         "ci_upper": 39.52,
         "rank": 200,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -2813,7 +2813,7 @@
         "ci_lower": 22.64,
         "ci_upper": 30.9,
         "rank": 201,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -2827,7 +2827,7 @@
         "ci_lower": 21.64,
         "ci_upper": 26.13,
         "rank": 202,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -2841,7 +2841,7 @@
         "ci_lower": 21.01,
         "ci_upper": 23.99,
         "rank": 203,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 45
       },
       {
@@ -2855,7 +2855,7 @@
         "ci_lower": 21.09,
         "ci_upper": 24.82,
         "rank": 204,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 26
       },
       {
@@ -2869,7 +2869,7 @@
         "ci_lower": 21.08,
         "ci_upper": 24.83,
         "rank": 205,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 24
       },
       {
@@ -2883,7 +2883,7 @@
         "ci_lower": 20.89,
         "ci_upper": 25.27,
         "rank": 206,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -2897,7 +2897,7 @@
         "ci_lower": 22.5,
         "ci_upper": 33.79,
         "rank": 207,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -7,
         "games_played": 2
       },
       {
@@ -2911,22 +2911,8 @@
         "ci_lower": 20.78,
         "ci_upper": 25.27,
         "rank": 208,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -7,
         "games_played": 18
-      },
-      {
-        "model_id": "sarvam-30b",
-        "model_name": "Sarvam-30B",
-        "organization_id": "sarvamai",
-        "organization_name": "Sarvam AI",
-        "conservative": 19.54,
-        "mu": 23.16,
-        "sigma": 1.21,
-        "ci_lower": 20.75,
-        "ci_upper": 25.57,
-        "rank": 209,
-        "rank_delta_14d": -10,
-        "games_played": 14
       },
       {
         "model_id": "grok-4.1-2025-11-17",
@@ -2938,23 +2924,23 @@
         "sigma": 3.27,
         "ci_lower": 22.82,
         "ci_upper": 35.92,
-        "rank": 210,
-        "rank_delta_14d": -10,
+        "rank": 209,
+        "rank_delta_14d": -7,
         "games_played": 2
       },
       {
-        "model_id": "qwen3.5-4b",
-        "model_name": "Qwen3.5-4B",
-        "organization_id": "qwen",
-        "organization_name": "Alibaba Cloud / Qwen Team",
-        "conservative": 19.5,
-        "mu": 22.46,
-        "sigma": 0.99,
-        "ci_lower": 20.49,
-        "ci_upper": 24.44,
-        "rank": 211,
-        "rank_delta_14d": -11,
-        "games_played": 25
+        "model_id": "sarvam-30b",
+        "model_name": "Sarvam-30B",
+        "organization_id": "sarvamai",
+        "organization_name": "Sarvam AI",
+        "conservative": 19.54,
+        "mu": 23.16,
+        "sigma": 1.21,
+        "ci_lower": 20.75,
+        "ci_upper": 25.57,
+        "rank": 210,
+        "rank_delta_14d": -7,
+        "games_played": 14
       },
       {
         "model_id": "gpt-5-nano-2025-08-07",
@@ -2966,9 +2952,23 @@
         "sigma": 1.91,
         "ci_lower": 21.41,
         "ci_upper": 29.03,
-        "rank": 212,
-        "rank_delta_14d": -9,
+        "rank": 211,
+        "rank_delta_14d": -6,
         "games_played": 5
+      },
+      {
+        "model_id": "qwen3.5-4b",
+        "model_name": "Qwen3.5-4B",
+        "organization_id": "qwen",
+        "organization_name": "Alibaba Cloud / Qwen Team",
+        "conservative": 19.5,
+        "mu": 22.46,
+        "sigma": 0.99,
+        "ci_lower": 20.49,
+        "ci_upper": 24.44,
+        "rank": 212,
+        "rank_delta_14d": -8,
+        "games_played": 25
       },
       {
         "model_id": "diffusiongemma-26b-a4b-it",
@@ -2981,7 +2981,7 @@
         "ci_lower": 20.69,
         "ci_upper": 25.8,
         "rank": 213,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -2995,7 +2995,7 @@
         "ci_lower": 20.87,
         "ci_upper": 27.95,
         "rank": 214,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -3009,7 +3009,7 @@
         "ci_lower": 20.15,
         "ci_upper": 24.54,
         "rank": 215,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -3023,7 +3023,7 @@
         "ci_lower": 20.7,
         "ci_upper": 27.49,
         "rank": 216,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -3037,7 +3037,7 @@
         "ci_lower": 20.44,
         "ci_upper": 26.27,
         "rank": 217,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -3051,7 +3051,7 @@
         "ci_lower": 19.86,
         "ci_upper": 24.68,
         "rank": 218,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -3065,7 +3065,7 @@
         "ci_lower": 20.31,
         "ci_upper": 27.77,
         "rank": 219,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -3079,7 +3079,7 @@
         "ci_lower": 19.99,
         "ci_upper": 26.25,
         "rank": 220,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -3093,7 +3093,7 @@
         "ci_lower": 18.95,
         "ci_upper": 21.81,
         "rank": 221,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 50
       },
       {
@@ -3107,7 +3107,7 @@
         "ci_lower": 19.26,
         "ci_upper": 23.92,
         "rank": 222,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -3121,7 +3121,7 @@
         "ci_lower": 19.71,
         "ci_upper": 26.48,
         "rank": 223,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 7
       },
       {
@@ -3135,7 +3135,7 @@
         "ci_lower": 18.92,
         "ci_upper": 22.57,
         "rank": 224,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 28
       },
       {
@@ -3149,7 +3149,7 @@
         "ci_lower": 18.79,
         "ci_upper": 24.83,
         "rank": 225,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -3163,7 +3163,7 @@
         "ci_lower": 18.74,
         "ci_upper": 25.1,
         "rank": 226,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -3177,7 +3177,7 @@
         "ci_lower": 19.08,
         "ci_upper": 28.52,
         "rank": 227,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 3
       },
       {
@@ -3191,7 +3191,7 @@
         "ci_lower": 18.1,
         "ci_upper": 24.24,
         "rank": 228,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -3205,7 +3205,7 @@
         "ci_lower": 17.82,
         "ci_upper": 23.14,
         "rank": 229,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -3219,7 +3219,7 @@
         "ci_lower": 18.53,
         "ci_upper": 26.75,
         "rank": 230,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -3233,7 +3233,7 @@
         "ci_lower": 17.11,
         "ci_upper": 19.99,
         "rank": 231,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 50
       },
       {
@@ -3247,7 +3247,7 @@
         "ci_lower": 16.95,
         "ci_upper": 19.82,
         "rank": 232,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 50
       },
       {
@@ -3261,7 +3261,7 @@
         "ci_lower": 20.02,
         "ci_upper": 35.92,
         "rank": 233,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 2
       },
       {
@@ -3275,7 +3275,7 @@
         "ci_lower": 18.07,
         "ci_upper": 26.35,
         "rank": 234,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -3289,7 +3289,7 @@
         "ci_lower": 17.33,
         "ci_upper": 23.18,
         "rank": 235,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -3303,7 +3303,7 @@
         "ci_lower": 16.76,
         "ci_upper": 21.25,
         "rank": 236,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 19
       },
       {
@@ -3317,7 +3317,7 @@
         "ci_lower": 16.55,
         "ci_upper": 20.57,
         "rank": 237,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 21
       },
       {
@@ -3331,7 +3331,7 @@
         "ci_lower": 16.81,
         "ci_upper": 22.15,
         "rank": 238,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -3345,7 +3345,7 @@
         "ci_lower": 16.51,
         "ci_upper": 22.51,
         "rank": 239,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -3359,7 +3359,7 @@
         "ci_lower": 16.36,
         "ci_upper": 22.79,
         "rank": 240,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -3373,7 +3373,7 @@
         "ci_lower": 16.05,
         "ci_upper": 21.33,
         "rank": 241,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -3387,7 +3387,7 @@
         "ci_lower": 15.94,
         "ci_upper": 20.98,
         "rank": 242,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 12
       },
       {
@@ -3401,7 +3401,7 @@
         "ci_lower": 16.54,
         "ci_upper": 24.82,
         "rank": 243,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -3415,7 +3415,7 @@
         "ci_lower": 15.74,
         "ci_upper": 21.17,
         "rank": 244,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 12
       },
       {
@@ -3429,7 +3429,7 @@
         "ci_lower": 15.73,
         "ci_upper": 21.44,
         "rank": 245,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 12
       },
       {
@@ -3443,7 +3443,7 @@
         "ci_lower": 14.95,
         "ci_upper": 18.24,
         "rank": 246,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 37
       },
       {
@@ -3457,7 +3457,7 @@
         "ci_lower": 14.94,
         "ci_upper": 18.69,
         "rank": 247,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 28
       },
       {
@@ -3471,7 +3471,7 @@
         "ci_lower": 14.59,
         "ci_upper": 17.57,
         "rank": 248,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 46
       },
       {
@@ -3485,7 +3485,7 @@
         "ci_lower": 15.34,
         "ci_upper": 21.52,
         "rank": 249,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 8
       },
       {
@@ -3499,7 +3499,7 @@
         "ci_lower": 15.21,
         "ci_upper": 20.87,
         "rank": 250,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 11
       },
       {
@@ -3513,7 +3513,7 @@
         "ci_lower": 17.31,
         "ci_upper": 32.35,
         "rank": 251,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -3527,7 +3527,7 @@
         "ci_lower": 14.79,
         "ci_upper": 20.12,
         "rank": 252,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 12
       },
       {
@@ -3541,7 +3541,7 @@
         "ci_lower": 15.23,
         "ci_upper": 22.67,
         "rank": 253,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -3555,7 +3555,7 @@
         "ci_lower": 14.82,
         "ci_upper": 21.69,
         "rank": 254,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -3569,7 +3569,7 @@
         "ci_lower": 14.78,
         "ci_upper": 21.65,
         "rank": 255,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -3583,7 +3583,7 @@
         "ci_lower": 15.12,
         "ci_upper": 23.38,
         "rank": 256,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -3597,7 +3597,7 @@
         "ci_lower": 13.65,
         "ci_upper": 16.61,
         "rank": 257,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 48
       },
       {
@@ -3611,7 +3611,7 @@
         "ci_lower": 13.66,
         "ci_upper": 17.65,
         "rank": 258,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 27
       },
       {
@@ -3625,7 +3625,7 @@
         "ci_lower": 13.75,
         "ci_upper": 19.3,
         "rank": 259,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -3639,7 +3639,7 @@
         "ci_lower": 13.28,
         "ci_upper": 17.42,
         "rank": 260,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 24
       },
       {
@@ -3653,7 +3653,7 @@
         "ci_lower": 13.31,
         "ci_upper": 18.13,
         "rank": 261,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -3667,7 +3667,7 @@
         "ci_lower": 13.51,
         "ci_upper": 19.51,
         "rank": 262,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -3681,7 +3681,7 @@
         "ci_lower": 13.06,
         "ci_upper": 17.29,
         "rank": 263,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 21
       },
       {
@@ -3695,7 +3695,7 @@
         "ci_lower": 13.53,
         "ci_upper": 20.48,
         "rank": 264,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -3709,7 +3709,7 @@
         "ci_lower": 13.0,
         "ci_upper": 18.99,
         "rank": 265,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -3723,7 +3723,7 @@
         "ci_lower": 12.92,
         "ci_upper": 18.87,
         "rank": 266,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -3737,7 +3737,7 @@
         "ci_lower": 13.21,
         "ci_upper": 21.43,
         "rank": 267,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -3751,7 +3751,7 @@
         "ci_lower": 13.0,
         "ci_upper": 21.27,
         "rank": 268,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -3765,7 +3765,7 @@
         "ci_lower": 12.73,
         "ci_upper": 20.95,
         "rank": 269,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -3779,7 +3779,7 @@
         "ci_lower": 11.43,
         "ci_upper": 14.5,
         "rank": 270,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 45
       },
       {
@@ -3793,7 +3793,7 @@
         "ci_lower": 12.06,
         "ci_upper": 18.54,
         "rank": 271,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -3807,7 +3807,7 @@
         "ci_lower": 11.79,
         "ci_upper": 17.26,
         "rank": 272,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 12
       },
       {
@@ -3821,7 +3821,7 @@
         "ci_lower": 12.35,
         "ci_upper": 21.25,
         "rank": 273,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -3835,7 +3835,7 @@
         "ci_lower": 12.08,
         "ci_upper": 20.35,
         "rank": 274,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -3849,7 +3849,7 @@
         "ci_lower": 11.19,
         "ci_upper": 16.48,
         "rank": 275,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -3863,7 +3863,7 @@
         "ci_lower": 10.67,
         "ci_upper": 14.47,
         "rank": 276,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 28
       },
       {
@@ -3877,7 +3877,7 @@
         "ci_lower": 13.04,
         "ci_upper": 28.11,
         "rank": 277,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -3891,7 +3891,7 @@
         "ci_lower": 10.76,
         "ci_upper": 17.65,
         "rank": 278,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -3905,7 +3905,7 @@
         "ci_lower": 10.93,
         "ci_upper": 18.56,
         "rank": 279,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -3919,7 +3919,7 @@
         "ci_lower": 11.07,
         "ci_upper": 19.36,
         "rank": 280,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 4
       },
       {
@@ -3933,7 +3933,7 @@
         "ci_lower": 11.65,
         "ci_upper": 22.29,
         "rank": 281,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 3
       },
       {
@@ -3947,7 +3947,7 @@
         "ci_lower": 10.82,
         "ci_upper": 18.45,
         "rank": 282,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -3961,7 +3961,7 @@
         "ci_lower": 10.72,
         "ci_upper": 18.34,
         "rank": 283,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -3975,7 +3975,7 @@
         "ci_lower": 10.62,
         "ci_upper": 18.25,
         "rank": 284,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -3989,7 +3989,7 @@
         "ci_lower": 10.06,
         "ci_upper": 16.02,
         "rank": 285,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -4003,7 +4003,7 @@
         "ci_lower": 9.71,
         "ci_upper": 14.73,
         "rank": 286,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 12
       },
       {
@@ -4017,7 +4017,7 @@
         "ci_lower": 10.5,
         "ci_upper": 18.79,
         "rank": 287,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -4031,7 +4031,7 @@
         "ci_lower": 9.2,
         "ci_upper": 12.94,
         "rank": 288,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 27
       },
       {
@@ -4045,7 +4045,7 @@
         "ci_lower": 9.46,
         "ci_upper": 15.09,
         "rank": 289,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -4059,7 +4059,7 @@
         "ci_lower": 10.3,
         "ci_upper": 20.06,
         "rank": 290,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 3
       },
       {
@@ -4073,7 +4073,7 @@
         "ci_lower": 9.13,
         "ci_upper": 14.31,
         "rank": 291,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -4087,7 +4087,7 @@
         "ci_lower": 8.81,
         "ci_upper": 13.25,
         "rank": 292,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -4101,7 +4101,7 @@
         "ci_lower": 9.89,
         "ci_upper": 18.72,
         "rank": 293,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -4115,7 +4115,7 @@
         "ci_lower": 8.98,
         "ci_upper": 14.34,
         "rank": 294,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -4129,7 +4129,7 @@
         "ci_lower": 8.56,
         "ci_upper": 12.58,
         "rank": 295,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 24
       },
       {
@@ -4143,7 +4143,7 @@
         "ci_lower": 9.49,
         "ci_upper": 17.89,
         "rank": 296,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -4157,7 +4157,7 @@
         "ci_lower": 9.98,
         "ci_upper": 21.31,
         "rank": 297,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 2
       },
       {
@@ -4171,7 +4171,7 @@
         "ci_lower": 9.08,
         "ci_upper": 17.4,
         "rank": 298,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -4185,7 +4185,7 @@
         "ci_lower": 8.2,
         "ci_upper": 14.09,
         "rank": 299,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -4199,7 +4199,7 @@
         "ci_lower": 7.55,
         "ci_upper": 11.67,
         "rank": 300,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 29
       },
       {
@@ -4213,7 +4213,7 @@
         "ci_lower": 7.06,
         "ci_upper": 11.36,
         "rank": 301,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 20
       },
       {
@@ -4227,7 +4227,7 @@
         "ci_lower": 6.88,
         "ci_upper": 11.34,
         "rank": 302,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -4241,7 +4241,7 @@
         "ci_lower": 6.5,
         "ci_upper": 10.26,
         "rank": 303,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 26
       },
       {
@@ -4255,7 +4255,7 @@
         "ci_lower": 6.68,
         "ci_upper": 11.8,
         "rank": 304,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -4269,7 +4269,7 @@
         "ci_lower": 6.49,
         "ci_upper": 11.61,
         "rank": 305,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 12
       },
       {
@@ -4283,7 +4283,7 @@
         "ci_lower": 6.68,
         "ci_upper": 12.64,
         "rank": 306,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -4297,7 +4297,7 @@
         "ci_lower": 6.1,
         "ci_upper": 9.84,
         "rank": 307,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 30
       },
       {
@@ -4311,7 +4311,7 @@
         "ci_lower": 6.43,
         "ci_upper": 13.15,
         "rank": 308,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -4325,7 +4325,7 @@
         "ci_lower": 5.62,
         "ci_upper": 10.95,
         "rank": 309,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -4339,7 +4339,7 @@
         "ci_lower": 5.72,
         "ci_upper": 11.85,
         "rank": 310,
-        "rank_delta_14d": -9,
+        "rank_delta_14d": -6,
         "games_played": 8
       },
       {
@@ -4353,7 +4353,7 @@
         "ci_lower": 5.62,
         "ci_upper": 11.31,
         "rank": 311,
-        "rank_delta_14d": -11,
+        "rank_delta_14d": -8,
         "games_played": 9
       },
       {
@@ -4367,7 +4367,7 @@
         "ci_lower": 5.17,
         "ci_upper": 9.72,
         "rank": 312,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -4381,7 +4381,7 @@
         "ci_lower": 5.04,
         "ci_upper": 9.94,
         "rank": 313,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 20
       },
       {
@@ -4395,7 +4395,7 @@
         "ci_lower": 4.98,
         "ci_upper": 9.71,
         "rank": 314,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 15
       },
       {
@@ -4409,7 +4409,7 @@
         "ci_lower": 5.09,
         "ci_upper": 10.91,
         "rank": 315,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -4423,7 +4423,7 @@
         "ci_lower": 5.53,
         "ci_upper": 13.23,
         "rank": 316,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -4437,7 +4437,7 @@
         "ci_lower": 4.34,
         "ci_upper": 8.95,
         "rank": 317,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 22
       },
       {
@@ -4451,7 +4451,7 @@
         "ci_lower": 4.5,
         "ci_upper": 10.65,
         "rank": 318,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -4465,7 +4465,7 @@
         "ci_lower": 4.15,
         "ci_upper": 9.16,
         "rank": 319,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -4479,7 +4479,7 @@
         "ci_lower": 4.09,
         "ci_upper": 9.32,
         "rank": 320,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -4493,7 +4493,7 @@
         "ci_lower": 3.68,
         "ci_upper": 8.54,
         "rank": 321,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -4507,7 +4507,7 @@
         "ci_lower": 3.69,
         "ci_upper": 8.68,
         "rank": 322,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -4521,7 +4521,7 @@
         "ci_lower": 3.62,
         "ci_upper": 8.55,
         "rank": 323,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -4535,7 +4535,7 @@
         "ci_lower": 4.45,
         "ci_upper": 13.46,
         "rank": 324,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -4549,7 +4549,7 @@
         "ci_lower": 3.25,
         "ci_upper": 8.13,
         "rank": 325,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -4563,7 +4563,7 @@
         "ci_lower": 2.94,
         "ci_upper": 7.08,
         "rank": 326,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 21
       },
       {
@@ -4577,7 +4577,7 @@
         "ci_lower": 3.02,
         "ci_upper": 8.22,
         "rank": 327,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -4591,7 +4591,7 @@
         "ci_lower": 2.91,
         "ci_upper": 7.97,
         "rank": 328,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 24
       },
       {
@@ -4605,7 +4605,7 @@
         "ci_lower": 2.49,
         "ci_upper": 7.52,
         "rank": 329,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -4619,7 +4619,7 @@
         "ci_lower": 2.45,
         "ci_upper": 8.59,
         "rank": 330,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -4633,7 +4633,7 @@
         "ci_lower": 2.5,
         "ci_upper": 8.98,
         "rank": 331,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -4647,7 +4647,7 @@
         "ci_lower": 2.0,
         "ci_upper": 8.57,
         "rank": 332,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -4661,7 +4661,7 @@
         "ci_lower": 2.22,
         "ci_upper": 9.75,
         "rank": 333,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 5
       },
       {
@@ -4675,7 +4675,7 @@
         "ci_lower": 2.86,
         "ci_upper": 14.25,
         "rank": 334,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 2
       },
       {
@@ -4689,7 +4689,7 @@
         "ci_lower": 1.14,
         "ci_upper": 6.93,
         "rank": 335,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -4703,7 +4703,7 @@
         "ci_lower": 1.23,
         "ci_upper": 8.21,
         "rank": 336,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -4717,7 +4717,7 @@
         "ci_lower": 0.53,
         "ci_upper": 4.81,
         "rank": 337,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 19
       },
       {
@@ -4731,7 +4731,7 @@
         "ci_lower": 0.47,
         "ci_upper": 5.17,
         "rank": 338,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -4745,7 +4745,7 @@
         "ci_lower": 0.65,
         "ci_upper": 6.28,
         "rank": 339,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 13
       },
       {
@@ -4759,7 +4759,7 @@
         "ci_lower": 0.85,
         "ci_upper": 7.45,
         "rank": 340,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -4773,7 +4773,7 @@
         "ci_lower": 0.82,
         "ci_upper": 8.5,
         "rank": 341,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -4787,7 +4787,7 @@
         "ci_lower": 0.09,
         "ci_upper": 5.64,
         "rank": 342,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 10
       },
       {
@@ -4801,7 +4801,7 @@
         "ci_lower": -0.1,
         "ci_upper": 5.33,
         "rank": 343,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 10
       },
       {
@@ -4815,7 +4815,7 @@
         "ci_lower": -0.27,
         "ci_upper": 5.18,
         "rank": 344,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -4829,7 +4829,7 @@
         "ci_lower": -0.87,
         "ci_upper": 3.11,
         "rank": 345,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 26
       },
       {
@@ -4843,7 +4843,7 @@
         "ci_lower": 2.35,
         "ci_upper": 21.21,
         "rank": 346,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -4857,7 +4857,7 @@
         "ci_lower": -1.19,
         "ci_upper": 4.41,
         "rank": 347,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -4871,7 +4871,7 @@
         "ci_lower": -1.23,
         "ci_upper": 4.45,
         "rank": 348,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -4885,7 +4885,7 @@
         "ci_lower": 1.13,
         "ci_upper": 16.77,
         "rank": 349,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -4899,7 +4899,7 @@
         "ci_lower": -0.79,
         "ci_upper": 7.92,
         "rank": 350,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 4
       },
       {
@@ -4913,7 +4913,7 @@
         "ci_lower": -1.98,
         "ci_upper": 2.85,
         "rank": 351,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -4927,7 +4927,7 @@
         "ci_lower": -1.62,
         "ci_upper": 5.4,
         "rank": 352,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -4941,7 +4941,7 @@
         "ci_lower": 1.94,
         "ci_upper": 23.54,
         "rank": 353,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 1
       },
       {
@@ -4955,7 +4955,7 @@
         "ci_lower": -2.8,
         "ci_upper": 1.31,
         "rank": 354,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 21
       },
       {
@@ -4969,7 +4969,7 @@
         "ci_lower": -2.96,
         "ci_upper": 1.48,
         "rank": 355,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -4983,7 +4983,7 @@
         "ci_lower": -3.16,
         "ci_upper": 2.12,
         "rank": 356,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -4997,7 +4997,7 @@
         "ci_lower": 0.73,
         "ci_upper": 21.85,
         "rank": 357,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 2
       },
       {
@@ -5011,7 +5011,7 @@
         "ci_lower": -3.5,
         "ci_upper": 1.13,
         "rank": 358,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -5025,7 +5025,7 @@
         "ci_lower": -3.33,
         "ci_upper": 2.16,
         "rank": 359,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 14
       },
       {
@@ -5039,7 +5039,7 @@
         "ci_lower": -3.24,
         "ci_upper": 2.68,
         "rank": 360,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -5053,7 +5053,7 @@
         "ci_lower": -3.06,
         "ci_upper": 3.77,
         "rank": 361,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 7
       },
       {
@@ -5067,7 +5067,7 @@
         "ci_lower": -3.7,
         "ci_upper": 0.94,
         "rank": 362,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 16
       },
       {
@@ -5081,7 +5081,7 @@
         "ci_lower": -3.83,
         "ci_upper": 1.34,
         "rank": 363,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 19
       },
       {
@@ -5095,7 +5095,7 @@
         "ci_lower": -4.26,
         "ci_upper": -0.61,
         "rank": 364,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 28
       },
       {
@@ -5109,7 +5109,7 @@
         "ci_lower": -3.76,
         "ci_upper": 2.92,
         "rank": 365,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 9
       },
       {
@@ -5123,7 +5123,7 @@
         "ci_lower": -4.06,
         "ci_upper": 1.68,
         "rank": 366,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 12
       },
       {
@@ -5137,7 +5137,7 @@
         "ci_lower": -4.11,
         "ci_upper": 2.19,
         "rank": 367,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -5151,7 +5151,7 @@
         "ci_lower": -4.61,
         "ci_upper": 1.19,
         "rank": 368,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 10
       },
       {
@@ -5165,7 +5165,7 @@
         "ci_lower": -4.79,
         "ci_upper": 0.66,
         "rank": 369,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -5179,7 +5179,7 @@
         "ci_lower": -4.72,
         "ci_upper": 1.13,
         "rank": 370,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 20
       },
       {
@@ -5193,7 +5193,7 @@
         "ci_lower": -4.46,
         "ci_upper": 3.37,
         "rank": 371,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -5207,7 +5207,7 @@
         "ci_lower": -7.82,
         "ci_upper": -1.47,
         "rank": 372,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 8
       },
       {
@@ -5221,7 +5221,7 @@
         "ci_lower": -8.65,
         "ci_upper": -4.91,
         "rank": 373,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 28
       },
       {
@@ -5235,7 +5235,7 @@
         "ci_lower": -8.81,
         "ci_upper": -3.17,
         "rank": 374,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 11
       },
       {
@@ -5249,7 +5249,7 @@
         "ci_lower": -9.26,
         "ci_upper": -4.17,
         "rank": 375,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 18
       },
       {
@@ -5263,7 +5263,7 @@
         "ci_lower": -9.4,
         "ci_upper": -4.71,
         "rank": 376,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 17
       },
       {
@@ -5277,7 +5277,7 @@
         "ci_lower": -12.04,
         "ci_upper": -6.48,
         "rank": 377,
-        "rank_delta_14d": -10,
+        "rank_delta_14d": -7,
         "games_played": 20
       }
     ]
