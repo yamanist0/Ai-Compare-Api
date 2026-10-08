@@ -1,0 +1,29 @@
+{
+  "model_id": "mistral-large-4",
+  "name": "Mistral Large 4",
+  "model_type": "llm",
+  "organization": "Mistral AI",
+  "organization_id": "mistral",
+  "announcement_date": "2026-10-06",
+  "release_date": "2026-10-06",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 70000.0,
+  "output_price": null,
+  "rank": 34,
+  "conservative": 46.24,
+  "mu": 50.62,
+  "sigma": 1.46,
+  "ci_lower": 47.7,
+  "ci_upper": 53.53,
+  "games_played": 12,
+  "rank_delta_14d": null
+}

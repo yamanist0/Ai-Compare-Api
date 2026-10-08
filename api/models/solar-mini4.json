@@ -1,0 +1,28 @@
+{
+  "model_id": "solar-mini4",
+  "name": "Solar Mini 4",
+  "model_type": "llm",
+  "organization": "Upstage",
+  "organization_id": "upstage",
+  "announcement_date": "2026-09-22",
+  "release_date": "2026-09-22",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 10000.0,
+  "output_price": null,
+  "rank": 122,
+  "conservative": 31.9,
+  "mu": 39.46,
+  "sigma": 2.52,
+  "ci_lower": 34.42,
+  "ci_upper": 44.5,
+  "games_played": 6,
+  "rank_delta_14d": null
+}

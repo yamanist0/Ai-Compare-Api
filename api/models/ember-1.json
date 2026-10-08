@@ -1,0 +1,28 @@
+{
+  "model_id": "ember-1",
+  "name": "Ember-1",
+  "model_type": "llm",
+  "organization": "Fireworks AI",
+  "organization_id": "fireworks",
+  "announcement_date": "2026-09-23",
+  "release_date": "2026-09-23",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 300000.0,
+  "output_price": null,
+  "rank": 51,
+  "conservative": 43.14,
+  "mu": 49.55,
+  "sigma": 2.14,
+  "ci_lower": 45.28,
+  "ci_upper": 53.82,
+  "games_played": 4,
+  "rank_delta_14d": null
+}

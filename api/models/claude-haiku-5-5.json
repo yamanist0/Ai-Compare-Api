@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-haiku-5-5",
+  "name": "Claude Haiku 5.5",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2026-10-07",
+  "release_date": "2026-10-07",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 10000.0,
+  "output_price": null,
+  "rank": 19,
+  "conservative": 50.01,
+  "mu": 53.41,
+  "sigma": 1.13,
+  "ci_lower": 51.14,
+  "ci_upper": 55.67,
+  "games_played": 25,
+  "rank_delta_14d": null
+}

@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-rosalind-research",
+  "name": "GPT-Rosalind",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-04-16",
+  "release_date": "2026-09-11",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 500000.0,
+  "output_price": null,
+  "rank": 126,
+  "conservative": 31.62,
+  "mu": 42.29,
+  "sigma": 3.56,
+  "ci_lower": 35.18,
+  "ci_upper": 49.41,
+  "games_played": 3,
+  "rank_delta_14d": null
+}

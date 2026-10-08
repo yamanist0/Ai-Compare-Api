@@ -1,0 +1,31 @@
+{
+  "model_id": "gemini-nano-banana-2.1",
+  "name": "Gemini Nano Banana 2.1",
+  "model_type": "image",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2026-10-06",
+  "release_date": "2026-10-06",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "image",
+    "text"
+  ],
+  "input_price": 1500000.0,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}
