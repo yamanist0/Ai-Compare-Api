@@ -2383,20 +2383,6 @@
         "games_played": 14
       },
       {
-        "model_id": "claude-haiku-4-5-20251001",
-        "model_name": "Claude Haiku 4.5",
-        "organization_id": "anthropic",
-        "organization_name": "Anthropic",
-        "conservative": 25.61,
-        "mu": 28.97,
-        "sigma": 1.12,
-        "ci_lower": 26.73,
-        "ci_upper": 31.21,
-        "rank": 171,
-        "rank_delta_14d": -11,
-        "games_played": 18
-      },
-      {
         "model_id": "mimo-v2.5-pro",
         "model_name": "MiMo-V2.5-Pro",
         "organization_id": "xiaomi",
@@ -2406,9 +2392,23 @@
         "sigma": 0.99,
         "ci_lower": 26.6,
         "ci_upper": 30.56,
-        "rank": 172,
+        "rank": 171,
         "rank_delta_14d": -15,
         "games_played": 28
+      },
+      {
+        "model_id": "claude-haiku-4-5-20251001",
+        "model_name": "Claude Haiku 4.5",
+        "organization_id": "anthropic",
+        "organization_name": "Anthropic",
+        "conservative": 25.61,
+        "mu": 28.97,
+        "sigma": 1.12,
+        "ci_lower": 26.73,
+        "ci_upper": 31.21,
+        "rank": 172,
+        "rank_delta_14d": -11,
+        "games_played": 18
       },
       {
         "model_id": "gpt-oss-120b-high",
@@ -2957,20 +2957,6 @@
         "games_played": 45
       },
       {
-        "model_id": "qwen3-next-80b-a3b-instruct",
-        "model_name": "Qwen3-Next-80B-A3B-Instruct",
-        "organization_id": "qwen",
-        "organization_name": "Alibaba Cloud / Qwen Team",
-        "conservative": 20.12,
-        "mu": 22.94,
-        "sigma": 0.94,
-        "ci_lower": 21.06,
-        "ci_upper": 24.81,
-        "rank": 212,
-        "rank_delta_14d": -12,
-        "games_played": 24
-      },
-      {
         "model_id": "gpt-4.5",
         "model_name": "GPT-4.5",
         "organization_id": "openai",
@@ -2980,9 +2966,23 @@
         "sigma": 0.93,
         "ci_lower": 21.06,
         "ci_upper": 24.78,
-        "rank": 213,
+        "rank": 212,
         "rank_delta_14d": -12,
         "games_played": 26
+      },
+      {
+        "model_id": "qwen3-next-80b-a3b-instruct",
+        "model_name": "Qwen3-Next-80B-A3B-Instruct",
+        "organization_id": "qwen",
+        "organization_name": "Alibaba Cloud / Qwen Team",
+        "conservative": 20.12,
+        "mu": 22.94,
+        "sigma": 0.94,
+        "ci_lower": 21.06,
+        "ci_upper": 24.81,
+        "rank": 213,
+        "rank_delta_14d": -12,
+        "games_played": 24
       },
       {
         "model_id": "longcat-flash-chat",
