@@ -423,20 +423,6 @@
         "games_played": 9
       },
       {
-        "model_id": "claude-sonnet-5",
-        "model_name": "Claude Sonnet 5",
-        "organization_id": "anthropic",
-        "organization_name": "Anthropic",
-        "conservative": 47.19,
-        "mu": 50.25,
-        "sigma": 1.02,
-        "ci_lower": 48.21,
-        "ci_upper": 52.28,
-        "rank": 31,
-        "rank_delta_14d": -6,
-        "games_played": 22
-      },
-      {
         "model_id": "gpt-5.5",
         "model_name": "GPT-5.5",
         "organization_id": "openai",
@@ -446,9 +432,23 @@
         "sigma": 0.93,
         "ci_lower": 48.12,
         "ci_upper": 51.84,
-        "rank": 32,
+        "rank": 31,
         "rank_delta_14d": -6,
         "games_played": 27
+      },
+      {
+        "model_id": "claude-sonnet-5",
+        "model_name": "Claude Sonnet 5",
+        "organization_id": "anthropic",
+        "organization_name": "Anthropic",
+        "conservative": 47.19,
+        "mu": 50.25,
+        "sigma": 1.02,
+        "ci_lower": 48.21,
+        "ci_upper": 52.28,
+        "rank": 32,
+        "rank_delta_14d": -6,
+        "games_played": 22
       },
       {
         "model_id": "gemini-3.7-flash",
@@ -2957,20 +2957,6 @@
         "games_played": 45
       },
       {
-        "model_id": "gpt-4.5",
-        "model_name": "GPT-4.5",
-        "organization_id": "openai",
-        "organization_name": "OpenAI",
-        "conservative": 20.12,
-        "mu": 22.92,
-        "sigma": 0.93,
-        "ci_lower": 21.06,
-        "ci_upper": 24.78,
-        "rank": 212,
-        "rank_delta_14d": -12,
-        "games_played": 26
-      },
-      {
         "model_id": "qwen3-next-80b-a3b-instruct",
         "model_name": "Qwen3-Next-80B-A3B-Instruct",
         "organization_id": "qwen",
@@ -2980,9 +2966,23 @@
         "sigma": 0.94,
         "ci_lower": 21.06,
         "ci_upper": 24.81,
-        "rank": 213,
+        "rank": 212,
         "rank_delta_14d": -12,
         "games_played": 24
+      },
+      {
+        "model_id": "gpt-4.5",
+        "model_name": "GPT-4.5",
+        "organization_id": "openai",
+        "organization_name": "OpenAI",
+        "conservative": 20.12,
+        "mu": 22.92,
+        "sigma": 0.93,
+        "ci_lower": 21.06,
+        "ci_upper": 24.78,
+        "rank": 213,
+        "rank_delta_14d": -12,
+        "games_played": 26
       },
       {
         "model_id": "longcat-flash-chat",
