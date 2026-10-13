@@ -1,0 +1,31 @@
+{
+  "model_id": "muse-wonder",
+  "name": "Muse Wonder",
+  "model_type": "llm",
+  "organization": "Meta",
+  "organization_id": "meta",
+  "announcement_date": "2026-10-12",
+  "release_date": "2026-10-12",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 200000.0,
+  "output_price": null,
+  "rank": 29,
+  "conservative": 47.88,
+  "mu": 52.33,
+  "sigma": 1.48,
+  "ci_lower": 49.36,
+  "ci_upper": 55.3,
+  "games_played": 12,
+  "rank_delta_14d": null
+}

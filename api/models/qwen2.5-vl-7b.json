@@ -17,7 +17,7 @@
   "conservative": 6.5,
   "mu": 9.6,
   "sigma": 1.03,
-  "ci_lower": 7.53,
+  "ci_lower": 7.54,
   "ci_upper": 11.66,
   "games_played": 29,
   "rank_delta_14d": -12

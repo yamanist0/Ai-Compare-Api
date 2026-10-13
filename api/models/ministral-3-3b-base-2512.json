@@ -15,7 +15,7 @@
   "output_price": null,
   "rank": 379,
   "conservative": -6.42,
-  "mu": -0.55,
+  "mu": -0.54,
   "sigma": 1.96,
   "ci_lower": -4.46,
   "ci_upper": 3.37,
