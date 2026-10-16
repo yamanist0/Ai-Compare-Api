@@ -1221,20 +1221,6 @@
         "games_played": 5
       },
       {
-        "model_id": "gpt-5.1-instant-2025-11-12",
-        "model_name": "GPT-5.1 Instant",
-        "organization_id": "openai",
-        "organization_name": "OpenAI",
-        "conservative": 36.66,
-        "mu": 41.03,
-        "sigma": 1.46,
-        "ci_lower": 38.11,
-        "ci_upper": 43.94,
-        "rank": 88,
-        "rank_delta_14d": -9,
-        "games_played": 9
-      },
-      {
         "model_id": "gemini-3-flash-preview",
         "model_name": "Gemini 3 Flash",
         "organization_id": "google",
@@ -1244,9 +1230,23 @@
         "sigma": 0.92,
         "ci_lower": 37.58,
         "ci_upper": 41.28,
-        "rank": 89,
+        "rank": 88,
         "rank_delta_14d": -11,
         "games_played": 25
+      },
+      {
+        "model_id": "gpt-5.1-instant-2025-11-12",
+        "model_name": "GPT-5.1 Instant",
+        "organization_id": "openai",
+        "organization_name": "OpenAI",
+        "conservative": 36.66,
+        "mu": 41.03,
+        "sigma": 1.46,
+        "ci_lower": 38.11,
+        "ci_upper": 43.94,
+        "rank": 89,
+        "rank_delta_14d": -9,
+        "games_played": 9
       },
       {
         "model_id": "gpt-5.1-2025-11-13",
