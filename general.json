@@ -983,20 +983,6 @@
         "games_played": 64
       },
       {
-        "model_id": "glm-5.1",
-        "model_name": "GLM-5.1",
-        "organization_id": "zai-org",
-        "organization_name": "Zhipu AI",
-        "conservative": 38.93,
-        "mu": 42.1,
-        "sigma": 1.06,
-        "ci_lower": 39.99,
-        "ci_upper": 44.22,
-        "rank": 71,
-        "rank_delta_14d": -9,
-        "games_played": 18
-      },
-      {
         "model_id": "deepseek-v4-flash-max",
         "model_name": "DeepSeek-V4-Flash-Max",
         "organization_id": "deepseek",
@@ -1006,9 +992,23 @@
         "sigma": 1.05,
         "ci_lower": 39.97,
         "ci_upper": 44.16,
-        "rank": 72,
+        "rank": 71,
         "rank_delta_14d": -7,
         "games_played": 19
+      },
+      {
+        "model_id": "glm-5.1",
+        "model_name": "GLM-5.1",
+        "organization_id": "zai-org",
+        "organization_name": "Zhipu AI",
+        "conservative": 38.93,
+        "mu": 42.1,
+        "sigma": 1.06,
+        "ci_lower": 39.99,
+        "ci_upper": 44.22,
+        "rank": 72,
+        "rank_delta_14d": -9,
+        "games_played": 18
       },
       {
         "model_id": "kimi-k2.7-code",
@@ -1221,20 +1221,6 @@
         "games_played": 5
       },
       {
-        "model_id": "gpt-5.1-instant-2025-11-12",
-        "model_name": "GPT-5.1 Instant",
-        "organization_id": "openai",
-        "organization_name": "OpenAI",
-        "conservative": 36.66,
-        "mu": 41.03,
-        "sigma": 1.46,
-        "ci_lower": 38.11,
-        "ci_upper": 43.94,
-        "rank": 88,
-        "rank_delta_14d": -9,
-        "games_played": 9
-      },
-      {
         "model_id": "gemini-3-flash-preview",
         "model_name": "Gemini 3 Flash",
         "organization_id": "google",
@@ -1244,9 +1230,23 @@
         "sigma": 0.92,
         "ci_lower": 37.58,
         "ci_upper": 41.28,
-        "rank": 89,
+        "rank": 88,
         "rank_delta_14d": -11,
         "games_played": 25
+      },
+      {
+        "model_id": "gpt-5.1-instant-2025-11-12",
+        "model_name": "GPT-5.1 Instant",
+        "organization_id": "openai",
+        "organization_name": "OpenAI",
+        "conservative": 36.66,
+        "mu": 41.03,
+        "sigma": 1.46,
+        "ci_lower": 38.11,
+        "ci_upper": 43.94,
+        "rank": 89,
+        "rank_delta_14d": -9,
+        "games_played": 9
       },
       {
         "model_id": "gpt-5.1-2025-11-13",
