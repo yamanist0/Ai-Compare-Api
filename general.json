@@ -759,20 +759,6 @@
         "games_played": 21
       },
       {
-        "model_id": "gpt-6-luna",
-        "model_name": "GPT-6 Luna",
-        "organization_id": "openai",
-        "organization_name": "OpenAI",
-        "conservative": 42.95,
-        "mu": 48.93,
-        "sigma": 1.99,
-        "ci_lower": 44.94,
-        "ci_upper": 52.91,
-        "rank": 55,
-        "rank_delta_14d": -16,
-        "games_played": 5
-      },
-      {
         "model_id": "deepseek-v4-flash-0731",
         "model_name": "DeepSeek-V4-Flash-0731",
         "organization_id": "deepseek",
@@ -782,9 +768,23 @@
         "sigma": 1.59,
         "ci_lower": 44.54,
         "ci_upper": 50.88,
-        "rank": 56,
+        "rank": 55,
         "rank_delta_14d": -13,
         "games_played": 8
+      },
+      {
+        "model_id": "gpt-6-luna",
+        "model_name": "GPT-6 Luna",
+        "organization_id": "openai",
+        "organization_name": "OpenAI",
+        "conservative": 42.95,
+        "mu": 48.93,
+        "sigma": 1.99,
+        "ci_lower": 44.94,
+        "ci_upper": 52.91,
+        "rank": 56,
+        "rank_delta_14d": -16,
+        "games_played": 5
       },
       {
         "model_id": "deepseek-v4-pro-max",
@@ -1207,20 +1207,6 @@
         "games_played": 7
       },
       {
-        "model_id": "glm-5",
-        "model_name": "GLM-5",
-        "organization_id": "zai-org",
-        "organization_name": "Zhipu AI",
-        "conservative": 36.97,
-        "mu": 42.62,
-        "sigma": 1.88,
-        "ci_lower": 38.86,
-        "ci_upper": 46.38,
-        "rank": 87,
-        "rank_delta_14d": -14,
-        "games_played": 5
-      },
-      {
         "model_id": "gemini-3.5-flash-cyber",
         "model_name": "Gemini 3.5 Flash Cyber",
         "organization_id": "google",
@@ -1230,9 +1216,23 @@
         "sigma": 3.87,
         "ci_lower": 40.85,
         "ci_upper": 56.34,
-        "rank": 88,
+        "rank": 87,
         "rank_delta_14d": -9,
         "games_played": 1
+      },
+      {
+        "model_id": "glm-5",
+        "model_name": "GLM-5",
+        "organization_id": "zai-org",
+        "organization_name": "Zhipu AI",
+        "conservative": 36.97,
+        "mu": 42.62,
+        "sigma": 1.88,
+        "ci_lower": 38.86,
+        "ci_upper": 46.38,
+        "rank": 88,
+        "rank_delta_14d": -14,
+        "games_played": 5
       },
       {
         "model_id": "minimax-m2.5",
@@ -1851,20 +1851,6 @@
         "games_played": 7
       },
       {
-        "model_id": "grok-3-mini",
-        "model_name": "Grok-3 Mini",
-        "organization_id": "xai",
-        "organization_name": "xAI",
-        "conservative": 31.1,
-        "mu": 37.61,
-        "sigma": 2.17,
-        "ci_lower": 33.27,
-        "ci_upper": 41.95,
-        "rank": 133,
-        "rank_delta_14d": -18,
-        "games_played": 4
-      },
-      {
         "model_id": "gpt-5.1-medium-2025-11-12",
         "model_name": "GPT-5.1 Medium",
         "organization_id": "openai",
@@ -1874,9 +1860,23 @@
         "sigma": 3.78,
         "ci_lower": 34.88,
         "ci_upper": 50.01,
-        "rank": 134,
+        "rank": 133,
         "rank_delta_14d": -16,
         "games_played": 1
+      },
+      {
+        "model_id": "grok-3-mini",
+        "model_name": "Grok-3 Mini",
+        "organization_id": "xai",
+        "organization_name": "xAI",
+        "conservative": 31.1,
+        "mu": 37.61,
+        "sigma": 2.17,
+        "ci_lower": 33.27,
+        "ci_upper": 41.95,
+        "rank": 134,
+        "rank_delta_14d": -18,
+        "games_played": 4
       },
       {
         "model_id": "o3-2025-04-16",
@@ -3881,20 +3881,6 @@
         "games_played": 14
       },
       {
-        "model_id": "phi-4-reasoning",
-        "model_name": "Phi 4 Reasoning",
-        "organization_id": "microsoft",
-        "organization_name": "Microsoft",
-        "conservative": 11.7,
-        "mu": 16.2,
-        "sigma": 1.5,
-        "ci_lower": 13.2,
-        "ci_upper": 19.2,
-        "rank": 278,
-        "rank_delta_14d": -20,
-        "games_played": 9
-      },
-      {
         "model_id": "gemini-1.5-pro",
         "model_name": "Gemini 1.5 Pro",
         "organization_id": "google",
@@ -3904,9 +3890,23 @@
         "sigma": 1.06,
         "ci_lower": 12.75,
         "ci_upper": 16.98,
-        "rank": 279,
+        "rank": 278,
         "rank_delta_14d": -18,
         "games_played": 21
+      },
+      {
+        "model_id": "phi-4-reasoning",
+        "model_name": "Phi 4 Reasoning",
+        "organization_id": "microsoft",
+        "organization_name": "Microsoft",
+        "conservative": 11.7,
+        "mu": 16.2,
+        "sigma": 1.5,
+        "ci_lower": 13.2,
+        "ci_upper": 19.2,
+        "rank": 279,
+        "rank_delta_14d": -20,
+        "games_played": 9
       },
       {
         "model_id": "pixtral-large",
@@ -4105,20 +4105,6 @@
         "games_played": 1
       },
       {
-        "model_id": "mistral-large-latest",
-        "model_name": "Mistral Large 3 (675B Instruct 2512)",
-        "organization_id": "mistral",
-        "organization_name": "Mistral AI",
-        "conservative": 8.71,
-        "mu": 14.43,
-        "sigma": 1.91,
-        "ci_lower": 10.62,
-        "ci_upper": 18.24,
-        "rank": 294,
-        "rank_delta_14d": -18,
-        "games_played": 5
-      },
-      {
         "model_id": "nova-2-sonic",
         "model_name": "Nova 2 Sonic",
         "organization_id": "amazon",
@@ -4128,9 +4114,23 @@
         "sigma": 2.66,
         "ci_lower": 11.37,
         "ci_upper": 22.01,
-        "rank": 295,
+        "rank": 294,
         "rank_delta_14d": -17,
         "games_played": 3
+      },
+      {
+        "model_id": "mistral-large-latest",
+        "model_name": "Mistral Large 3 (675B Instruct 2512)",
+        "organization_id": "mistral",
+        "organization_name": "Mistral AI",
+        "conservative": 8.71,
+        "mu": 14.43,
+        "sigma": 1.91,
+        "ci_lower": 10.62,
+        "ci_upper": 18.24,
+        "rank": 295,
+        "rank_delta_14d": -18,
+        "games_played": 5
       },
       {
         "model_id": "gpt-4-turbo-2024-04-09",
