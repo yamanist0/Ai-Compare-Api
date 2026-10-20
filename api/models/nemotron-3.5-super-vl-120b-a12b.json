@@ -1,0 +1,30 @@
+{
+  "model_id": "nemotron-3.5-super-vl-120b-a12b",
+  "name": "Nemotron 3.5 Super VL (120B A12B)",
+  "model_type": "llm",
+  "organization": "NVIDIA",
+  "organization_id": "nvidia",
+  "announcement_date": "2026-10-15",
+  "release_date": "2026-10-15",
+  "multimodal": true,
+  "license": "openmdw",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 100000.0,
+  "output_price": null,
+  "rank": 108,
+  "conservative": 34.97,
+  "mu": 38.12,
+  "sigma": 1.05,
+  "ci_lower": 36.02,
+  "ci_upper": 40.23,
+  "games_played": 19,
+  "rank_delta_14d": null
+}

@@ -18,14 +18,14 @@
   "output_modalities": [
     "text"
   ],
-  "input_price": 200000.0,
+  "input_price": null,
   "output_price": null,
-  "rank": 29,
-  "conservative": 47.88,
-  "mu": 52.33,
-  "sigma": 1.48,
-  "ci_lower": 49.36,
-  "ci_upper": 55.3,
-  "games_played": 12,
+  "rank": 25,
+  "conservative": 49.2,
+  "mu": 52.85,
+  "sigma": 1.22,
+  "ci_lower": 50.42,
+  "ci_upper": 55.28,
+  "games_played": 16,
   "rank_delta_14d": null
 }

@@ -1,0 +1,30 @@
+{
+  "model_id": "minimax-m3.1-flash",
+  "name": "MiniMax M3.1 Flash",
+  "model_type": "llm",
+  "organization": "MiniMax",
+  "organization_id": "minimax",
+  "announcement_date": "2026-10-19",
+  "release_date": "2026-10-19",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 15000.0,
+  "output_price": null,
+  "rank": 29,
+  "conservative": 48.51,
+  "mu": 52.35,
+  "sigma": 1.28,
+  "ci_lower": 49.79,
+  "ci_upper": 54.9,
+  "games_played": 13,
+  "rank_delta_14d": null
+}

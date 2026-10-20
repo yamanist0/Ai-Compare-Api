@@ -13,12 +13,12 @@
   "output_modalities": [],
   "input_price": null,
   "output_price": null,
-  "rank": 253,
-  "conservative": 14.29,
-  "mu": 18.57,
+  "rank": 261,
+  "conservative": 14.04,
+  "mu": 18.32,
   "sigma": 1.43,
-  "ci_lower": 15.72,
-  "ci_upper": 21.43,
+  "ci_lower": 15.47,
+  "ci_upper": 21.18,
   "games_played": 12,
-  "rank_delta_14d": -11
+  "rank_delta_14d": -19
 }
