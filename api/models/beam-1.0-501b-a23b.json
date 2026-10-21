@@ -1,0 +1,28 @@
+{
+  "model_id": "beam-1.0-501b-a23b",
+  "name": "Beam 1.0",
+  "model_type": "llm",
+  "organization": "Reflection AI",
+  "organization_id": "reflection",
+  "announcement_date": "2026-10-05",
+  "release_date": "2026-10-16",
+  "multimodal": false,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 40000.0,
+  "output_price": null,
+  "rank": 46,
+  "conservative": 44.56,
+  "mu": 47.59,
+  "sigma": 1.01,
+  "ci_lower": 45.57,
+  "ci_upper": 49.6,
+  "games_played": 22,
+  "rank_delta_14d": null
+}

@@ -1,0 +1,28 @@
+{
+  "model_id": "mercury-3",
+  "name": "Mercury 3",
+  "model_type": "llm",
+  "organization": "Inception",
+  "organization_id": "inceptionlabs",
+  "announcement_date": "2026-10-19",
+  "release_date": "2026-10-19",
+  "multimodal": false,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 10000.0,
+  "output_price": null,
+  "rank": 98,
+  "conservative": 36.08,
+  "mu": 40.67,
+  "sigma": 1.53,
+  "ci_lower": 37.61,
+  "ci_upper": 43.73,
+  "games_played": 10,
+  "rank_delta_14d": null
+}
