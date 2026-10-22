@@ -55,7 +55,7 @@
     "ci_lower": 59.38,
     "ci_upper": 63.34,
     "games_played": 34,
-    "rank_delta_14d": 1
+    "rank_delta_14d": 0
   },
   {
     "model_id": "gpt-6-astra",
@@ -84,7 +84,7 @@
     "ci_lower": 59.37,
     "ci_upper": 64.06,
     "games_played": 23,
-    "rank_delta_14d": -1
+    "rank_delta_14d": 0
   },
   {
     "model_id": "gemini-4-argon",
@@ -115,7 +115,7 @@
     "ci_lower": 56.47,
     "ci_upper": 61.91,
     "games_played": 15,
-    "rank_delta_14d": null
+    "rank_delta_14d": 0
   },
   {
     "model_id": "claude-mythos-preview",
@@ -173,7 +173,7 @@
     "ci_lower": 55.15,
     "ci_upper": 60.5,
     "games_played": 12,
-    "rank_delta_14d": -2
+    "rank_delta_14d": -1
   },
   {
     "model_id": "gpt-6.1-sol",
@@ -202,7 +202,7 @@
     "ci_lower": 54.87,
     "ci_upper": 60.02,
     "games_played": 16,
-    "rank_delta_14d": 3
+    "rank_delta_14d": -1
   },
   {
     "model_id": "gpt-5.6-sol",
@@ -231,7 +231,7 @@
     "ci_lower": 54.12,
     "ci_upper": 57.55,
     "games_played": 45,
-    "rank_delta_14d": -3
+    "rank_delta_14d": -1
   },
   {
     "model_id": "claude-fable-5-1",
@@ -260,7 +260,7 @@
     "ci_lower": 55.14,
     "ci_upper": 62.78,
     "games_played": 6,
-    "rank_delta_14d": -3
+    "rank_delta_14d": -1
   },
   {
     "model_id": "muse-wonder-full-1.0",
@@ -313,7 +313,7 @@
     "ci_lower": 54.25,
     "ci_upper": 58.7,
     "games_played": 18,
-    "rank_delta_14d": -3
+    "rank_delta_14d": -2
   },
   {
     "model_id": "muse-wonder-full",
@@ -368,7 +368,7 @@
     "ci_lower": 53.72,
     "ci_upper": 59.81,
     "games_played": 10,
-    "rank_delta_14d": -6
+    "rank_delta_14d": -3
   },
   {
     "model_id": "kimi-k3",
@@ -398,7 +398,7 @@
     "ci_lower": 52.88,
     "ci_upper": 56.71,
     "games_played": 26,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -3
   },
   {
     "model_id": "deepseek-v4.1-flash-1017",
@@ -455,7 +455,7 @@
     "ci_lower": 52.03,
     "ci_upper": 56.47,
     "games_played": 17,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -4
   },
   {
     "model_id": "qwen3.8-max",
@@ -485,7 +485,7 @@
     "ci_lower": 51.61,
     "ci_upper": 55.36,
     "games_played": 33,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -4
   },
   {
     "model_id": "deepseek-v4-pro-0813",
@@ -513,7 +513,7 @@
     "ci_lower": 51.76,
     "ci_upper": 57.29,
     "games_played": 11,
-    "rank_delta_14d": -4
+    "rank_delta_14d": -3
   },
   {
     "model_id": "deepseek-v4.1-flash",
@@ -542,7 +542,7 @@
     "ci_lower": 51.06,
     "ci_upper": 55.37,
     "games_played": 20,
-    "rank_delta_14d": -6
+    "rank_delta_14d": -5
   },
   {
     "model_id": "claude-haiku-5-5",
@@ -571,7 +571,7 @@
     "ci_lower": 51.02,
     "ci_upper": 55.35,
     "games_played": 27,
-    "rank_delta_14d": null
+    "rank_delta_14d": -4
   },
   {
     "model_id": "claude-opus-4-8",
@@ -600,7 +600,7 @@
     "ci_lower": 50.75,
     "ci_upper": 54.39,
     "games_played": 27,
-    "rank_delta_14d": -5
+    "rank_delta_14d": -2
   },
   {
     "model_id": "muse-wonder-1.0",
@@ -655,7 +655,7 @@
     "ci_lower": 50.55,
     "ci_upper": 54.19,
     "games_played": 32,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -5
   },
   {
     "model_id": "muse-wonder",
@@ -715,7 +715,7 @@
     "ci_lower": 50.12,
     "ci_upper": 53.43,
     "games_played": 45,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -5
   },
   {
     "model_id": "gemini-3.8-flash",
@@ -746,7 +746,7 @@
     "ci_lower": 50.3,
     "ci_upper": 55.64,
     "games_played": 14,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -4
   },
   {
     "model_id": "mimo-v2.6-pro",
@@ -777,7 +777,7 @@
     "ci_lower": 50.07,
     "ci_upper": 54.91,
     "games_played": 16,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "glm-5.3-flash",
@@ -807,7 +807,7 @@
     "ci_lower": 50.03,
     "ci_upper": 55.02,
     "games_played": 15,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -7
   },
   {
     "model_id": "minimax-m3.1-flash",
@@ -867,7 +867,7 @@
     "ci_lower": 49.57,
     "ci_upper": 54.84,
     "games_played": 11,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -7
   },
   {
     "model_id": "qwen3.8-flash-next",
@@ -891,7 +891,7 @@
     "ci_lower": 49.13,
     "ci_upper": 53.11,
     "games_played": 22,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -6
   },
   {
     "model_id": "qwen3.8-flash",
@@ -921,7 +921,7 @@
     "ci_lower": 49.07,
     "ci_upper": 53.06,
     "games_played": 22,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -6
   },
   {
     "model_id": "gpt-6-sol",
@@ -950,7 +950,7 @@
     "ci_lower": 49.77,
     "ci_upper": 57.65,
     "games_played": 5,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gemini-3.7-flash",
@@ -981,7 +981,7 @@
     "ci_lower": 48.78,
     "ci_upper": 53.49,
     "games_played": 17,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -4
   },
   {
     "model_id": "gpt-5.5",
@@ -1010,7 +1010,7 @@
     "ci_lower": 48.18,
     "ci_upper": 51.9,
     "games_played": 27,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -6
   },
   {
     "model_id": "claude-sonnet-5",
@@ -1039,7 +1039,7 @@
     "ci_lower": 48.19,
     "ci_upper": 52.26,
     "games_played": 22,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -8
   },
   {
     "model_id": "grok-4.7",
@@ -1068,7 +1068,7 @@
     "ci_lower": 48.35,
     "ci_upper": 55.01,
     "games_played": 9,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.5-pro",
@@ -1097,7 +1097,7 @@
     "ci_lower": 48.06,
     "ci_upper": 56.74,
     "games_played": 5,
-    "rank_delta_14d": -1
+    "rank_delta_14d": -5
   },
   {
     "model_id": "mistral-large-4",
@@ -1126,7 +1126,7 @@
     "ci_lower": 47.25,
     "ci_upper": 53.03,
     "games_played": 12,
-    "rank_delta_14d": null
+    "rank_delta_14d": -8
   },
   {
     "model_id": "seed-2.1-pro",
@@ -1150,7 +1150,7 @@
     "ci_lower": 46.48,
     "ci_upper": 49.57,
     "games_played": 70,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -8
   },
   {
     "model_id": "grok-4.5",
@@ -1179,7 +1179,7 @@
     "ci_lower": 46.81,
     "ci_upper": 51.98,
     "games_played": 13,
-    "rank_delta_14d": -2
+    "rank_delta_14d": 2
   },
   {
     "model_id": "muse-spark-open",
@@ -1238,7 +1238,7 @@
     "ci_lower": 45.96,
     "ci_upper": 49.35,
     "games_played": 37,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -8
   },
   {
     "model_id": "glm-5.2",
@@ -1266,7 +1266,7 @@
     "ci_lower": 46.0,
     "ci_upper": 50.19,
     "games_played": 19,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -7
   },
   {
     "model_id": "mimo-v2.6-flash",
@@ -1297,7 +1297,7 @@
     "ci_lower": 46.14,
     "ci_upper": 51.32,
     "games_played": 14,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -11
   },
   {
     "model_id": "beam-1.0-501b-a23b",
@@ -1354,7 +1354,7 @@
     "ci_lower": 46.17,
     "ci_upper": 52.97,
     "games_played": 8,
-    "rank_delta_14d": -16
+    "rank_delta_14d": -11
   },
   {
     "model_id": "claude-opus-4-6",
@@ -1383,7 +1383,7 @@
     "ci_lower": 45.39,
     "ci_upper": 49.16,
     "games_played": 26,
-    "rank_delta_14d": -12
+    "rank_delta_14d": -8
   },
   {
     "model_id": "qwen3.8-27b",
@@ -1413,7 +1413,7 @@
     "ci_lower": 45.38,
     "ci_upper": 49.36,
     "games_played": 23,
-    "rank_delta_14d": -14
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-mythos-5-1",
@@ -1442,7 +1442,7 @@
     "ci_lower": 48.26,
     "ci_upper": 64.08,
     "games_played": 1,
-    "rank_delta_14d": -7
+    "rank_delta_14d": -8
   },
   {
     "model_id": "gpt-5.6-luna",
@@ -1471,7 +1471,7 @@
     "ci_lower": 45.04,
     "ci_upper": 48.54,
     "games_played": 45,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -10
   },
   {
     "model_id": "deepseek-v4-flash-vision-exp",
@@ -1500,7 +1500,7 @@
     "ci_lower": 45.86,
     "ci_upper": 52.63,
     "games_played": 7,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -14
   },
   {
     "model_id": "claude-opus-4-7",
@@ -1529,7 +1529,7 @@
     "ci_lower": 44.5,
     "ci_upper": 48.44,
     "games_played": 21,
-    "rank_delta_14d": -12
+    "rank_delta_14d": -8
   },
   {
     "model_id": "kimi-k2.6",
@@ -1559,7 +1559,7 @@
     "ci_lower": 44.33,
     "ci_upper": 47.89,
     "games_played": 28,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -7
   },
   {
     "model_id": "gpt-6-luna",
@@ -1588,7 +1588,7 @@
     "ci_lower": 45.11,
     "ci_upper": 53.07,
     "games_played": 5,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -11
   },
   {
     "model_id": "deepseek-v4-flash-0731",
@@ -1616,7 +1616,7 @@
     "ci_lower": 44.62,
     "ci_upper": 50.97,
     "games_played": 8,
-    "rank_delta_14d": -14
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-3.1-pro-preview",
@@ -1647,7 +1647,7 @@
     "ci_lower": 44.04,
     "ci_upper": 48.06,
     "games_played": 21,
-    "rank_delta_14d": -12
+    "rank_delta_14d": -8
   },
   {
     "model_id": "gpt-5.2-pro-2025-12-11",
@@ -1676,7 +1676,7 @@
     "ci_lower": 44.66,
     "ci_upper": 51.38,
     "games_played": 7,
-    "rank_delta_14d": -10
+    "rank_delta_14d": -8
   },
   {
     "model_id": "ling-3.0-flash-fin",
@@ -1704,7 +1704,7 @@
     "ci_lower": 45.3,
     "ci_upper": 54.8,
     "games_played": 5,
-    "rank_delta_14d": -8
+    "rank_delta_14d": -4
   },
   {
     "model_id": "deepseek-v4-pro-max",
@@ -1732,7 +1732,7 @@
     "ci_lower": 43.84,
     "ci_upper": 47.9,
     "games_played": 22,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -9
   },
   {
     "model_id": "hy3",
@@ -1760,7 +1760,7 @@
     "ci_lower": 43.47,
     "ci_upper": 47.28,
     "games_played": 29,
-    "rank_delta_14d": -12
+    "rank_delta_14d": -8
   },
   {
     "model_id": "seed-2.1-turbo",
@@ -1784,7 +1784,7 @@
     "ci_lower": 43.29,
     "ci_upper": 46.35,
     "games_played": 69,
-    "rank_delta_14d": -16
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-3.6-flash",
@@ -1815,7 +1815,7 @@
     "ci_lower": 44.13,
     "ci_upper": 51.08,
     "games_played": 6,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -9
   },
   {
     "model_id": "qwen3.7-plus",
@@ -1844,7 +1844,7 @@
     "ci_lower": 43.06,
     "ci_upper": 46.0,
     "games_played": 59,
-    "rank_delta_14d": -12
+    "rank_delta_14d": -8
   },
   {
     "model_id": "ember-1",
@@ -1872,7 +1872,7 @@
     "ci_lower": 44.37,
     "ci_upper": 52.85,
     "games_played": 4,
-    "rank_delta_14d": null
+    "rank_delta_14d": -17
   },
   {
     "model_id": "gemini-3.5-flash",
@@ -1903,7 +1903,7 @@
     "ci_lower": 43.06,
     "ci_upper": 47.25,
     "games_played": 18,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -8
   },
   {
     "model_id": "sakana-namazu",
@@ -1932,7 +1932,7 @@
     "ci_lower": 44.32,
     "ci_upper": 54.65,
     "games_played": 3,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gpt-5.4",
@@ -1961,7 +1961,7 @@
     "ci_lower": 42.54,
     "ci_upper": 46.21,
     "games_played": 27,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -9
   },
   {
     "model_id": "muse-spark",
@@ -1985,7 +1985,7 @@
     "ci_lower": 42.67,
     "ci_upper": 47.06,
     "games_played": 18,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-5.2-2025-12-11",
@@ -2014,7 +2014,7 @@
     "ci_lower": 42.0,
     "ci_upper": 45.93,
     "games_played": 23,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -9
   },
   {
     "model_id": "minimax-m3",
@@ -2044,7 +2044,7 @@
     "ci_lower": 41.89,
     "ci_upper": 45.92,
     "games_played": 25,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -9
   },
   {
     "model_id": "grok-4-heavy",
@@ -2096,7 +2096,7 @@
     "ci_lower": 41.42,
     "ci_upper": 48.48,
     "games_played": 6,
-    "rank_delta_14d": -14
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-3.8-flash-cyber",
@@ -2120,7 +2120,7 @@
     "ci_lower": 43.21,
     "ci_upper": 58.83,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -3
   },
   {
     "model_id": "seed-2.0-pro",
@@ -2150,7 +2150,7 @@
     "ci_lower": 40.86,
     "ci_upper": 47.69,
     "games_played": 6,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -11
   },
   {
     "model_id": "qwen3.6-plus",
@@ -2180,7 +2180,7 @@
     "ci_lower": 39.68,
     "ci_upper": 42.48,
     "games_played": 64,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -11
   },
   {
     "model_id": "deepseek-v4-flash-max",
@@ -2208,7 +2208,7 @@
     "ci_lower": 39.93,
     "ci_upper": 44.12,
     "games_played": 19,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -11
   },
   {
     "model_id": "glm-5.1",
@@ -2236,7 +2236,7 @@
     "ci_lower": 39.88,
     "ci_upper": 44.11,
     "games_played": 18,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -11
   },
   {
     "model_id": "kimi-k2.7-code",
@@ -2266,7 +2266,7 @@
     "ci_lower": 40.46,
     "ci_upper": 47.53,
     "games_played": 7,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -11
   },
   {
     "model_id": "kimi-k2.5",
@@ -2296,7 +2296,7 @@
     "ci_lower": 39.28,
     "ci_upper": 42.55,
     "games_played": 40,
-    "rank_delta_14d": -14
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gemini-3-pro-preview",
@@ -2327,7 +2327,7 @@
     "ci_lower": 39.34,
     "ci_upper": 43.37,
     "games_played": 21,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -9
   },
   {
     "model_id": "qwen3.5-397b-a17b",
@@ -2357,7 +2357,7 @@
     "ci_lower": 39.12,
     "ci_upper": 42.32,
     "games_played": 37,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -12
   },
   {
     "model_id": "inkling-small",
@@ -2387,7 +2387,7 @@
     "ci_lower": 39.15,
     "ci_upper": 43.09,
     "games_played": 24,
-    "rank_delta_14d": -14
+    "rank_delta_14d": -10
   },
   {
     "model_id": "claude-opus-4-5-20251101",
@@ -2416,7 +2416,7 @@
     "ci_lower": 39.28,
     "ci_upper": 44.73,
     "games_played": 11,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -10
   },
   {
     "model_id": "qwen3.8-omni-flash",
@@ -2440,7 +2440,7 @@
     "ci_lower": 41.52,
     "ci_upper": 56.47,
     "games_played": 3,
-    "rank_delta_14d": null
+    "rank_delta_14d": -10
   },
   {
     "model_id": "inkling",
@@ -2470,7 +2470,7 @@
     "ci_lower": 38.3,
     "ci_upper": 43.19,
     "games_played": 16,
-    "rank_delta_14d": -14
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gemini-3.5-flash-cyber",
@@ -2494,7 +2494,7 @@
     "ci_lower": 40.94,
     "ci_upper": 56.43,
     "games_played": 1,
-    "rank_delta_14d": -9
+    "rank_delta_14d": -1
   },
   {
     "model_id": "muse-spark-1.2",
@@ -2524,7 +2524,7 @@
     "ci_lower": 39.89,
     "ci_upper": 51.25,
     "games_played": 2,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -12
   },
   {
     "model_id": "glm-5",
@@ -2552,7 +2552,7 @@
     "ci_lower": 38.7,
     "ci_upper": 46.23,
     "games_played": 5,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -10
   },
   {
     "model_id": "step-3.5-flash",
@@ -2581,7 +2581,7 @@
     "ci_lower": 38.47,
     "ci_upper": 45.11,
     "games_played": 7,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "minimax-m2.5",
@@ -2610,7 +2610,7 @@
     "ci_lower": 38.69,
     "ci_upper": 47.05,
     "games_played": 5,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -9
   },
   {
     "model_id": "claude-sonnet-4-6",
@@ -2641,7 +2641,7 @@
     "ci_lower": 37.55,
     "ci_upper": 41.39,
     "games_played": 22,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gemini-3-flash-preview",
@@ -2672,7 +2672,7 @@
     "ci_lower": 37.45,
     "ci_upper": 41.14,
     "games_played": 25,
-    "rank_delta_14d": -16
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-5.1-thinking-2025-11-12",
@@ -2701,7 +2701,7 @@
     "ci_lower": 37.9,
     "ci_upper": 43.72,
     "games_played": 9,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-5.1-instant-2025-11-12",
@@ -2730,7 +2730,7 @@
     "ci_lower": 37.8,
     "ci_upper": 43.62,
     "games_played": 9,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -12
   },
   {
     "model_id": "gpt-5.3-codex",
@@ -2759,7 +2759,7 @@
     "ci_lower": 38.22,
     "ci_upper": 46.0,
     "games_played": 6,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-5.1-2025-11-13",
@@ -2788,7 +2788,7 @@
     "ci_lower": 37.66,
     "ci_upper": 43.49,
     "games_played": 9,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -12
   },
   {
     "model_id": "mercury-3",
@@ -2844,7 +2844,7 @@
     "ci_lower": 36.93,
     "ci_upper": 41.14,
     "games_played": 19,
-    "rank_delta_14d": -13
+    "rank_delta_14d": -9
   },
   {
     "model_id": "ling-3.0-flash",
@@ -2872,7 +2872,7 @@
     "ci_lower": 36.94,
     "ci_upper": 41.26,
     "games_played": 19,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "nemotron-3-ultra-550b-a55b",
@@ -2901,7 +2901,7 @@
     "ci_lower": 36.83,
     "ci_upper": 40.79,
     "games_played": 25,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "mimo-v2.5",
@@ -2932,7 +2932,7 @@
     "ci_lower": 37.26,
     "ci_upper": 43.15,
     "games_played": 10,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -11
   },
   {
     "model_id": "mimo-v2-pro",
@@ -2960,7 +2960,7 @@
     "ci_lower": 37.15,
     "ci_upper": 43.71,
     "games_played": 7,
-    "rank_delta_14d": -15
+    "rank_delta_14d": -10
   },
   {
     "model_id": "kimi-k2-thinking-0905",
@@ -2988,7 +2988,7 @@
     "ci_lower": 36.49,
     "ci_upper": 40.65,
     "games_played": 20,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "minimax-m2.7",
@@ -3016,7 +3016,7 @@
     "ci_lower": 37.02,
     "ci_upper": 43.39,
     "games_played": 8,
-    "rank_delta_14d": -14
+    "rank_delta_14d": -8
   },
   {
     "model_id": "muse-glimmer-30b",
@@ -3045,7 +3045,7 @@
     "ci_lower": 36.12,
     "ci_upper": 39.83,
     "games_played": 26,
-    "rank_delta_14d": -11
+    "rank_delta_14d": -6
   },
   {
     "model_id": "qwen3.6-27b",
@@ -3075,7 +3075,7 @@
     "ci_lower": 35.94,
     "ci_upper": 39.0,
     "games_played": 43,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-5.1-high-2025-11-12",
@@ -3104,7 +3104,7 @@
     "ci_lower": 37.31,
     "ci_upper": 46.74,
     "games_played": 3,
-    "rank_delta_14d": -16
+    "rank_delta_14d": -12
   },
   {
     "model_id": "longcat-flash-thinking-2601",
@@ -3132,7 +3132,7 @@
     "ci_lower": 36.18,
     "ci_upper": 41.42,
     "games_played": 11,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -14
   },
   {
     "model_id": "nemotron-3.5-super-vl-120b-a12b",
@@ -3192,7 +3192,7 @@
     "ci_lower": 35.35,
     "ci_upper": 38.08,
     "games_played": 81,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "solar-pro4",
@@ -3220,7 +3220,7 @@
     "ci_lower": 36.09,
     "ci_upper": 41.82,
     "games_played": 9,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-5.2-codex",
@@ -3249,7 +3249,7 @@
     "ci_lower": 36.42,
     "ci_upper": 45.85,
     "games_played": 3,
-    "rank_delta_14d": -16
+    "rank_delta_14d": -11
   },
   {
     "model_id": "seed-1.8",
@@ -3279,7 +3279,7 @@
     "ci_lower": 34.73,
     "ci_upper": 37.87,
     "games_played": 56,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "glm-4.7",
@@ -3307,7 +3307,7 @@
     "ci_lower": 35.16,
     "ci_upper": 39.98,
     "games_played": 13,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-5-high-2025-08-07",
@@ -3336,7 +3336,7 @@
     "ci_lower": 36.52,
     "ci_upper": 47.76,
     "games_played": 2,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "qwen3.5-27b",
@@ -3359,14 +3359,14 @@
     ],
     "input_price": 260000.0,
     "output_price": null,
-    "rank": 117,
+    "rank": 118,
     "conservative": 33.55,
     "mu": 35.57,
     "sigma": 0.67,
     "ci_lower": 34.23,
     "ci_upper": 36.92,
     "games_played": 82,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -13
   },
   {
     "model_id": "deepseek-v3.2-speciale",
@@ -3387,14 +3387,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 118,
+    "rank": 117,
     "conservative": 33.55,
     "mu": 38.08,
     "sigma": 1.51,
     "ci_lower": 35.06,
     "ci_upper": 41.1,
     "games_played": 8,
-    "rank_delta_14d": -16
+    "rank_delta_14d": -11
   },
   {
     "model_id": "grok-4",
@@ -3423,7 +3423,7 @@
     "ci_lower": 35.19,
     "ci_upper": 42.04,
     "games_played": 7,
-    "rank_delta_14d": -16
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gpt-5-2025-08-07",
@@ -3452,7 +3452,7 @@
     "ci_lower": 34.3,
     "ci_upper": 37.97,
     "games_played": 30,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -13
   },
   {
     "model_id": "ernie-5.0",
@@ -3476,7 +3476,7 @@
     "ci_lower": 35.03,
     "ci_upper": 42.48,
     "games_played": 5,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "deepseek-v3.2",
@@ -3504,7 +3504,7 @@
     "ci_lower": 34.0,
     "ci_upper": 38.4,
     "games_played": 16,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "gemma-4-31b-it",
@@ -3535,7 +3535,7 @@
     "ci_lower": 33.91,
     "ci_upper": 38.58,
     "games_played": 15,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "mai-thinking-1",
@@ -3559,7 +3559,7 @@
     "ci_lower": 33.71,
     "ci_upper": 38.18,
     "games_played": 18,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "qwen3-max-thinking",
@@ -3587,7 +3587,7 @@
     "ci_lower": 33.41,
     "ci_upper": 36.83,
     "games_played": 33,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -12
   },
   {
     "model_id": "solar-mini4",
@@ -3615,7 +3615,7 @@
     "ci_lower": 34.81,
     "ci_upper": 44.68,
     "games_played": 6,
-    "rank_delta_14d": null
+    "rank_delta_14d": -8
   },
   {
     "model_id": "deepseek-reasoner",
@@ -3643,7 +3643,7 @@
     "ci_lower": 33.35,
     "ci_upper": 37.96,
     "games_played": 14,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -13
   },
   {
     "model_id": "qwen3.6-35b-a3b",
@@ -3673,7 +3673,7 @@
     "ci_lower": 32.78,
     "ci_upper": 35.74,
     "games_played": 49,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-5.5-instant",
@@ -3702,7 +3702,7 @@
     "ci_lower": 33.39,
     "ci_upper": 39.73,
     "games_played": 9,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -13
   },
   {
     "model_id": "claude-sonnet-4-5-20250929",
@@ -3733,7 +3733,7 @@
     "ci_lower": 33.28,
     "ci_upper": 39.66,
     "games_played": 9,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-rosalind-research",
@@ -3762,7 +3762,7 @@
     "ci_lower": 35.11,
     "ci_upper": 49.37,
     "games_played": 3,
-    "rank_delta_14d": null
+    "rank_delta_14d": -9
   },
   {
     "model_id": "seed-2.0-lite",
@@ -3786,7 +3786,7 @@
     "ci_lower": 33.4,
     "ci_upper": 40.85,
     "games_played": 5,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -13
   },
   {
     "model_id": "minimax-m2.1",
@@ -3814,7 +3814,7 @@
     "ci_lower": 32.39,
     "ci_upper": 36.91,
     "games_played": 15,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -13
   },
   {
     "model_id": "grok-4-fast",
@@ -3843,7 +3843,7 @@
     "ci_lower": 32.77,
     "ci_upper": 39.15,
     "games_played": 7,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-5.1-medium-2025-11-12",
@@ -3872,7 +3872,7 @@
     "ci_lower": 34.73,
     "ci_upper": 49.85,
     "games_played": 1,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -11
   },
   {
     "model_id": "grok-3-mini",
@@ -3901,7 +3901,7 @@
     "ci_lower": 33.04,
     "ci_upper": 41.71,
     "games_played": 4,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "o3-2025-04-16",
@@ -3930,7 +3930,7 @@
     "ci_lower": 31.61,
     "ci_upper": 35.51,
     "games_played": 22,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -12
   },
   {
     "model_id": "gemini-3.1-flash-lite-preview",
@@ -3954,14 +3954,14 @@
     ],
     "input_price": 250000.0,
     "output_price": null,
-    "rank": 138,
+    "rank": 139,
     "conservative": 30.5,
     "mu": 34.03,
     "sigma": 1.18,
     "ci_lower": 31.68,
     "ci_upper": 36.39,
     "games_played": 14,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -11
   },
   {
     "model_id": "qwen3.5-35b-a3b",
@@ -3984,14 +3984,14 @@
     ],
     "input_price": 50000.0,
     "output_price": null,
-    "rank": 139,
+    "rank": 138,
     "conservative": 30.5,
     "mu": 32.57,
     "sigma": 0.69,
     "ci_lower": 31.19,
     "ci_upper": 33.94,
     "games_played": 81,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -11
   },
   {
     "model_id": "nova-2-pro",
@@ -4015,7 +4015,7 @@
     "ci_lower": 31.58,
     "ci_upper": 36.0,
     "games_played": 17,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -14
   },
   {
     "model_id": "mimo-v2-flash",
@@ -4043,7 +4043,7 @@
     "ci_lower": 31.44,
     "ci_upper": 36.02,
     "games_played": 15,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -12
   },
   {
     "model_id": "glm-5v-turbo",
@@ -4073,7 +4073,7 @@
     "ci_lower": 31.7,
     "ci_upper": 38.5,
     "games_played": 9,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -11
   },
   {
     "model_id": "grok-3",
@@ -4102,7 +4102,7 @@
     "ci_lower": 31.81,
     "ci_upper": 39.33,
     "games_played": 5,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "step-3.7-flash",
@@ -4132,7 +4132,7 @@
     "ci_lower": 32.06,
     "ci_upper": 41.42,
     "games_played": 4,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -9
   },
   {
     "model_id": "gpt-5.4-mini",
@@ -4161,7 +4161,7 @@
     "ci_lower": 30.73,
     "ci_upper": 34.82,
     "games_played": 20,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "nemotron-3.5-bolt-74b-a9b-24gb",
@@ -4214,7 +4214,7 @@
     "ci_lower": 31.07,
     "ci_upper": 37.35,
     "games_played": 8,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gemini-3.5-flash-lite",
@@ -4245,7 +4245,7 @@
     "ci_lower": 31.39,
     "ci_upper": 39.01,
     "games_played": 5,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -10
   },
   {
     "model_id": "gemini-2.5-pro-preview-06-05",
@@ -4274,7 +4274,7 @@
     "ci_lower": 30.73,
     "ci_upper": 35.77,
     "games_played": 13,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -16
   },
   {
     "model_id": "gpt-5.1-codex",
@@ -4303,7 +4303,7 @@
     "ci_lower": 32.15,
     "ci_upper": 43.28,
     "games_played": 3,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -11
   },
   {
     "model_id": "gpt-5-medium-2025-08-07",
@@ -4332,7 +4332,7 @@
     "ci_lower": 32.08,
     "ci_upper": 43.31,
     "games_played": 2,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -15
   },
   {
     "model_id": "gemma-4-26b-a4b-it",
@@ -4361,7 +4361,7 @@
     "ci_lower": 30.5,
     "ci_upper": 35.61,
     "games_played": 12,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -15
   },
   {
     "model_id": "gpt-5.1-codex-high",
@@ -4390,7 +4390,7 @@
     "ci_lower": 32.9,
     "ci_upper": 47.99,
     "games_played": 1,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-5.3-chat-latest",
@@ -4419,7 +4419,7 @@
     "ci_lower": 32.14,
     "ci_upper": 44.64,
     "games_played": 2,
-    "rank_delta_14d": -24
+    "rank_delta_14d": -13
   },
   {
     "model_id": "mai-code-1-flash",
@@ -4443,7 +4443,7 @@
     "ci_lower": 29.99,
     "ci_upper": 35.39,
     "games_played": 11,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "glm-4.6",
@@ -4473,7 +4473,7 @@
     "ci_lower": 30.09,
     "ci_upper": 36.41,
     "games_played": 7,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "longcat-flash-thinking",
@@ -4501,7 +4501,7 @@
     "ci_lower": 29.38,
     "ci_upper": 34.18,
     "games_played": 14,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-oss-120b",
@@ -4529,7 +4529,7 @@
     "ci_lower": 29.76,
     "ci_upper": 36.24,
     "games_played": 7,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -13
   },
   {
     "model_id": "seed-2.0-mini",
@@ -4559,7 +4559,7 @@
     "ci_lower": 28.64,
     "ci_upper": 31.94,
     "games_played": 79,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -12
   },
   {
     "model_id": "deepseek-v3.2-exp",
@@ -4587,7 +4587,7 @@
     "ci_lower": 28.87,
     "ci_upper": 33.55,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-235b-a22b-thinking-2507",
@@ -4615,7 +4615,7 @@
     "ci_lower": 28.59,
     "ci_upper": 32.35,
     "games_played": 24,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -13
   },
   {
     "model_id": "mai-code-1.1-flash",
@@ -4644,7 +4644,7 @@
     "ci_lower": 30.27,
     "ci_upper": 41.64,
     "games_played": 2,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -9
   },
   {
     "model_id": "claude-opus-4-20250514",
@@ -4666,14 +4666,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 163,
+    "rank": 164,
     "conservative": 27.36,
     "mu": 31.79,
     "sigma": 1.48,
     "ci_lower": 28.83,
     "ci_upper": 34.74,
     "games_played": 9,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gemini-2.5-pro",
@@ -4696,14 +4696,14 @@
     ],
     "input_price": 1250000.0,
     "output_price": null,
-    "rank": 164,
+    "rank": 163,
     "conservative": 27.36,
     "mu": 31.09,
     "sigma": 1.24,
     "ci_lower": 28.6,
     "ci_upper": 33.58,
     "games_played": 15,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "gpt-oss-20b-high",
@@ -4731,7 +4731,7 @@
     "ci_lower": 30.1,
     "ci_upper": 41.37,
     "games_played": 2,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -13
   },
   {
     "model_id": "glm-4.5",
@@ -4759,7 +4759,7 @@
     "ci_lower": 28.45,
     "ci_upper": 33.2,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -15
   },
   {
     "model_id": "o4-mini",
@@ -4788,7 +4788,7 @@
     "ci_lower": 28.17,
     "ci_upper": 32.86,
     "games_played": 14,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -12
   },
   {
     "model_id": "mimo-v2-omni",
@@ -4819,7 +4819,7 @@
     "ci_lower": 29.42,
     "ci_upper": 39.37,
     "games_played": 3,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-5-mini-2025-08-07",
@@ -4848,7 +4848,7 @@
     "ci_lower": 28.76,
     "ci_upper": 36.35,
     "games_played": 5,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-5-codex-2025-09-15",
@@ -4872,7 +4872,7 @@
     "ci_lower": 30.3,
     "ci_upper": 45.33,
     "games_played": 1,
-    "rank_delta_14d": -16
+    "rank_delta_14d": -9
   },
   {
     "model_id": "mistral-medium-3-5",
@@ -4901,7 +4901,7 @@
     "ci_lower": 27.97,
     "ci_upper": 34.26,
     "games_played": 8,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -14
   },
   {
     "model_id": "minimax-m2",
@@ -4929,7 +4929,7 @@
     "ci_lower": 27.54,
     "ci_upper": 32.17,
     "games_played": 15,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-vl-235b-a22b-thinking",
@@ -4959,7 +4959,7 @@
     "ci_lower": 27.03,
     "ci_upper": 29.94,
     "games_played": 58,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-5.4-nano",
@@ -4988,7 +4988,7 @@
     "ci_lower": 27.31,
     "ci_upper": 31.38,
     "games_played": 21,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -12
   },
   {
     "model_id": "nemotron-3-super-120b-a12b",
@@ -5016,7 +5016,7 @@
     "ci_lower": 27.2,
     "ci_upper": 31.0,
     "games_played": 23,
-    "rank_delta_14d": -23
+    "rank_delta_14d": -16
   },
   {
     "model_id": "k-exaone-236b-a23b",
@@ -5044,7 +5044,7 @@
     "ci_lower": 27.49,
     "ci_upper": 34.41,
     "games_played": 6,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "exaone-4.5-33b",
@@ -5068,7 +5068,7 @@
     "ci_lower": 26.62,
     "ci_upper": 31.14,
     "games_played": 15,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "nova-2-omni",
@@ -5092,7 +5092,7 @@
     "ci_lower": 26.54,
     "ci_upper": 31.45,
     "games_played": 16,
-    "rank_delta_14d": -17
+    "rank_delta_14d": -13
   },
   {
     "model_id": "mimo-v2.5-pro",
@@ -5121,7 +5121,7 @@
     "ci_lower": 26.28,
     "ci_upper": 30.24,
     "games_played": 28,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -11
   },
   {
     "model_id": "claude-haiku-4-5-20251001",
@@ -5150,7 +5150,7 @@
     "ci_lower": 26.35,
     "ci_upper": 30.83,
     "games_played": 18,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -13
   },
   {
     "model_id": "sarvam-105b",
@@ -5174,7 +5174,7 @@
     "ci_lower": 26.38,
     "ci_upper": 31.05,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -15
   },
   {
     "model_id": "step3-vl-10b",
@@ -5198,7 +5198,7 @@
     "ci_lower": 27.11,
     "ci_upper": 34.75,
     "games_played": 6,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -12
   },
   {
     "model_id": "nova-2-lite",
@@ -5221,14 +5221,14 @@
     ],
     "input_price": 300000.0,
     "output_price": null,
-    "rank": 184,
+    "rank": 183,
     "conservative": 24.96,
     "mu": 28.23,
     "sigma": 1.09,
     "ci_lower": 26.05,
     "ci_upper": 30.4,
     "games_played": 18,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-oss-120b-high",
@@ -5249,14 +5249,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 183,
+    "rank": 184,
     "conservative": 24.96,
     "mu": 29.77,
     "sigma": 1.6,
     "ci_lower": 26.56,
     "ci_upper": 32.97,
     "games_played": 7,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -14
   },
   {
     "model_id": "chatgpt-4o-latest",
@@ -5285,7 +5285,7 @@
     "ci_lower": 28.18,
     "ci_upper": 43.23,
     "games_played": 1,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "qwen3-vl-235b-a22b-instruct",
@@ -5315,7 +5315,7 @@
     "ci_lower": 25.0,
     "ci_upper": 27.96,
     "games_played": 50,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -12
   },
   {
     "model_id": "qwen3.5-9b",
@@ -5345,7 +5345,7 @@
     "ci_lower": 25.17,
     "ci_upper": 28.94,
     "games_played": 25,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "laguna-xs-2.1",
@@ -5373,7 +5373,7 @@
     "ci_lower": 26.04,
     "ci_upper": 34.5,
     "games_played": 4,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -12
   },
   {
     "model_id": "glm-4.5-air",
@@ -5397,7 +5397,7 @@
     "ci_lower": 25.03,
     "ci_upper": 29.74,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "claude-sonnet-4-20250514",
@@ -5426,7 +5426,7 @@
     "ci_lower": 25.34,
     "ci_upper": 31.34,
     "games_played": 8,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "qwen3-235b-a22b-instruct-2507",
@@ -5454,7 +5454,7 @@
     "ci_lower": 24.64,
     "ci_upper": 28.36,
     "games_played": 25,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "deepseek-r1-0528",
@@ -5482,7 +5482,7 @@
     "ci_lower": 24.74,
     "ci_upper": 29.24,
     "games_played": 16,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "command-a-plus-05-2026",
@@ -5506,7 +5506,7 @@
     "ci_lower": 24.93,
     "ci_upper": 30.43,
     "games_played": 10,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "claude-3-7-sonnet-20250219",
@@ -5535,7 +5535,7 @@
     "ci_lower": 24.79,
     "ci_upper": 29.98,
     "games_played": 11,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "grok-4.20-beta-0309-reasoning",
@@ -5564,7 +5564,7 @@
     "ci_lower": 26.34,
     "ci_upper": 38.13,
     "games_played": 2,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -11
   },
   {
     "model_id": "qwen3-next-80b-a3b-thinking",
@@ -5592,7 +5592,7 @@
     "ci_lower": 24.32,
     "ci_upper": 28.16,
     "games_played": 22,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -14
   },
   {
     "model_id": "granite-4.2-30b",
@@ -5620,7 +5620,7 @@
     "ci_lower": 24.39,
     "ci_upper": 28.77,
     "games_played": 18,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-vl-32b-thinking",
@@ -5644,7 +5644,7 @@
     "ci_lower": 23.96,
     "ci_upper": 26.93,
     "games_played": 47,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -13
   },
   {
     "model_id": "mercury-2",
@@ -5672,7 +5672,7 @@
     "ci_lower": 24.87,
     "ci_upper": 31.75,
     "games_played": 6,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -13
   },
   {
     "model_id": "u2",
@@ -5701,7 +5701,7 @@
     "ci_lower": 24.24,
     "ci_upper": 29.26,
     "games_played": 13,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -12
   },
   {
     "model_id": "glm-4.7-flash",
@@ -5729,7 +5729,7 @@
     "ci_lower": 24.69,
     "ci_upper": 31.63,
     "games_played": 6,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "grok-4.3",
@@ -5757,7 +5757,7 @@
     "ci_lower": 25.86,
     "ci_upper": 41.34,
     "games_played": 1,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -12
   },
   {
     "model_id": "nemotron-labs-dory-1.0-4b",
@@ -5809,7 +5809,7 @@
     "ci_lower": 23.04,
     "ci_upper": 28.09,
     "games_played": 13,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -12
   },
   {
     "model_id": "gemma-4-12b-it",
@@ -5833,7 +5833,7 @@
     "ci_lower": 22.83,
     "ci_upper": 27.57,
     "games_played": 15,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-v3.1",
@@ -5861,7 +5861,7 @@
     "ci_lower": 22.68,
     "ci_upper": 27.06,
     "games_played": 16,
-    "rank_delta_14d": -23
+    "rank_delta_14d": -17
   },
   {
     "model_id": "north-mini-code-1.0",
@@ -5885,7 +5885,7 @@
     "ci_lower": 23.42,
     "ci_upper": 31.09,
     "games_played": 5,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "kimi-k2-instruct",
@@ -5913,7 +5913,7 @@
     "ci_lower": 22.25,
     "ci_upper": 25.74,
     "games_played": 30,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemini-2.5-flash",
@@ -5943,7 +5943,7 @@
     "ci_lower": 22.52,
     "ci_upper": 27.25,
     "games_played": 15,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-max",
@@ -5971,7 +5971,7 @@
     "ci_lower": 23.0,
     "ci_upper": 29.88,
     "games_played": 6,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "kimi-k2-0905",
@@ -5999,7 +5999,7 @@
     "ci_lower": 22.93,
     "ci_upper": 29.86,
     "games_played": 6,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "kimi-k2-instruct-0905",
@@ -6023,7 +6023,7 @@
     "ci_lower": 21.97,
     "ci_upper": 25.52,
     "games_played": 27,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "o3-mini",
@@ -6051,7 +6051,7 @@
     "ci_lower": 21.95,
     "ci_upper": 25.89,
     "games_played": 25,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "minimax-m1-80k",
@@ -6079,7 +6079,7 @@
     "ci_lower": 22.02,
     "ci_upper": 26.47,
     "games_played": 16,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-coder-480b-a35b-instruct",
@@ -6107,7 +6107,7 @@
     "ci_lower": 22.15,
     "ci_upper": 28.23,
     "games_played": 9,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "nemotron-3-nano-30b-a3b",
@@ -6135,7 +6135,7 @@
     "ci_lower": 21.62,
     "ci_upper": 26.21,
     "games_played": 15,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "o1-2024-12-17",
@@ -6163,7 +6163,7 @@
     "ci_lower": 21.6,
     "ci_upper": 26.12,
     "games_played": 16,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "grok-code-fast-1",
@@ -6191,7 +6191,7 @@
     "ci_lower": 24.13,
     "ci_upper": 39.16,
     "games_played": 1,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ministral-14b-latest",
@@ -6220,7 +6220,7 @@
     "ci_lower": 22.13,
     "ci_upper": 30.38,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "minimax-m1-40k",
@@ -6244,7 +6244,7 @@
     "ci_lower": 21.11,
     "ci_upper": 25.6,
     "games_played": 16,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-vl-32b-instruct",
@@ -6268,7 +6268,7 @@
     "ci_lower": 20.58,
     "ci_upper": 23.56,
     "games_played": 45,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-next-80b-a3b-instruct",
@@ -6296,7 +6296,7 @@
     "ci_lower": 20.64,
     "ci_upper": 24.39,
     "games_played": 24,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-4.5",
@@ -6325,7 +6325,7 @@
     "ci_lower": 20.61,
     "ci_upper": 24.34,
     "games_played": 26,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "granite-4.2-8b",
@@ -6346,14 +6346,14 @@
     ],
     "input_price": 15000.0,
     "output_price": null,
-    "rank": 225,
+    "rank": 224,
     "conservative": 19.34,
     "mu": 22.68,
     "sigma": 1.11,
     "ci_lower": 20.45,
     "ci_upper": 24.91,
     "games_played": 18,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -11
   },
   {
     "model_id": "longcat-flash-chat",
@@ -6374,14 +6374,14 @@
     ],
     "input_price": null,
     "output_price": null,
-    "rank": 224,
+    "rank": 225,
     "conservative": 19.34,
     "mu": 22.62,
     "sigma": 1.09,
     "ci_lower": 20.43,
     "ci_upper": 24.81,
     "games_played": 16,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "grok-4.1-2025-11-17",
@@ -6410,7 +6410,7 @@
     "ci_lower": 22.54,
     "ci_upper": 35.64,
     "games_played": 2,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -14
   },
   {
     "model_id": "o1-pro",
@@ -6434,7 +6434,7 @@
     "ci_lower": 22.08,
     "ci_upper": 33.37,
     "games_played": 2,
-    "rank_delta_14d": -23
+    "rank_delta_14d": -16
   },
   {
     "model_id": "sarvam-30b",
@@ -6458,7 +6458,7 @@
     "ci_lower": 20.23,
     "ci_upper": 25.06,
     "games_played": 14,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "qwen3.5-4b",
@@ -6482,7 +6482,7 @@
     "ci_lower": 20.01,
     "ci_upper": 23.96,
     "games_played": 25,
-    "rank_delta_14d": -19
+    "rank_delta_14d": -12
   },
   {
     "model_id": "diffusiongemma-26b-a4b-it",
@@ -6506,7 +6506,7 @@
     "ci_lower": 20.29,
     "ci_upper": 25.4,
     "games_played": 14,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-5-nano-2025-08-07",
@@ -6535,7 +6535,7 @@
     "ci_lower": 20.81,
     "ci_upper": 28.43,
     "games_played": 5,
-    "rank_delta_14d": -23
+    "rank_delta_14d": -16
   },
   {
     "model_id": "llama-3.1-nemotron-ultra-253b-v1",
@@ -6559,7 +6559,7 @@
     "ci_lower": 20.43,
     "ci_upper": 27.5,
     "games_played": 6,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "claude-3-5-sonnet-20241022",
@@ -6588,7 +6588,7 @@
     "ci_lower": 19.65,
     "ci_upper": 24.04,
     "games_played": 17,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "lfm-2.5-2.6b",
@@ -6612,7 +6612,7 @@
     "ci_lower": 20.11,
     "ci_upper": 26.88,
     "games_played": 9,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "mistral-small-latest",
@@ -6641,7 +6641,7 @@
     "ci_lower": 19.76,
     "ci_upper": 25.57,
     "games_played": 9,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "longcat-flash-lite",
@@ -6669,7 +6669,7 @@
     "ci_lower": 19.32,
     "ci_upper": 24.14,
     "games_played": 13,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-32b",
@@ -6697,7 +6697,7 @@
     "ci_lower": 19.56,
     "ci_upper": 25.83,
     "games_played": 8,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "nvidia-nemotron-nano-9b-v2",
@@ -6721,7 +6721,7 @@
     "ci_lower": 19.82,
     "ci_upper": 27.28,
     "games_played": 5,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "qwen3-vl-30b-a3b-thinking",
@@ -6751,7 +6751,7 @@
     "ci_lower": 18.52,
     "ci_upper": 21.38,
     "games_played": 50,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-14b",
@@ -6779,7 +6779,7 @@
     "ci_lower": 18.81,
     "ci_upper": 23.47,
     "games_played": 17,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-oss-20b",
@@ -6807,7 +6807,7 @@
     "ci_lower": 19.21,
     "ci_upper": 25.99,
     "games_played": 7,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-4.1-2025-04-14",
@@ -6836,7 +6836,7 @@
     "ci_lower": 18.4,
     "ci_upper": 22.06,
     "games_played": 28,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-30b-a3b",
@@ -6864,7 +6864,7 @@
     "ci_lower": 18.31,
     "ci_upper": 24.35,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "kimi-k1.5",
@@ -6888,7 +6888,7 @@
     "ci_lower": 18.28,
     "ci_upper": 24.64,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemini-2.0-flash-thinking",
@@ -6912,7 +6912,7 @@
     "ci_lower": 18.66,
     "ci_upper": 28.1,
     "games_played": 3,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "o1-preview",
@@ -6940,7 +6940,7 @@
     "ci_lower": 17.61,
     "ci_upper": 23.75,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemini-2.0-flash",
@@ -6969,7 +6969,7 @@
     "ci_lower": 17.34,
     "ci_upper": 22.66,
     "games_played": 13,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ministral-8b-latest",
@@ -6998,7 +6998,7 @@
     "ci_lower": 18.01,
     "ci_upper": 26.24,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-vl-30b-a3b-instruct",
@@ -7028,7 +7028,7 @@
     "ci_lower": 16.66,
     "ci_upper": 19.54,
     "games_played": 50,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-vl-8b-thinking",
@@ -7057,7 +7057,7 @@
     "ci_lower": 16.5,
     "ci_upper": 19.37,
     "games_played": 50,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "grok-4.1-thinking-2025-11-17",
@@ -7086,7 +7086,7 @@
     "ci_lower": 19.69,
     "ci_upper": 35.58,
     "games_played": 3,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-r1-zero",
@@ -7110,7 +7110,7 @@
     "ci_lower": 17.62,
     "ci_upper": 25.89,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "claude-3-5-sonnet-20240620",
@@ -7139,7 +7139,7 @@
     "ci_lower": 16.82,
     "ci_upper": 22.66,
     "games_played": 9,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-v3",
@@ -7167,7 +7167,7 @@
     "ci_lower": 16.27,
     "ci_upper": 20.75,
     "games_played": 19,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-235b-a22b",
@@ -7195,7 +7195,7 @@
     "ci_lower": 16.08,
     "ci_upper": 20.1,
     "games_played": 21,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "granite-4.2-3b",
@@ -7223,7 +7223,7 @@
     "ci_lower": 16.31,
     "ci_upper": 21.65,
     "games_played": 13,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "phi-4-reasoning-plus",
@@ -7247,7 +7247,7 @@
     "ci_lower": 16.03,
     "ci_upper": 22.02,
     "games_played": 9,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwq-32b",
@@ -7271,7 +7271,7 @@
     "ci_lower": 15.88,
     "ci_upper": 22.31,
     "games_played": 7,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "llama-3.1-405b-instruct",
@@ -7299,7 +7299,7 @@
     "ci_lower": 15.54,
     "ci_upper": 20.82,
     "games_played": 17,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "llama-4-maverick",
@@ -7328,7 +7328,7 @@
     "ci_lower": 15.44,
     "ci_upper": 20.49,
     "games_played": 12,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-r1-distill-llama-70b",
@@ -7356,7 +7356,7 @@
     "ci_lower": 16.01,
     "ci_upper": 24.28,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "minicpm-sala",
@@ -7380,7 +7380,7 @@
     "ci_lower": 15.28,
     "ci_upper": 20.71,
     "games_played": 12,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen2-vl-72b",
@@ -7404,7 +7404,7 @@
     "ci_lower": 15.3,
     "ci_upper": 21.01,
     "games_played": 12,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-4o-2024-08-06",
@@ -7433,7 +7433,7 @@
     "ci_lower": 14.45,
     "ci_upper": 17.74,
     "games_played": 37,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-4.1-mini-2025-04-14",
@@ -7462,7 +7462,7 @@
     "ci_lower": 14.43,
     "ci_upper": 18.18,
     "games_played": 28,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-vl-8b-instruct",
@@ -7492,7 +7492,7 @@
     "ci_lower": 14.15,
     "ci_upper": 17.12,
     "games_played": 46,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-4-e4b-it",
@@ -7520,7 +7520,7 @@
     "ci_lower": 14.74,
     "ci_upper": 20.4,
     "games_played": 11,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "llama-3.3-70b-instruct",
@@ -7548,7 +7548,7 @@
     "ci_lower": 14.85,
     "ci_upper": 21.02,
     "games_played": 8,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "devstral-medium-2507",
@@ -7576,7 +7576,7 @@
     "ci_lower": 17.02,
     "ci_upper": 32.06,
     "games_played": 1,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "kimi-k2-base",
@@ -7600,7 +7600,7 @@
     "ci_lower": 14.32,
     "ci_upper": 19.65,
     "games_played": 12,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-v3-0324",
@@ -7628,7 +7628,7 @@
     "ci_lower": 14.71,
     "ci_upper": 22.15,
     "games_played": 5,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "llama-3.3-nemotron-super-49b-v1",
@@ -7652,7 +7652,7 @@
     "ci_lower": 14.33,
     "ci_upper": 21.21,
     "games_played": 7,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-r1-distill-qwen-32b",
@@ -7680,7 +7680,7 @@
     "ci_lower": 14.58,
     "ci_upper": 22.84,
     "games_played": 4,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "qwen3-vl-4b-thinking",
@@ -7709,7 +7709,7 @@
     "ci_lower": 13.2,
     "ci_upper": 16.16,
     "games_played": 48,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "magistral-medium",
@@ -7733,7 +7733,7 @@
     "ci_lower": 14.18,
     "ci_upper": 21.05,
     "games_played": 6,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "qwen2.5-vl-72b",
@@ -7757,7 +7757,7 @@
     "ci_lower": 13.21,
     "ci_upper": 17.2,
     "games_played": 27,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemini-2.0-flash-lite",
@@ -7786,7 +7786,7 @@
     "ci_lower": 13.27,
     "ci_upper": 18.82,
     "games_played": 13,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "nova-pro",
@@ -7815,7 +7815,7 @@
     "ci_lower": 12.8,
     "ci_upper": 16.94,
     "games_played": 24,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen-2.5-72b-instruct",
@@ -7843,7 +7843,7 @@
     "ci_lower": 12.83,
     "ci_upper": 17.65,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "phi-4-reasoning",
@@ -7867,7 +7867,7 @@
     "ci_lower": 13.03,
     "ci_upper": 19.03,
     "games_played": 9,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemini-1.5-pro",
@@ -7896,7 +7896,7 @@
     "ci_lower": 12.58,
     "ci_upper": 16.8,
     "games_played": 21,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "pixtral-large",
@@ -7925,7 +7925,7 @@
     "ci_lower": 13.09,
     "ci_upper": 20.04,
     "games_played": 7,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-4o-2024-05-13",
@@ -7954,7 +7954,7 @@
     "ci_lower": 12.48,
     "ci_upper": 18.47,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "grok-2",
@@ -7983,7 +7983,7 @@
     "ci_lower": 12.42,
     "ci_upper": 18.37,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ministral-3b-latest",
@@ -8012,7 +8012,7 @@
     "ci_lower": 12.71,
     "ci_upper": 20.92,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-r1-distill-qwen-14b",
@@ -8036,7 +8036,7 @@
     "ci_lower": 12.47,
     "ci_upper": 20.73,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3-vl-4b-instruct",
@@ -8065,7 +8065,7 @@
     "ci_lower": 10.98,
     "ci_upper": 14.05,
     "games_played": 45,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "magistral-small-2506",
@@ -8089,7 +8089,7 @@
     "ci_lower": 12.21,
     "ci_upper": 20.43,
     "games_played": 4,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "mistral-large-3-2509",
@@ -8118,7 +8118,7 @@
     "ci_lower": 11.64,
     "ci_upper": 18.13,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemini-2.5-flash-lite",
@@ -8147,7 +8147,7 @@
     "ci_lower": 11.25,
     "ci_upper": 16.72,
     "games_played": 12,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ministral-3-14b-instruct-2512",
@@ -8171,7 +8171,7 @@
     "ci_lower": 11.97,
     "ci_upper": 20.88,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "o1-mini",
@@ -8199,7 +8199,7 @@
     "ci_lower": 11.56,
     "ci_upper": 19.82,
     "games_played": 5,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "claude-3-opus-20240229",
@@ -8228,7 +8228,7 @@
     "ci_lower": 10.69,
     "ci_upper": 15.98,
     "games_played": 11,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen2.5-vl-32b",
@@ -8252,7 +8252,7 @@
     "ci_lower": 10.21,
     "ci_upper": 14.0,
     "games_played": 28,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "devstral-small-2507",
@@ -8280,7 +8280,7 @@
     "ci_lower": 12.41,
     "ci_upper": 27.47,
     "games_played": 1,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "nova-2-sonic",
@@ -8310,7 +8310,7 @@
     "ci_lower": 11.21,
     "ci_upper": 21.84,
     "games_played": 3,
-    "rank_delta_14d": -18
+    "rank_delta_14d": -11
   },
   {
     "model_id": "mistral-large-latest",
@@ -8339,7 +8339,7 @@
     "ci_lower": 10.43,
     "ci_upper": 18.06,
     "games_played": 5,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -15
   },
   {
     "model_id": "gpt-4-turbo-2024-04-09",
@@ -8367,7 +8367,7 @@
     "ci_lower": 10.23,
     "ci_upper": 17.12,
     "games_played": 6,
-    "rank_delta_14d": -23
+    "rank_delta_14d": -15
   },
   {
     "model_id": "qwq-32b-preview",
@@ -8395,7 +8395,7 @@
     "ci_lower": 10.53,
     "ci_upper": 18.82,
     "games_played": 4,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "mistral-large-3-675b-instruct-2512-nvfp4",
@@ -8419,7 +8419,7 @@
     "ci_lower": 10.32,
     "ci_upper": 17.95,
     "games_played": 5,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "mistral-large-3-675b-base-2512",
@@ -8443,7 +8443,7 @@
     "ci_lower": 10.22,
     "ci_upper": 17.84,
     "games_played": 5,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "mistral-large-3-675B-instruct-2512-eagle",
@@ -8467,7 +8467,7 @@
     "ci_lower": 10.12,
     "ci_upper": 17.75,
     "games_played": 5,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "grok-2-mini",
@@ -8491,7 +8491,7 @@
     "ci_lower": 9.56,
     "ci_upper": 15.52,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "mistral-small-3.2-24b-instruct-2506",
@@ -8520,7 +8520,7 @@
     "ci_lower": 9.24,
     "ci_upper": 14.26,
     "games_played": 12,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-r1-distill-qwen-7b",
@@ -8544,7 +8544,7 @@
     "ci_lower": 9.97,
     "ci_upper": 18.26,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-3-27b-it",
@@ -8573,7 +8573,7 @@
     "ci_lower": 8.73,
     "ci_upper": 12.47,
     "games_played": 27,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-v2.5",
@@ -8601,7 +8601,7 @@
     "ci_lower": 9.0,
     "ci_upper": 14.62,
     "games_played": 11,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qvq-72b-preview",
@@ -8625,7 +8625,7 @@
     "ci_lower": 9.87,
     "ci_upper": 19.63,
     "games_played": 3,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "llama-4-scout",
@@ -8654,7 +8654,7 @@
     "ci_lower": 8.64,
     "ci_upper": 13.82,
     "games_played": 11,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ministral-3-8b-instruct-2512",
@@ -8678,7 +8678,7 @@
     "ci_lower": 9.5,
     "ci_upper": 18.33,
     "games_played": 4,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "qwen-2.5-32b-instruct",
@@ -8702,7 +8702,7 @@
     "ci_lower": 8.34,
     "ci_upper": 12.77,
     "games_played": 17,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "llama-3.1-70b-instruct",
@@ -8730,7 +8730,7 @@
     "ci_lower": 8.48,
     "ci_upper": 13.84,
     "games_played": 16,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "nova-lite",
@@ -8759,7 +8759,7 @@
     "ci_lower": 8.08,
     "ci_upper": 12.09,
     "games_played": 24,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "mistral-large-2-2407",
@@ -8787,7 +8787,7 @@
     "ci_lower": 9.03,
     "ci_upper": 17.43,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "phi-4-mini-reasoning",
@@ -8811,7 +8811,7 @@
     "ci_lower": 9.43,
     "ci_upper": 20.77,
     "games_played": 2,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-r1-distill-llama-8b",
@@ -8835,7 +8835,7 @@
     "ci_lower": 8.55,
     "ci_upper": 16.87,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-4-e2b-it",
@@ -8859,7 +8859,7 @@
     "ci_lower": 7.72,
     "ci_upper": 13.61,
     "games_played": 11,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen2.5-vl-7b",
@@ -8883,7 +8883,7 @@
     "ci_lower": 7.1,
     "ci_upper": 11.22,
     "games_played": 29,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemini-1.5-flash",
@@ -8912,7 +8912,7 @@
     "ci_lower": 6.58,
     "ci_upper": 10.88,
     "games_played": 20,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen2-72b-instruct",
@@ -8936,7 +8936,7 @@
     "ci_lower": 6.4,
     "ci_upper": 10.87,
     "games_played": 17,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-3-12b-it",
@@ -8965,7 +8965,7 @@
     "ci_lower": 6.03,
     "ci_upper": 9.79,
     "games_played": 26,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "phi-4",
@@ -8993,7 +8993,7 @@
     "ci_lower": 6.2,
     "ci_upper": 11.32,
     "games_played": 13,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "llama-3.2-90b-instruct",
@@ -9022,7 +9022,7 @@
     "ci_lower": 6.02,
     "ci_upper": 11.13,
     "games_played": 12,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen2.5-omni-7b",
@@ -9046,7 +9046,7 @@
     "ci_lower": 5.63,
     "ci_upper": 9.38,
     "games_played": 30,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "claude-3-5-haiku-20241022",
@@ -9074,7 +9074,7 @@
     "ci_lower": 6.14,
     "ci_upper": 12.11,
     "games_played": 9,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "llama-3.1-nemotron-nano-8b-v1",
@@ -9098,7 +9098,7 @@
     "ci_lower": 5.94,
     "ci_upper": 12.66,
     "games_played": 7,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "hermes-3-405b",
@@ -9126,7 +9126,7 @@
     "ci_lower": 5.19,
     "ci_upper": 10.52,
     "games_played": 13,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "mistral-small-24b-instruct-2501",
@@ -9154,7 +9154,7 @@
     "ci_lower": 5.24,
     "ci_upper": 11.37,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -13
   },
   {
     "model_id": "mistral-small-3.1-24b-instruct-2503",
@@ -9178,7 +9178,7 @@
     "ci_lower": 5.13,
     "ci_upper": 10.82,
     "games_played": 9,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -15
   },
   {
     "model_id": "hermes-3-70b",
@@ -9206,7 +9206,7 @@
     "ci_lower": 4.79,
     "ci_upper": 9.34,
     "games_played": 17,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen-2.5-14b-instruct",
@@ -9230,7 +9230,7 @@
     "ci_lower": 4.5,
     "ci_upper": 9.23,
     "games_played": 15,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3.5-2b",
@@ -9254,7 +9254,7 @@
     "ci_lower": 4.53,
     "ci_upper": 9.43,
     "games_played": 20,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ministral-3-14b-base-2512",
@@ -9278,7 +9278,7 @@
     "ci_lower": 5.1,
     "ci_upper": 12.8,
     "games_played": 6,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "gpt-4o-mini-2024-07-18",
@@ -9307,7 +9307,7 @@
     "ci_lower": 4.57,
     "ci_upper": 10.4,
     "games_played": 9,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "lfm-2.5-vl-3b",
@@ -9331,7 +9331,7 @@
     "ci_lower": 3.89,
     "ci_upper": 8.5,
     "games_played": 22,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-4-0613",
@@ -9360,7 +9360,7 @@
     "ci_lower": 4.01,
     "ci_upper": 10.17,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-vl2",
@@ -9389,7 +9389,7 @@
     "ci_lower": 3.71,
     "ci_upper": 8.71,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "phi-4-multimodal-instruct",
@@ -9418,7 +9418,7 @@
     "ci_lower": 3.64,
     "ci_upper": 8.88,
     "games_played": 13,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen-2.5-7b-instruct",
@@ -9446,7 +9446,7 @@
     "ci_lower": 3.2,
     "ci_upper": 8.07,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "nova-micro",
@@ -9474,7 +9474,7 @@
     "ci_lower": 3.2,
     "ci_upper": 8.19,
     "games_played": 17,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "granite-3.3-8b-instruct",
@@ -9502,7 +9502,7 @@
     "ci_lower": 3.18,
     "ci_upper": 8.11,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ministral-3-3b-instruct-2512",
@@ -9526,7 +9526,7 @@
     "ci_lower": 4.03,
     "ci_upper": 13.05,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen-2.5-coder-32b-instruct",
@@ -9554,7 +9554,7 @@
     "ci_lower": 2.79,
     "ci_upper": 7.67,
     "games_played": 13,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "phi-3.5-moe-instruct",
@@ -9578,7 +9578,7 @@
     "ci_lower": 2.48,
     "ci_upper": 6.62,
     "games_played": 21,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "claude-3-sonnet-20240229",
@@ -9607,7 +9607,7 @@
     "ci_lower": 2.53,
     "ci_upper": 7.73,
     "games_played": 11,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-4.1-nano-2025-04-14",
@@ -9636,7 +9636,7 @@
     "ci_lower": 2.4,
     "ci_upper": 7.45,
     "games_played": 24,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-vl2-small",
@@ -9660,7 +9660,7 @@
     "ci_lower": 2.04,
     "ci_upper": 7.08,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "jamba-1.5-large",
@@ -9688,7 +9688,7 @@
     "ci_lower": 1.99,
     "ci_upper": 8.13,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemini-diffusion",
@@ -9712,7 +9712,7 @@
     "ci_lower": 1.99,
     "ci_upper": 8.46,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "llama-3.1-nemotron-70b-instruct",
@@ -9736,7 +9736,7 @@
     "ci_lower": 1.56,
     "ci_upper": 8.13,
     "games_played": 7,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "mistral-small-3.1-24b-base-2503",
@@ -9765,7 +9765,7 @@
     "ci_lower": 1.73,
     "ci_upper": 9.26,
     "games_played": 5,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "codestral-22b",
@@ -9789,7 +9789,7 @@
     "ci_lower": 2.43,
     "ci_upper": 13.82,
     "games_played": 2,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "mistral-small-24b-base-2501",
@@ -9813,7 +9813,7 @@
     "ci_lower": 0.66,
     "ci_upper": 6.45,
     "games_played": 9,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "command-r-plus-04-2024",
@@ -9841,7 +9841,7 @@
     "ci_lower": 0.8,
     "ci_upper": 7.78,
     "games_played": 6,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "granite-3.3-8b-base",
@@ -9865,7 +9865,7 @@
     "ci_lower": 0.09,
     "ci_upper": 4.37,
     "games_played": 19,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-2-27b-it",
@@ -9889,7 +9889,7 @@
     "ci_lower": 0.02,
     "ci_upper": 4.73,
     "games_played": 16,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemini-1.5-flash-8b",
@@ -9918,7 +9918,7 @@
     "ci_lower": 0.17,
     "ci_upper": 5.8,
     "games_played": 13,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "grok-1.5v",
@@ -9942,7 +9942,7 @@
     "ci_lower": 0.41,
     "ci_upper": 7.02,
     "games_played": 7,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ministral-3-8b-base-2512",
@@ -9966,7 +9966,7 @@
     "ci_lower": 0.39,
     "ci_upper": 8.07,
     "games_played": 6,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "llama-3.2-11b-instruct",
@@ -9995,7 +9995,7 @@
     "ci_lower": -0.37,
     "ci_upper": 5.17,
     "games_played": 10,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "claude-3-haiku-20240307",
@@ -10024,7 +10024,7 @@
     "ci_lower": -0.58,
     "ci_upper": 4.84,
     "games_played": 10,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "pixtral-12b-2409",
@@ -10053,7 +10053,7 @@
     "ci_lower": -0.72,
     "ci_upper": 4.72,
     "games_played": 11,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-3-4b-it",
@@ -10082,7 +10082,7 @@
     "ci_lower": -1.34,
     "ci_upper": 2.64,
     "games_played": 26,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "shieldstral-1.0-3b",
@@ -10106,7 +10106,7 @@
     "ci_lower": 2.03,
     "ci_upper": 20.87,
     "games_played": 1,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "llama-3.1-8b-instruct",
@@ -10134,7 +10134,7 @@
     "ci_lower": -1.66,
     "ci_upper": 3.93,
     "games_played": 16,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-5.1-codex-mini",
@@ -10163,7 +10163,7 @@
     "ci_lower": 0.78,
     "ci_upper": 16.43,
     "games_played": 1,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "grok-1.5",
@@ -10187,7 +10187,7 @@
     "ci_lower": -1.71,
     "ci_upper": 3.97,
     "games_played": 9,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "deepseek-r1-distill-qwen-1.5b",
@@ -10211,7 +10211,7 @@
     "ci_lower": -1.29,
     "ci_upper": 7.42,
     "games_played": 4,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen-2.5-coder-7b-instruct",
@@ -10235,7 +10235,7 @@
     "ci_lower": -2.44,
     "ci_upper": 2.39,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "grok-4.20-beta-0309-non-reasoning",
@@ -10264,7 +10264,7 @@
     "ci_lower": 1.72,
     "ci_upper": 23.25,
     "games_played": 1,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "phi-3.5-vision-instruct",
@@ -10288,7 +10288,7 @@
     "ci_lower": -2.05,
     "ci_upper": 4.97,
     "games_played": 7,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "phi-3.5-mini-instruct",
@@ -10316,7 +10316,7 @@
     "ci_lower": -3.26,
     "ci_upper": 0.85,
     "games_played": 21,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "phi-4-mini",
@@ -10340,7 +10340,7 @@
     "ci_lower": -3.42,
     "ci_upper": 1.02,
     "games_played": 17,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "medgemma-4b-it",
@@ -10364,7 +10364,7 @@
     "ci_lower": 0.48,
     "ci_upper": 21.54,
     "games_played": 2,
-    "rank_delta_14d": -20
+    "rank_delta_14d": -13
   },
   {
     "model_id": "qwen2-7b-instruct",
@@ -10388,7 +10388,7 @@
     "ci_lower": -3.64,
     "ci_upper": 1.64,
     "games_played": 14,
-    "rank_delta_14d": -22
+    "rank_delta_14d": -15
   },
   {
     "model_id": "gemma-3n-e4b-it",
@@ -10417,7 +10417,7 @@
     "ci_lower": -3.98,
     "ci_upper": 0.65,
     "games_played": 17,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "deepseek-vl2-tiny",
@@ -10441,7 +10441,7 @@
     "ci_lower": -3.77,
     "ci_upper": 1.72,
     "games_played": 14,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ministral-8b-instruct-2410",
@@ -10469,7 +10469,7 @@
     "ci_lower": -3.66,
     "ci_upper": 2.25,
     "games_played": 9,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "mistral-nemo-instruct-2407",
@@ -10497,7 +10497,7 @@
     "ci_lower": -3.49,
     "ci_upper": 3.34,
     "games_played": 7,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-2-9b-it",
@@ -10521,7 +10521,7 @@
     "ci_lower": -4.15,
     "ci_upper": 0.5,
     "games_played": 16,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "north-micro-vision-instruct",
@@ -10545,7 +10545,7 @@
     "ci_lower": -4.27,
     "ci_upper": 0.9,
     "games_played": 19,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-3n-e4b-it-litert-preview",
@@ -10569,7 +10569,7 @@
     "ci_lower": -4.72,
     "ci_upper": -1.07,
     "games_played": 28,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemini-1.0-pro",
@@ -10597,7 +10597,7 @@
     "ci_lower": -4.22,
     "ci_upper": 2.46,
     "games_played": 9,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "granite-4.0-tiny-preview",
@@ -10621,7 +10621,7 @@
     "ci_lower": -4.51,
     "ci_upper": 1.24,
     "games_played": 12,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "jamba-1.5-mini",
@@ -10649,7 +10649,7 @@
     "ci_lower": -4.56,
     "ci_upper": 1.73,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "llama-3.2-3b-instruct",
@@ -10677,7 +10677,7 @@
     "ci_lower": -5.09,
     "ci_upper": 0.72,
     "games_played": 10,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-3n-e4b",
@@ -10701,7 +10701,7 @@
     "ci_lower": -5.23,
     "ci_upper": 0.22,
     "games_played": 11,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "qwen3.5-0.8b",
@@ -10725,7 +10725,7 @@
     "ci_lower": -5.23,
     "ci_upper": 0.63,
     "games_played": 20,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ministral-3-3b-base-2512",
@@ -10749,7 +10749,7 @@
     "ci_lower": -4.88,
     "ci_upper": 2.94,
     "games_played": 6,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gpt-3.5-turbo-0125",
@@ -10777,7 +10777,7 @@
     "ci_lower": -8.29,
     "ci_upper": -1.94,
     "games_played": 8,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-3n-e2b-it-litert-preview",
@@ -10801,7 +10801,7 @@
     "ci_lower": -9.11,
     "ci_upper": -5.37,
     "games_played": 28,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-3n-e2b",
@@ -10825,7 +10825,7 @@
     "ci_lower": -9.26,
     "ci_upper": -3.62,
     "games_played": 11,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-3-1b-it",
@@ -10849,7 +10849,7 @@
     "ci_lower": -9.72,
     "ci_upper": -4.64,
     "games_played": 18,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "gemma-3n-e2b-it",
@@ -10873,7 +10873,7 @@
     "ci_lower": -9.88,
     "ci_upper": -5.19,
     "games_played": 17,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   },
   {
     "model_id": "ernie-4.5",
@@ -10901,6 +10901,6 @@
     "ci_lower": -12.48,
     "ci_upper": -6.92,
     "games_played": 20,
-    "rank_delta_14d": -21
+    "rank_delta_14d": -14
   }
 ]
