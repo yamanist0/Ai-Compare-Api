@@ -773,20 +773,6 @@
         "games_played": 5
       },
       {
-        "model_id": "gemini-3.1-pro-preview",
-        "model_name": "Gemini 3.1 Pro",
-        "organization_id": "google",
-        "organization_name": "Google",
-        "conservative": 43.04,
-        "mu": 46.05,
-        "sigma": 1.01,
-        "ci_lower": 44.04,
-        "ci_upper": 48.06,
-        "rank": 56,
-        "rank_delta_14d": -8,
-        "games_played": 21
-      },
-      {
         "model_id": "deepseek-v4-flash-0731",
         "model_name": "DeepSeek-V4-Flash-0731",
         "organization_id": "deepseek",
@@ -796,9 +782,23 @@
         "sigma": 1.59,
         "ci_lower": 44.62,
         "ci_upper": 50.97,
-        "rank": 57,
+        "rank": 56,
         "rank_delta_14d": -10,
         "games_played": 8
+      },
+      {
+        "model_id": "gemini-3.1-pro-preview",
+        "model_name": "Gemini 3.1 Pro",
+        "organization_id": "google",
+        "organization_name": "Google",
+        "conservative": 43.04,
+        "mu": 46.05,
+        "sigma": 1.01,
+        "ci_lower": 44.04,
+        "ci_upper": 48.06,
+        "rank": 57,
+        "rank_delta_14d": -8,
+        "games_played": 21
       },
       {
         "model_id": "gpt-5.2-pro-2025-12-11",
@@ -1627,20 +1627,6 @@
         "games_played": 2
       },
       {
-        "model_id": "qwen3.5-27b",
-        "model_name": "Qwen3.5-27B",
-        "organization_id": "qwen",
-        "organization_name": "Alibaba Cloud / Qwen Team",
-        "conservative": 33.55,
-        "mu": 35.57,
-        "sigma": 0.67,
-        "ci_lower": 34.23,
-        "ci_upper": 36.92,
-        "rank": 117,
-        "rank_delta_14d": -13,
-        "games_played": 82
-      },
-      {
         "model_id": "deepseek-v3.2-speciale",
         "model_name": "DeepSeek-V3.2-Speciale",
         "organization_id": "deepseek",
@@ -1650,9 +1636,23 @@
         "sigma": 1.51,
         "ci_lower": 35.06,
         "ci_upper": 41.1,
-        "rank": 118,
+        "rank": 117,
         "rank_delta_14d": -11,
         "games_played": 8
+      },
+      {
+        "model_id": "qwen3.5-27b",
+        "model_name": "Qwen3.5-27B",
+        "organization_id": "qwen",
+        "organization_name": "Alibaba Cloud / Qwen Team",
+        "conservative": 33.55,
+        "mu": 35.57,
+        "sigma": 0.67,
+        "ci_lower": 34.23,
+        "ci_upper": 36.92,
+        "rank": 118,
+        "rank_delta_14d": -13,
+        "games_played": 82
       },
       {
         "model_id": "grok-4",
@@ -1921,20 +1921,6 @@
         "games_played": 22
       },
       {
-        "model_id": "qwen3.5-35b-a3b",
-        "model_name": "Qwen3.5-35B-A3B",
-        "organization_id": "qwen",
-        "organization_name": "Alibaba Cloud / Qwen Team",
-        "conservative": 30.5,
-        "mu": 32.57,
-        "sigma": 0.69,
-        "ci_lower": 31.19,
-        "ci_upper": 33.94,
-        "rank": 138,
-        "rank_delta_14d": -11,
-        "games_played": 81
-      },
-      {
         "model_id": "gemini-3.1-flash-lite-preview",
         "model_name": "Gemini 3.1 Flash-Lite",
         "organization_id": "google",
@@ -1944,9 +1930,23 @@
         "sigma": 1.18,
         "ci_lower": 31.68,
         "ci_upper": 36.39,
-        "rank": 139,
+        "rank": 138,
         "rank_delta_14d": -11,
         "games_played": 14
+      },
+      {
+        "model_id": "qwen3.5-35b-a3b",
+        "model_name": "Qwen3.5-35B-A3B",
+        "organization_id": "qwen",
+        "organization_name": "Alibaba Cloud / Qwen Team",
+        "conservative": 30.5,
+        "mu": 32.57,
+        "sigma": 0.69,
+        "ci_lower": 31.19,
+        "ci_upper": 33.94,
+        "rank": 139,
+        "rank_delta_14d": -11,
+        "games_played": 81
       },
       {
         "model_id": "nova-2-pro",
@@ -3125,20 +3125,6 @@
         "games_played": 26
       },
       {
-        "model_id": "longcat-flash-chat",
-        "model_name": "LongCat-Flash-Chat",
-        "organization_id": "meituan",
-        "organization_name": "Meituan",
-        "conservative": 19.34,
-        "mu": 22.62,
-        "sigma": 1.09,
-        "ci_lower": 20.43,
-        "ci_upper": 24.81,
-        "rank": 224,
-        "rank_delta_14d": -15,
-        "games_played": 16
-      },
-      {
         "model_id": "granite-4.2-8b",
         "model_name": "IBM Granite 4.2 8B",
         "organization_id": "ibm",
@@ -3148,9 +3134,23 @@
         "sigma": 1.11,
         "ci_lower": 20.45,
         "ci_upper": 24.91,
-        "rank": 225,
+        "rank": 224,
         "rank_delta_14d": -11,
         "games_played": 18
+      },
+      {
+        "model_id": "longcat-flash-chat",
+        "model_name": "LongCat-Flash-Chat",
+        "organization_id": "meituan",
+        "organization_name": "Meituan",
+        "conservative": 19.34,
+        "mu": 22.62,
+        "sigma": 1.09,
+        "ci_lower": 20.43,
+        "ci_upper": 24.81,
+        "rank": 225,
+        "rank_delta_14d": -15,
+        "games_played": 16
       },
       {
         "model_id": "grok-4.1-2025-11-17",
@@ -5267,20 +5267,6 @@
         "games_played": 17
       },
       {
-        "model_id": "deepseek-vl2-tiny",
-        "model_name": "DeepSeek VL2 Tiny",
-        "organization_id": "deepseek",
-        "organization_name": "DeepSeek",
-        "conservative": -5.14,
-        "mu": -1.03,
-        "sigma": 1.37,
-        "ci_lower": -3.77,
-        "ci_upper": 1.72,
-        "rank": 377,
-        "rank_delta_14d": -14,
-        "games_played": 14
-      },
-      {
         "model_id": "ministral-8b-instruct-2410",
         "model_name": "Ministral 8B Instruct",
         "organization_id": "mistral",
@@ -5290,9 +5276,23 @@
         "sigma": 1.48,
         "ci_lower": -3.66,
         "ci_upper": 2.25,
-        "rank": 378,
+        "rank": 377,
         "rank_delta_14d": -14,
         "games_played": 9
+      },
+      {
+        "model_id": "deepseek-vl2-tiny",
+        "model_name": "DeepSeek VL2 Tiny",
+        "organization_id": "deepseek",
+        "organization_name": "DeepSeek",
+        "conservative": -5.14,
+        "mu": -1.03,
+        "sigma": 1.37,
+        "ci_lower": -3.77,
+        "ci_upper": 1.72,
+        "rank": 378,
+        "rank_delta_14d": -14,
+        "games_played": 14
       },
       {
         "model_id": "mistral-nemo-instruct-2407",
