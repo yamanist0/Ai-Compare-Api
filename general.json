@@ -843,20 +843,6 @@
         "games_played": 22
       },
       {
-        "model_id": "hy3",
-        "model_name": "Hy3",
-        "organization_id": "tencent",
-        "organization_name": "Tencent",
-        "conservative": 42.52,
-        "mu": 45.37,
-        "sigma": 0.95,
-        "ci_lower": 43.47,
-        "ci_upper": 47.28,
-        "rank": 61,
-        "rank_delta_14d": -5,
-        "games_played": 29
-      },
-      {
         "model_id": "seed-2.1-turbo",
         "model_name": "Seed 2.1 Turbo",
         "organization_id": "bytedance",
@@ -866,9 +852,23 @@
         "sigma": 0.77,
         "ci_lower": 43.29,
         "ci_upper": 46.35,
-        "rank": 62,
+        "rank": 61,
         "rank_delta_14d": -9,
         "games_played": 69
+      },
+      {
+        "model_id": "hy3",
+        "model_name": "Hy3",
+        "organization_id": "tencent",
+        "organization_name": "Tencent",
+        "conservative": 42.52,
+        "mu": 45.37,
+        "sigma": 0.95,
+        "ci_lower": 43.47,
+        "ci_upper": 47.28,
+        "rank": 62,
+        "rank_delta_14d": -5,
+        "games_played": 29
       },
       {
         "model_id": "gemini-3.6-flash",
@@ -2383,20 +2383,6 @@
         "games_played": 1
       },
       {
-        "model_id": "mistral-medium-3-5",
-        "model_name": "Mistral Medium 3.5",
-        "organization_id": "mistral",
-        "organization_name": "Mistral AI",
-        "conservative": 26.39,
-        "mu": 31.11,
-        "sigma": 1.57,
-        "ci_lower": 27.97,
-        "ci_upper": 34.26,
-        "rank": 171,
-        "rank_delta_14d": -12,
-        "games_played": 8
-      },
-      {
         "model_id": "minimax-m2",
         "model_name": "MiniMax M2",
         "organization_id": "minimax",
@@ -2406,9 +2392,23 @@
         "sigma": 1.16,
         "ci_lower": 27.54,
         "ci_upper": 32.17,
-        "rank": 172,
+        "rank": 171,
         "rank_delta_14d": -12,
         "games_played": 15
+      },
+      {
+        "model_id": "mistral-medium-3-5",
+        "model_name": "Mistral Medium 3.5",
+        "organization_id": "mistral",
+        "organization_name": "Mistral AI",
+        "conservative": 26.39,
+        "mu": 31.11,
+        "sigma": 1.57,
+        "ci_lower": 27.97,
+        "ci_upper": 34.26,
+        "rank": 172,
+        "rank_delta_14d": -12,
+        "games_played": 8
       },
       {
         "model_id": "qwen3-vl-235b-a22b-thinking",
@@ -3181,20 +3181,6 @@
         "games_played": 2
       },
       {
-        "model_id": "qwen3.5-4b",
-        "model_name": "Qwen3.5-4B",
-        "organization_id": "qwen",
-        "organization_name": "Alibaba Cloud / Qwen Team",
-        "conservative": 19.03,
-        "mu": 21.99,
-        "sigma": 0.99,
-        "ci_lower": 20.01,
-        "ci_upper": 23.96,
-        "rank": 228,
-        "rank_delta_14d": -10,
-        "games_played": 25
-      },
-      {
         "model_id": "sarvam-30b",
         "model_name": "Sarvam-30B",
         "organization_id": "sarvamai",
@@ -3204,9 +3190,23 @@
         "sigma": 1.21,
         "ci_lower": 20.23,
         "ci_upper": 25.06,
-        "rank": 229,
+        "rank": 228,
         "rank_delta_14d": -13,
         "games_played": 14
+      },
+      {
+        "model_id": "qwen3.5-4b",
+        "model_name": "Qwen3.5-4B",
+        "organization_id": "qwen",
+        "organization_name": "Alibaba Cloud / Qwen Team",
+        "conservative": 19.03,
+        "mu": 21.99,
+        "sigma": 0.99,
+        "ci_lower": 20.01,
+        "ci_upper": 23.96,
+        "rank": 229,
+        "rank_delta_14d": -10,
+        "games_played": 25
       },
       {
         "model_id": "diffusiongemma-26b-a4b-it",
@@ -5267,20 +5267,6 @@
         "games_played": 17
       },
       {
-        "model_id": "deepseek-vl2-tiny",
-        "model_name": "DeepSeek VL2 Tiny",
-        "organization_id": "deepseek",
-        "organization_name": "DeepSeek",
-        "conservative": -5.14,
-        "mu": -1.03,
-        "sigma": 1.37,
-        "ci_lower": -3.77,
-        "ci_upper": 1.72,
-        "rank": 377,
-        "rank_delta_14d": -12,
-        "games_played": 14
-      },
-      {
         "model_id": "ministral-8b-instruct-2410",
         "model_name": "Ministral 8B Instruct",
         "organization_id": "mistral",
@@ -5290,9 +5276,23 @@
         "sigma": 1.48,
         "ci_lower": -3.66,
         "ci_upper": 2.25,
-        "rank": 378,
+        "rank": 377,
         "rank_delta_14d": -12,
         "games_played": 9
+      },
+      {
+        "model_id": "deepseek-vl2-tiny",
+        "model_name": "DeepSeek VL2 Tiny",
+        "organization_id": "deepseek",
+        "organization_name": "DeepSeek",
+        "conservative": -5.14,
+        "mu": -1.03,
+        "sigma": 1.37,
+        "ci_lower": -3.77,
+        "ci_upper": 1.72,
+        "rank": 378,
+        "rank_delta_14d": -12,
+        "games_played": 14
       },
       {
         "model_id": "mistral-nemo-instruct-2407",
