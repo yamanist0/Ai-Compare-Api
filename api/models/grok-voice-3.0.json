@@ -1,0 +1,30 @@
+{
+  "model_id": "grok-voice-3.0",
+  "name": "Grok Voice 3.0",
+  "model_type": "audio",
+  "organization": "xAI",
+  "organization_id": "xai",
+  "announcement_date": "2026-10-14",
+  "release_date": "2026-10-14",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "text"
+  ],
+  "output_modalities": [
+    "audio",
+    "text"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

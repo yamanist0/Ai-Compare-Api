@@ -1,0 +1,29 @@
+{
+  "model_id": "krea-3",
+  "name": "Krea 3",
+  "model_type": "image",
+  "organization": "Krea",
+  "organization_id": "krea",
+  "announcement_date": "2026-10-15",
+  "release_date": "2026-10-15",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "image"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}

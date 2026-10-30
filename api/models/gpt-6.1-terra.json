@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-6.1-terra",
+  "name": "GPT-6.1 Terra",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-10-26",
+  "release_date": "2026-10-26",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 50000.0,
+  "output_price": null,
+  "rank": 36,
+  "conservative": 47.49,
+  "mu": 52.65,
+  "sigma": 1.72,
+  "ci_lower": 49.21,
+  "ci_upper": 56.1,
+  "games_played": 7,
+  "rank_delta_14d": null
+}

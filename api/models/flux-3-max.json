@@ -1,0 +1,30 @@
+{
+  "model_id": "flux-3-max",
+  "name": "FLUX 3 Max",
+  "model_type": "video",
+  "organization": "Black Forest Labs",
+  "organization_id": "black-forest-labs",
+  "announcement_date": "2026-10-19",
+  "release_date": "2026-10-19",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "audio",
+    "video"
+  ],
+  "input_price": null,
+  "output_price": null,
+  "rank": null,
+  "conservative": null,
+  "mu": null,
+  "sigma": null,
+  "ci_lower": null,
+  "ci_upper": null,
+  "games_played": null,
+  "rank_delta_14d": null
+}
