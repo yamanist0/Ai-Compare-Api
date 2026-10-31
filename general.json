@@ -1571,20 +1571,6 @@
         "games_played": 26
       },
       {
-        "model_id": "longcat-flash-thinking-2601",
-        "model_name": "LongCat-Flash-Thinking-2601",
-        "organization_id": "meituan",
-        "organization_name": "Meituan",
-        "conservative": 34.63,
-        "mu": 38.55,
-        "sigma": 1.31,
-        "ci_lower": 35.93,
-        "ci_upper": 41.17,
-        "rank": 113,
-        "rank_delta_14d": -17,
-        "games_played": 11
-      },
-      {
         "model_id": "gpt-5.1-high-2025-11-12",
         "model_name": "GPT-5.1 High",
         "organization_id": "openai",
@@ -1594,9 +1580,23 @@
         "sigma": 2.36,
         "ci_lower": 36.98,
         "ci_upper": 46.41,
-        "rank": 114,
+        "rank": 113,
         "rank_delta_14d": -15,
         "games_played": 3
+      },
+      {
+        "model_id": "longcat-flash-thinking-2601",
+        "model_name": "LongCat-Flash-Thinking-2601",
+        "organization_id": "meituan",
+        "organization_name": "Meituan",
+        "conservative": 34.63,
+        "mu": 38.55,
+        "sigma": 1.31,
+        "ci_lower": 35.93,
+        "ci_upper": 41.17,
+        "rank": 114,
+        "rank_delta_14d": -17,
+        "games_played": 11
       },
       {
         "model_id": "nemotron-3.5-super-vl-120b-a12b",
@@ -2075,20 +2075,6 @@
         "games_played": 15
       },
       {
-        "model_id": "glm-5v-turbo",
-        "model_name": "GLM-5V-Turbo",
-        "organization_id": "zai-org",
-        "organization_name": "Zhipu AI",
-        "conservative": 29.76,
-        "mu": 34.85,
-        "sigma": 1.7,
-        "ci_lower": 31.45,
-        "ci_upper": 38.25,
-        "rank": 149,
-        "rank_delta_14d": -16,
-        "games_played": 9
-      },
-      {
         "model_id": "k2-horizon-mova-36b-a4b",
         "model_name": "K2 Horizon MoVA 36B-A4B",
         "organization_id": "ifm",
@@ -2098,8 +2084,22 @@
         "sigma": 1.5,
         "ci_lower": 31.26,
         "ci_upper": 37.28,
-        "rank": 150,
+        "rank": 149,
         "rank_delta_14d": null,
+        "games_played": 9
+      },
+      {
+        "model_id": "glm-5v-turbo",
+        "model_name": "GLM-5V-Turbo",
+        "organization_id": "zai-org",
+        "organization_name": "Zhipu AI",
+        "conservative": 29.76,
+        "mu": 34.85,
+        "sigma": 1.7,
+        "ci_lower": 31.45,
+        "ci_upper": 38.25,
+        "rank": 150,
+        "rank_delta_14d": -16,
         "games_played": 9
       },
       {
@@ -2159,20 +2159,6 @@
         "games_played": 8
       },
       {
-        "model_id": "gpt-5.3-chat-latest",
-        "model_name": "GPT-5.3 Chat",
-        "organization_id": "openai",
-        "organization_name": "OpenAI",
-        "conservative": 29.28,
-        "mu": 38.68,
-        "sigma": 3.13,
-        "ci_lower": 32.41,
-        "ci_upper": 44.94,
-        "rank": 155,
-        "rank_delta_14d": -14,
-        "games_played": 2
-      },
-      {
         "model_id": "gemini-2.5-pro-preview-06-05",
         "model_name": "Gemini 2.5 Pro Preview 06-05",
         "organization_id": "google",
@@ -2182,9 +2168,23 @@
         "sigma": 1.26,
         "ci_lower": 30.54,
         "ci_upper": 35.57,
-        "rank": 156,
+        "rank": 155,
         "rank_delta_14d": -20,
         "games_played": 13
+      },
+      {
+        "model_id": "gpt-5.3-chat-latest",
+        "model_name": "GPT-5.3 Chat",
+        "organization_id": "openai",
+        "organization_name": "OpenAI",
+        "conservative": 29.28,
+        "mu": 38.68,
+        "sigma": 3.13,
+        "ci_lower": 32.41,
+        "ci_upper": 44.94,
+        "rank": 156,
+        "rank_delta_14d": -14,
+        "games_played": 2
       },
       {
         "model_id": "gemini-3.5-flash-lite",
@@ -4721,20 +4721,6 @@
         "games_played": 13
       },
       {
-        "model_id": "mistral-small-24b-instruct-2501",
-        "model_name": "Mistral Small 3 24B Instruct",
-        "organization_id": "mistral",
-        "organization_name": "Mistral AI",
-        "conservative": 3.7,
-        "mu": 8.29,
-        "sigma": 1.53,
-        "ci_lower": 5.23,
-        "ci_upper": 11.36,
-        "rank": 338,
-        "rank_delta_14d": -21,
-        "games_played": 8
-      },
-      {
         "model_id": "mistral-small-3.1-24b-instruct-2503",
         "model_name": "Mistral Small 3.1 24B Instruct",
         "organization_id": "mistral",
@@ -4744,9 +4730,23 @@
         "sigma": 1.42,
         "ci_lower": 5.12,
         "ci_upper": 10.81,
-        "rank": 339,
+        "rank": 338,
         "rank_delta_14d": -23,
         "games_played": 9
+      },
+      {
+        "model_id": "mistral-small-24b-instruct-2501",
+        "model_name": "Mistral Small 3 24B Instruct",
+        "organization_id": "mistral",
+        "organization_name": "Mistral AI",
+        "conservative": 3.7,
+        "mu": 8.29,
+        "sigma": 1.53,
+        "ci_lower": 5.23,
+        "ci_upper": 11.36,
+        "rank": 339,
+        "rank_delta_14d": -21,
+        "games_played": 8
       },
       {
         "model_id": "hermes-3-70b",
