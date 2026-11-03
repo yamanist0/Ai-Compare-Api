@@ -1,0 +1,30 @@
+{
+  "model_id": "longcat-2.5",
+  "name": "LongCat-2.5",
+  "model_type": "llm",
+  "organization": "Meituan",
+  "organization_id": "meituan",
+  "announcement_date": "2026-11-01",
+  "release_date": "2026-11-01",
+  "multimodal": true,
+  "license": "unknown",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 6000.0,
+  "output_price": null,
+  "rank": 20,
+  "conservative": 49.96,
+  "mu": 53.31,
+  "sigma": 1.12,
+  "ci_lower": 51.08,
+  "ci_upper": 55.54,
+  "games_played": 19,
+  "rank_delta_14d": null
+}

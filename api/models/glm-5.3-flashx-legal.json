@@ -1,0 +1,30 @@
+{
+  "model_id": "glm-5.3-flashx-legal",
+  "name": "GLM-5.3-FlashX-Legal",
+  "model_type": "llm",
+  "organization": "Zhipu AI",
+  "organization_id": "zai-org",
+  "announcement_date": "2026-10-12",
+  "release_date": "2026-10-12",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 75000.0,
+  "output_price": null,
+  "rank": 73,
+  "conservative": 41.48,
+  "mu": 54.8,
+  "sigma": 4.44,
+  "ci_lower": 45.92,
+  "ci_upper": 63.68,
+  "games_played": 1,
+  "rank_delta_14d": null
+}
