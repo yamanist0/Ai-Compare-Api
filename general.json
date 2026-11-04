@@ -7,14 +7,14 @@
         "model_name": "Claude Opus 5.5",
         "organization_id": "anthropic",
         "organization_name": "Anthropic",
-        "conservative": 60.07,
-        "mu": 63.09,
+        "conservative": 59.93,
+        "mu": 62.97,
         "sigma": 1.01,
-        "ci_lower": 61.07,
-        "ci_upper": 65.1,
+        "ci_lower": 60.95,
+        "ci_upper": 65.0,
         "rank": 1,
         "rank_delta_14d": 0,
-        "games_played": 32
+        "games_played": 31
       },
       {
         "model_id": "gemini-4-carbon",
@@ -35,11 +35,11 @@
         "model_name": "Claude Sonnet 5.5",
         "organization_id": "anthropic",
         "organization_name": "Anthropic",
-        "conservative": 57.86,
-        "mu": 60.74,
+        "conservative": 57.85,
+        "mu": 60.73,
         "sigma": 0.96,
-        "ci_lower": 58.82,
-        "ci_upper": 62.65,
+        "ci_lower": 58.81,
+        "ci_upper": 62.64,
         "rank": 3,
         "rank_delta_14d": -1,
         "games_played": 34
@@ -49,14 +49,14 @@
         "model_name": "GPT-6 Astra",
         "organization_id": "openai",
         "organization_name": "OpenAI",
-        "conservative": 57.27,
-        "mu": 60.62,
-        "sigma": 1.11,
-        "ci_lower": 58.39,
-        "ci_upper": 62.85,
+        "conservative": 57.32,
+        "mu": 60.7,
+        "sigma": 1.13,
+        "ci_lower": 58.45,
+        "ci_upper": 62.96,
         "rank": 4,
         "rank_delta_14d": -1,
-        "games_played": 23
+        "games_played": 22
       },
       {
         "model_id": "kimi-k3.1-pro",
@@ -81,7 +81,7 @@
         "mu": 58.31,
         "sigma": 1.31,
         "ci_lower": 55.69,
-        "ci_upper": 60.92,
+        "ci_upper": 60.93,
         "rank": 6,
         "rank_delta_14d": -2,
         "games_played": 16
@@ -150,8 +150,8 @@
         "conservative": 52.8,
         "mu": 56.09,
         "sigma": 1.1,
-        "ci_lower": 53.89,
-        "ci_upper": 58.28,
+        "ci_lower": 53.9,
+        "ci_upper": 58.29,
         "rank": 11,
         "rank_delta_14d": -2,
         "games_played": 19
@@ -339,20 +339,6 @@
         "games_played": 20
       },
       {
-        "model_id": "claude-haiku-5-5",
-        "model_name": "Claude Haiku 5.5",
-        "organization_id": "anthropic",
-        "organization_name": "Anthropic",
-        "conservative": 49.41,
-        "mu": 52.62,
-        "sigma": 1.07,
-        "ci_lower": 50.48,
-        "ci_upper": 54.75,
-        "rank": 25,
-        "rank_delta_14d": -7,
-        "games_played": 27
-      },
-      {
         "model_id": "muse-wonder",
         "model_name": "Muse Wonder",
         "organization_id": "meta",
@@ -362,9 +348,23 @@
         "sigma": 1.21,
         "ci_lower": 50.62,
         "ci_upper": 55.45,
-        "rank": 26,
+        "rank": 25,
         "rank_delta_14d": -2,
         "games_played": 16
+      },
+      {
+        "model_id": "claude-haiku-5-5",
+        "model_name": "Claude Haiku 5.5",
+        "organization_id": "anthropic",
+        "organization_name": "Anthropic",
+        "conservative": 49.41,
+        "mu": 52.61,
+        "sigma": 1.07,
+        "ci_lower": 50.48,
+        "ci_upper": 54.75,
+        "rank": 26,
+        "rank_delta_14d": -7,
+        "games_played": 27
       },
       {
         "model_id": "hy4-preview",
@@ -399,14 +399,14 @@
         "model_name": "Gemini 3.8 Flash",
         "organization_id": "google",
         "organization_name": "Google",
-        "conservative": 48.83,
-        "mu": 52.81,
-        "sigma": 1.33,
-        "ci_lower": 50.16,
-        "ci_upper": 55.47,
+        "conservative": 48.89,
+        "mu": 52.91,
+        "sigma": 1.34,
+        "ci_lower": 50.23,
+        "ci_upper": 55.59,
         "rank": 29,
         "rank_delta_14d": -4,
-        "games_played": 14
+        "games_played": 13
       },
       {
         "model_id": "mimo-v2.6-pro",
@@ -540,9 +540,9 @@
         "organization_id": "google",
         "organization_name": "Google",
         "conservative": 47.22,
-        "mu": 50.74,
+        "mu": 50.75,
         "sigma": 1.17,
-        "ci_lower": 48.39,
+        "ci_lower": 48.4,
         "ci_upper": 53.09,
         "rank": 39,
         "rank_delta_14d": -6,
@@ -759,6 +759,20 @@
         "games_played": 14
       },
       {
+        "model_id": "claude-opus-4-7",
+        "model_name": "Claude Opus 4.7",
+        "organization_id": "anthropic",
+        "organization_name": "Anthropic",
+        "conservative": 44.07,
+        "mu": 47.07,
+        "sigma": 1.0,
+        "ci_lower": 45.07,
+        "ci_upper": 49.08,
+        "rank": 55,
+        "rank_delta_14d": -4,
+        "games_played": 20
+      },
+      {
         "model_id": "gpt-5.6-luna",
         "model_name": "GPT-5.6 Luna",
         "organization_id": "openai",
@@ -768,8 +782,8 @@
         "sigma": 0.87,
         "ci_lower": 44.85,
         "ci_upper": 48.32,
-        "rank": 55,
-        "rank_delta_14d": -6,
+        "rank": 56,
+        "rank_delta_14d": -7,
         "games_played": 45
       },
       {
@@ -782,23 +796,9 @@
         "sigma": 0.99,
         "ci_lower": 44.97,
         "ci_upper": 48.94,
-        "rank": 56,
-        "rank_delta_14d": -10,
-        "games_played": 23
-      },
-      {
-        "model_id": "claude-opus-4-7",
-        "model_name": "Claude Opus 4.7",
-        "organization_id": "anthropic",
-        "organization_name": "Anthropic",
-        "conservative": 43.35,
-        "mu": 46.3,
-        "sigma": 0.98,
-        "ci_lower": 44.34,
-        "ci_upper": 48.27,
         "rank": 57,
-        "rank_delta_14d": -6,
-        "games_played": 21
+        "rank_delta_14d": -11,
+        "games_played": 23
       },
       {
         "model_id": "deepseek-v4-flash-vision-exp",
@@ -857,6 +857,20 @@
         "games_played": 21
       },
       {
+        "model_id": "gemini-3.5-flash",
+        "model_name": "Gemini 3.5 Flash",
+        "organization_id": "google",
+        "organization_name": "Google",
+        "conservative": 42.67,
+        "mu": 45.88,
+        "sigma": 1.07,
+        "ci_lower": 43.74,
+        "ci_upper": 48.02,
+        "rank": 62,
+        "rank_delta_14d": 2,
+        "games_played": 18
+      },
+      {
         "model_id": "gpt-5.2-pro-2025-12-11",
         "model_name": "GPT-5.2 Pro",
         "organization_id": "openai",
@@ -866,8 +880,8 @@
         "sigma": 1.68,
         "ci_lower": 44.33,
         "ci_upper": 51.04,
-        "rank": 62,
-        "rank_delta_14d": -5,
+        "rank": 63,
+        "rank_delta_14d": -6,
         "games_played": 7
       },
       {
@@ -880,8 +894,8 @@
         "sigma": 1.02,
         "ci_lower": 43.6,
         "ci_upper": 47.66,
-        "rank": 63,
-        "rank_delta_14d": -7,
+        "rank": 64,
+        "rank_delta_14d": -8,
         "games_played": 22
       },
       {
@@ -894,8 +908,8 @@
         "sigma": 2.12,
         "ci_lower": 44.53,
         "ci_upper": 53.0,
-        "rank": 64,
-        "rank_delta_14d": -1,
+        "rank": 65,
+        "rank_delta_14d": -2,
         "games_played": 4
       },
       {
@@ -908,8 +922,8 @@
         "sigma": 1.73,
         "ci_lower": 44.16,
         "ci_upper": 51.1,
-        "rank": 65,
-        "rank_delta_14d": -4,
+        "rank": 66,
+        "rank_delta_14d": -5,
         "games_played": 6
       },
       {
@@ -922,8 +936,8 @@
         "sigma": 2.26,
         "ci_lower": 44.63,
         "ci_upper": 53.67,
-        "rank": 66,
-        "rank_delta_14d": -6,
+        "rank": 67,
+        "rank_delta_14d": -7,
         "games_played": 6
       },
       {
@@ -936,8 +950,8 @@
         "sigma": 1.58,
         "ci_lower": 43.8,
         "ci_upper": 50.13,
-        "rank": 67,
-        "rank_delta_14d": -13,
+        "rank": 68,
+        "rank_delta_14d": -14,
         "games_played": 8
       },
       {
@@ -950,8 +964,8 @@
         "sigma": 0.94,
         "ci_lower": 43.14,
         "ci_upper": 46.92,
-        "rank": 68,
-        "rank_delta_14d": -9,
+        "rank": 69,
+        "rank_delta_14d": -10,
         "games_played": 29
       },
       {
@@ -964,8 +978,8 @@
         "sigma": 0.76,
         "ci_lower": 42.92,
         "ci_upper": 45.98,
-        "rank": 69,
-        "rank_delta_14d": -11,
+        "rank": 70,
+        "rank_delta_14d": -12,
         "games_played": 69
       },
       {
@@ -978,23 +992,9 @@
         "sigma": 0.73,
         "ci_lower": 42.66,
         "ci_upper": 45.58,
-        "rank": 70,
-        "rank_delta_14d": -8,
-        "games_played": 59
-      },
-      {
-        "model_id": "gemini-3.5-flash",
-        "model_name": "Gemini 3.5 Flash",
-        "organization_id": "google",
-        "organization_name": "Google",
-        "conservative": 41.85,
-        "mu": 44.99,
-        "sigma": 1.05,
-        "ci_lower": 42.89,
-        "ci_upper": 47.08,
         "rank": 71,
-        "rank_delta_14d": -7,
-        "games_played": 19
+        "rank_delta_14d": -9,
+        "games_played": 59
       },
       {
         "model_id": "sakana-namazu",
@@ -1211,14 +1211,14 @@
         "model_name": "Kimi K2.5",
         "organization_id": "moonshotai",
         "organization_name": "Moonshot AI",
-        "conservative": 38.36,
-        "mu": 40.82,
+        "conservative": 38.34,
+        "mu": 40.79,
         "sigma": 0.82,
-        "ci_lower": 39.18,
-        "ci_upper": 42.45,
+        "ci_lower": 39.15,
+        "ci_upper": 42.42,
         "rank": 87,
         "rank_delta_14d": -10,
-        "games_played": 40
+        "games_played": 39
       },
       {
         "model_id": "gemini-3-pro-preview",
@@ -1333,20 +1333,6 @@
         "games_played": 5
       },
       {
-        "model_id": "step-3.5-flash",
-        "model_name": "Step-3.5-Flash",
-        "organization_id": "stepfun",
-        "organization_name": "StepFun",
-        "conservative": 36.56,
-        "mu": 41.54,
-        "sigma": 1.66,
-        "ci_lower": 38.22,
-        "ci_upper": 44.85,
-        "rank": 96,
-        "rank_delta_14d": -13,
-        "games_played": 7
-      },
-      {
         "model_id": "inkling",
         "model_name": "Inkling",
         "organization_id": "thinking-machines",
@@ -1356,9 +1342,23 @@
         "sigma": 1.21,
         "ci_lower": 37.78,
         "ci_upper": 42.63,
-        "rank": 97,
+        "rank": 96,
         "rank_delta_14d": -13,
         "games_played": 16
+      },
+      {
+        "model_id": "step-3.5-flash",
+        "model_name": "Step-3.5-Flash",
+        "organization_id": "stepfun",
+        "organization_name": "StepFun",
+        "conservative": 36.56,
+        "mu": 41.54,
+        "sigma": 1.66,
+        "ci_lower": 38.22,
+        "ci_upper": 44.85,
+        "rank": 97,
+        "rank_delta_14d": -13,
+        "games_played": 7
       },
       {
         "model_id": "minimax-m2.5",
@@ -1435,9 +1435,9 @@
         "model_name": "GPT-5.3 Codex",
         "organization_id": "openai",
         "organization_name": "OpenAI",
-        "conservative": 36.12,
+        "conservative": 36.11,
         "mu": 41.95,
-        "sigma": 1.94,
+        "sigma": 1.95,
         "ci_lower": 38.06,
         "ci_upper": 45.84,
         "rank": 103,
@@ -1599,20 +1599,6 @@
         "games_played": 43
       },
       {
-        "model_id": "longcat-flash-thinking-2601",
-        "model_name": "LongCat-Flash-Thinking-2601",
-        "organization_id": "meituan",
-        "organization_name": "Meituan",
-        "conservative": 34.71,
-        "mu": 38.63,
-        "sigma": 1.31,
-        "ci_lower": 36.02,
-        "ci_upper": 41.25,
-        "rank": 115,
-        "rank_delta_14d": -13,
-        "games_played": 11
-      },
-      {
         "model_id": "gpt-5.1-high-2025-11-12",
         "model_name": "GPT-5.1 High",
         "organization_id": "openai",
@@ -1622,9 +1608,23 @@
         "sigma": 2.36,
         "ci_lower": 37.07,
         "ci_upper": 46.5,
-        "rank": 116,
+        "rank": 115,
         "rank_delta_14d": -11,
         "games_played": 3
+      },
+      {
+        "model_id": "longcat-flash-thinking-2601",
+        "model_name": "LongCat-Flash-Thinking-2601",
+        "organization_id": "meituan",
+        "organization_name": "Meituan",
+        "conservative": 34.71,
+        "mu": 38.63,
+        "sigma": 1.31,
+        "ci_lower": 36.02,
+        "ci_upper": 41.25,
+        "rank": 116,
+        "rank_delta_14d": -13,
+        "games_played": 11
       },
       {
         "model_id": "nemotron-3.5-super-vl-120b-a12b",
@@ -2159,32 +2159,32 @@
         "games_played": 9
       },
       {
-        "model_id": "gpt-5.4-mini",
-        "model_name": "GPT-5.4 mini",
-        "organization_id": "openai",
-        "organization_name": "OpenAI",
-        "conservative": 29.55,
-        "mu": 32.62,
-        "sigma": 1.02,
-        "ci_lower": 30.57,
-        "ci_upper": 34.66,
-        "rank": 155,
-        "rank_delta_14d": -14,
-        "games_played": 20
-      },
-      {
         "model_id": "claude-opus-4-1-20250805",
         "model_name": "Claude Opus 4.1",
         "organization_id": "anthropic",
         "organization_name": "Anthropic",
-        "conservative": 29.41,
-        "mu": 34.12,
+        "conservative": 29.4,
+        "mu": 34.11,
         "sigma": 1.57,
-        "ci_lower": 30.98,
+        "ci_lower": 30.97,
         "ci_upper": 37.26,
-        "rank": 156,
-        "rank_delta_14d": -13,
+        "rank": 155,
+        "rank_delta_14d": -12,
         "games_played": 8
+      },
+      {
+        "model_id": "gpt-5.4-mini",
+        "model_name": "GPT-5.4 mini",
+        "organization_id": "openai",
+        "organization_name": "OpenAI",
+        "conservative": 29.37,
+        "mu": 32.56,
+        "sigma": 1.06,
+        "ci_lower": 30.44,
+        "ci_upper": 34.69,
+        "rank": 156,
+        "rank_delta_14d": -15,
+        "games_played": 18
       },
       {
         "model_id": "gemini-2.5-pro-preview-06-05",
@@ -2429,11 +2429,11 @@
         "model_name": "Claude Opus 4",
         "organization_id": "anthropic",
         "organization_name": "Anthropic",
-        "conservative": 27.22,
-        "mu": 31.65,
+        "conservative": 27.2,
+        "mu": 31.63,
         "sigma": 1.48,
-        "ci_lower": 28.69,
-        "ci_upper": 34.6,
+        "ci_lower": 28.68,
+        "ci_upper": 34.59,
         "rank": 174,
         "rank_delta_14d": -15,
         "games_played": 9
@@ -2537,20 +2537,6 @@
         "games_played": 15
       },
       {
-        "model_id": "gpt-5.4-nano",
-        "model_name": "GPT-5.4 nano",
-        "organization_id": "openai",
-        "organization_name": "OpenAI",
-        "conservative": 26.15,
-        "mu": 29.2,
-        "sigma": 1.02,
-        "ci_lower": 27.17,
-        "ci_upper": 31.23,
-        "rank": 182,
-        "rank_delta_14d": -13,
-        "games_played": 21
-      },
-      {
         "model_id": "nemotron-3-super-120b-a12b",
         "model_name": "Nemotron 3 Super (120B A12B)",
         "organization_id": "nvidia",
@@ -2560,8 +2546,8 @@
         "sigma": 0.95,
         "ci_lower": 27.06,
         "ci_upper": 30.85,
-        "rank": 183,
-        "rank_delta_14d": -13,
+        "rank": 182,
+        "rank_delta_14d": -12,
         "games_played": 23
       },
       {
@@ -2574,8 +2560,8 @@
         "sigma": 0.73,
         "ci_lower": 26.75,
         "ci_upper": 29.66,
-        "rank": 184,
-        "rank_delta_14d": -13,
+        "rank": 183,
+        "rank_delta_14d": -12,
         "games_played": 58
       },
       {
@@ -2588,7 +2574,7 @@
         "sigma": 1.55,
         "ci_lower": 27.53,
         "ci_upper": 33.73,
-        "rank": 185,
+        "rank": 184,
         "rank_delta_14d": null,
         "games_played": 8
       },
@@ -2602,8 +2588,8 @@
         "sigma": 1.56,
         "ci_lower": 27.41,
         "ci_upper": 33.66,
-        "rank": 186,
-        "rank_delta_14d": -19,
+        "rank": 185,
+        "rank_delta_14d": -18,
         "games_played": 8
       },
       {
@@ -2616,9 +2602,23 @@
         "sigma": 1.73,
         "ci_lower": 27.25,
         "ci_upper": 34.17,
-        "rank": 187,
-        "rank_delta_14d": -15,
+        "rank": 186,
+        "rank_delta_14d": -14,
         "games_played": 6
+      },
+      {
+        "model_id": "gpt-5.4-nano",
+        "model_name": "GPT-5.4 nano",
+        "organization_id": "openai",
+        "organization_name": "OpenAI",
+        "conservative": 25.42,
+        "mu": 28.58,
+        "sigma": 1.05,
+        "ci_lower": 26.48,
+        "ci_upper": 30.69,
+        "rank": 187,
+        "rank_delta_14d": -18,
+        "games_played": 19
       },
       {
         "model_id": "exaone-4.5-33b",
@@ -2635,20 +2635,6 @@
         "games_played": 15
       },
       {
-        "model_id": "claude-haiku-4-5-20251001",
-        "model_name": "Claude Haiku 4.5",
-        "organization_id": "anthropic",
-        "organization_name": "Anthropic",
-        "conservative": 25.12,
-        "mu": 28.48,
-        "sigma": 1.12,
-        "ci_lower": 26.24,
-        "ci_upper": 30.72,
-        "rank": 189,
-        "rank_delta_14d": -14,
-        "games_played": 18
-      },
-      {
         "model_id": "mimo-v2.5-pro",
         "model_name": "MiMo-V2.5-Pro",
         "organization_id": "xiaomi",
@@ -2658,8 +2644,8 @@
         "sigma": 0.99,
         "ci_lower": 26.09,
         "ci_upper": 30.04,
-        "rank": 190,
-        "rank_delta_14d": -14,
+        "rank": 189,
+        "rank_delta_14d": -13,
         "games_played": 28
       },
       {
@@ -2672,8 +2658,8 @@
         "sigma": 1.91,
         "ci_lower": 26.95,
         "ci_upper": 34.58,
-        "rank": 191,
-        "rank_delta_14d": -13,
+        "rank": 190,
+        "rank_delta_14d": -12,
         "games_played": 6
       },
       {
@@ -2686,7 +2672,7 @@
         "sigma": 1.1,
         "ci_lower": 26.12,
         "ci_upper": 30.51,
-        "rank": 192,
+        "rank": 191,
         "rank_delta_14d": null,
         "games_played": 19
       },
@@ -2700,8 +2686,8 @@
         "sigma": 1.22,
         "ci_lower": 26.23,
         "ci_upper": 31.13,
-        "rank": 193,
-        "rank_delta_14d": -19,
+        "rank": 192,
+        "rank_delta_14d": -18,
         "games_played": 16
       },
       {
@@ -2714,8 +2700,8 @@
         "sigma": 1.17,
         "ci_lower": 26.12,
         "ci_upper": 30.79,
-        "rank": 194,
-        "rank_delta_14d": -17,
+        "rank": 193,
+        "rank_delta_14d": -16,
         "games_played": 14
       },
       {
@@ -2728,9 +2714,23 @@
         "sigma": 1.6,
         "ci_lower": 26.36,
         "ci_upper": 32.77,
-        "rank": 195,
-        "rank_delta_14d": -16,
+        "rank": 194,
+        "rank_delta_14d": -15,
         "games_played": 7
+      },
+      {
+        "model_id": "claude-haiku-4-5-20251001",
+        "model_name": "Claude Haiku 4.5",
+        "organization_id": "anthropic",
+        "organization_name": "Anthropic",
+        "conservative": 24.57,
+        "mu": 28.07,
+        "sigma": 1.17,
+        "ci_lower": 25.74,
+        "ci_upper": 30.4,
+        "rank": 195,
+        "rank_delta_14d": -20,
+        "games_played": 16
       },
       {
         "model_id": "nova-2-lite",
@@ -2901,20 +2901,6 @@
         "games_played": 2
       },
       {
-        "model_id": "mercury-2",
-        "model_name": "Mercury 2",
-        "organization_id": "inceptionlabs",
-        "organization_name": "Inception",
-        "conservative": 23.16,
-        "mu": 28.32,
-        "sigma": 1.72,
-        "ci_lower": 24.88,
-        "ci_upper": 31.75,
-        "rank": 208,
-        "rank_delta_14d": -13,
-        "games_played": 6
-      },
-      {
         "model_id": "qwen3-next-80b-a3b-thinking",
         "model_name": "Qwen3-Next-80B-A3B-Thinking",
         "organization_id": "qwen",
@@ -2924,9 +2910,23 @@
         "sigma": 0.96,
         "ci_lower": 24.12,
         "ci_upper": 27.96,
-        "rank": 209,
+        "rank": 208,
         "rank_delta_14d": -18,
         "games_played": 22
+      },
+      {
+        "model_id": "mercury-2",
+        "model_name": "Mercury 2",
+        "organization_id": "inceptionlabs",
+        "organization_name": "Inception",
+        "conservative": 23.16,
+        "mu": 28.32,
+        "sigma": 1.72,
+        "ci_lower": 24.88,
+        "ci_upper": 31.75,
+        "rank": 209,
+        "rank_delta_14d": -13,
+        "games_played": 6
       },
       {
         "model_id": "granite-4.2-30b",
@@ -2957,20 +2957,6 @@
         "games_played": 47
       },
       {
-        "model_id": "u2",
-        "model_name": "U2",
-        "organization_id": "unisound",
-        "organization_name": "Unisound",
-        "conservative": 22.88,
-        "mu": 26.64,
-        "sigma": 1.25,
-        "ci_lower": 24.13,
-        "ci_upper": 29.14,
-        "rank": 212,
-        "rank_delta_14d": -16,
-        "games_played": 13
-      },
-      {
         "model_id": "glm-4.7-flash",
         "model_name": "GLM-4.7-Flash",
         "organization_id": "zai-org",
@@ -2980,8 +2966,8 @@
         "sigma": 1.73,
         "ci_lower": 24.48,
         "ci_upper": 31.42,
-        "rank": 213,
-        "rank_delta_14d": -16,
+        "rank": 212,
+        "rank_delta_14d": -15,
         "games_played": 6
       },
       {
@@ -2994,8 +2980,8 @@
         "sigma": 3.87,
         "ci_lower": 25.69,
         "ci_upper": 41.18,
-        "rank": 214,
-        "rank_delta_14d": -15,
+        "rank": 213,
+        "rank_delta_14d": -14,
         "games_played": 1
       },
       {
@@ -3008,8 +2994,8 @@
         "sigma": 1.47,
         "ci_lower": 23.22,
         "ci_upper": 29.09,
-        "rank": 215,
-        "rank_delta_14d": -15,
+        "rank": 214,
+        "rank_delta_14d": -14,
         "games_played": 10
       },
       {
@@ -3022,23 +3008,23 @@
         "sigma": 1.91,
         "ci_lower": 23.54,
         "ci_upper": 31.18,
-        "rank": 216,
-        "rank_delta_14d": -13,
+        "rank": 215,
+        "rank_delta_14d": -12,
         "games_played": 5
       },
       {
-        "model_id": "deepseek-v3.1",
-        "model_name": "DeepSeek-V3.1",
-        "organization_id": "deepseek",
-        "organization_name": "DeepSeek",
-        "conservative": 21.46,
-        "mu": 24.74,
-        "sigma": 1.09,
-        "ci_lower": 22.55,
-        "ci_upper": 26.93,
-        "rank": 217,
-        "rank_delta_14d": -15,
-        "games_played": 16
+        "model_id": "u2",
+        "model_name": "U2",
+        "organization_id": "unisound",
+        "organization_name": "Unisound",
+        "conservative": 21.55,
+        "mu": 25.55,
+        "sigma": 1.33,
+        "ci_lower": 22.88,
+        "ci_upper": 28.22,
+        "rank": 216,
+        "rank_delta_14d": -20,
+        "games_played": 11
       },
       {
         "model_id": "nemotron-3.5-lightning-30b-a3b",
@@ -3050,9 +3036,23 @@
         "sigma": 1.24,
         "ci_lower": 22.69,
         "ci_upper": 27.65,
-        "rank": 218,
+        "rank": 217,
         "rank_delta_14d": -20,
         "games_played": 13
+      },
+      {
+        "model_id": "deepseek-v3.1",
+        "model_name": "DeepSeek-V3.1",
+        "organization_id": "deepseek",
+        "organization_name": "DeepSeek",
+        "conservative": 21.46,
+        "mu": 24.74,
+        "sigma": 1.09,
+        "ci_lower": 22.55,
+        "ci_upper": 26.93,
+        "rank": 218,
+        "rank_delta_14d": -15,
+        "games_played": 16
       },
       {
         "model_id": "gemma-4-12b-it",
@@ -4287,6 +4287,20 @@
         "games_played": 28
       },
       {
+        "model_id": "o1-mini",
+        "model_name": "o1-mini",
+        "organization_id": "openai",
+        "organization_name": "OpenAI",
+        "conservative": 9.43,
+        "mu": 15.62,
+        "sigma": 2.06,
+        "ci_lower": 11.49,
+        "ci_upper": 19.75,
+        "rank": 307,
+        "rank_delta_14d": -20,
+        "games_played": 5
+      },
+      {
         "model_id": "claude-3-opus-20240229",
         "model_name": "Claude 3 Opus",
         "organization_id": "anthropic",
@@ -4296,23 +4310,9 @@
         "sigma": 1.32,
         "ci_lower": 10.76,
         "ci_upper": 16.05,
-        "rank": 307,
+        "rank": 308,
         "rank_delta_14d": -18,
         "games_played": 11
-      },
-      {
-        "model_id": "o1-mini",
-        "model_name": "o1-mini",
-        "organization_id": "openai",
-        "organization_name": "OpenAI",
-        "conservative": 9.43,
-        "mu": 15.63,
-        "sigma": 2.07,
-        "ci_lower": 11.49,
-        "ci_upper": 19.76,
-        "rank": 308,
-        "rank_delta_14d": -20,
-        "games_played": 5
       },
       {
         "model_id": "gpt-4-turbo-2024-04-09",
