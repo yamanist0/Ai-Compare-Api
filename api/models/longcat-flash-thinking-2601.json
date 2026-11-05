@@ -17,12 +17,12 @@
   ],
   "input_price": null,
   "output_price": null,
-  "rank": 116,
+  "rank": 115,
   "conservative": 34.71,
   "mu": 38.63,
   "sigma": 1.31,
   "ci_lower": 36.02,
   "ci_upper": 41.25,
   "games_played": 11,
-  "rank_delta_14d": -13
+  "rank_delta_14d": -9
 }
