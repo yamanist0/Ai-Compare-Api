@@ -1,0 +1,29 @@
+{
+  "model_id": "claude-mythos-5-2",
+  "name": "Claude Mythos 5.2",
+  "model_type": "llm",
+  "organization": "Anthropic",
+  "organization_id": "anthropic",
+  "announcement_date": "2026-11-09",
+  "release_date": "2026-11-09",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 200000.0,
+  "output_price": null,
+  "rank": 2,
+  "conservative": 59.62,
+  "mu": 66.82,
+  "sigma": 2.4,
+  "ci_lower": 62.02,
+  "ci_upper": 71.62,
+  "games_played": 8,
+  "rank_delta_14d": null
+}
