@@ -1599,20 +1599,6 @@
         "games_played": 20
       },
       {
-        "model_id": "mimo-v2-pro",
-        "model_name": "MiMo-V2-Pro",
-        "organization_id": "xiaomi",
-        "organization_name": "Xiaomi",
-        "conservative": 34.96,
-        "mu": 39.87,
-        "sigma": 1.64,
-        "ci_lower": 36.6,
-        "ci_upper": 43.14,
-        "rank": 115,
-        "rank_delta_14d": -15,
-        "games_played": 7
-      },
-      {
         "model_id": "ling-3.0-flash",
         "model_name": "Ling 3.0 Flash",
         "organization_id": "inclusionai",
@@ -1622,9 +1608,23 @@
         "sigma": 1.06,
         "ci_lower": 36.02,
         "ci_upper": 40.28,
-        "rank": 116,
+        "rank": 115,
         "rank_delta_14d": -17,
         "games_played": 19
+      },
+      {
+        "model_id": "mimo-v2-pro",
+        "model_name": "MiMo-V2-Pro",
+        "organization_id": "xiaomi",
+        "organization_name": "Xiaomi",
+        "conservative": 34.96,
+        "mu": 39.87,
+        "sigma": 1.64,
+        "ci_lower": 36.6,
+        "ci_upper": 43.14,
+        "rank": 116,
+        "rank_delta_14d": -15,
+        "games_played": 7
       },
       {
         "model_id": "muse-glimmer-30b",
@@ -2089,20 +2089,6 @@
         "games_played": 22
       },
       {
-        "model_id": "k2-horizon-32b",
-        "model_name": "K2 Horizon 32B",
-        "organization_id": "ifm",
-        "organization_name": "Institute of Foundation Models",
-        "conservative": 30.15,
-        "mu": 34.61,
-        "sigma": 1.49,
-        "ci_lower": 31.64,
-        "ci_upper": 37.59,
-        "rank": 150,
-        "rank_delta_14d": null,
-        "games_played": 9
-      },
-      {
         "model_id": "gemini-3.1-flash-lite-preview",
         "model_name": "Gemini 3.1 Flash-Lite",
         "organization_id": "google",
@@ -2112,9 +2098,23 @@
         "sigma": 1.18,
         "ci_lower": 31.33,
         "ci_upper": 36.04,
-        "rank": 151,
+        "rank": 150,
         "rank_delta_14d": -14,
         "games_played": 14
+      },
+      {
+        "model_id": "k2-horizon-32b",
+        "model_name": "K2 Horizon 32B",
+        "organization_id": "ifm",
+        "organization_name": "Institute of Foundation Models",
+        "conservative": 30.15,
+        "mu": 34.61,
+        "sigma": 1.49,
+        "ci_lower": 31.64,
+        "ci_upper": 37.59,
+        "rank": 151,
+        "rank_delta_14d": null,
+        "games_played": 9
       },
       {
         "model_id": "nova-2-pro",
@@ -3209,20 +3209,6 @@
         "games_played": 27
       },
       {
-        "model_id": "minimax-m1-80k",
-        "model_name": "MiniMax M1 80K",
-        "organization_id": "minimax",
-        "organization_name": "MiniMax",
-        "conservative": 20.65,
-        "mu": 23.99,
-        "sigma": 1.11,
-        "ci_lower": 21.77,
-        "ci_upper": 26.22,
-        "rank": 230,
-        "rank_delta_14d": -18,
-        "games_played": 16
-      },
-      {
         "model_id": "o3-mini",
         "model_name": "o3-mini",
         "organization_id": "openai",
@@ -3232,9 +3218,23 @@
         "sigma": 0.98,
         "ci_lower": 21.64,
         "ci_upper": 25.57,
-        "rank": 231,
+        "rank": 230,
         "rank_delta_14d": -20,
         "games_played": 25
+      },
+      {
+        "model_id": "minimax-m1-80k",
+        "model_name": "MiniMax M1 80K",
+        "organization_id": "minimax",
+        "organization_name": "MiniMax",
+        "conservative": 20.65,
+        "mu": 23.99,
+        "sigma": 1.11,
+        "ci_lower": 21.77,
+        "ci_upper": 26.22,
+        "rank": 231,
+        "rank_delta_14d": -18,
+        "games_played": 16
       },
       {
         "model_id": "qwen3-coder-480b-a35b-instruct",
@@ -5365,20 +5365,6 @@
         "games_played": 1
       },
       {
-        "model_id": "grok-1.5",
-        "model_name": "Grok-1.5",
-        "organization_id": "xai",
-        "organization_name": "xAI",
-        "conservative": -3.19,
-        "mu": 1.08,
-        "sigma": 1.42,
-        "ci_lower": -1.77,
-        "ci_upper": 3.92,
-        "rank": 384,
-        "rank_delta_14d": -19,
-        "games_played": 9
-      },
-      {
         "model_id": "llama-3.1-8b-instruct",
         "model_name": "Llama 3.1 8B Instruct",
         "organization_id": "meta",
@@ -5388,9 +5374,23 @@
         "sigma": 1.4,
         "ci_lower": -1.79,
         "ci_upper": 3.8,
-        "rank": 385,
+        "rank": 384,
         "rank_delta_14d": -22,
         "games_played": 16
+      },
+      {
+        "model_id": "grok-1.5",
+        "model_name": "Grok-1.5",
+        "organization_id": "xai",
+        "organization_name": "xAI",
+        "conservative": -3.19,
+        "mu": 1.08,
+        "sigma": 1.42,
+        "ci_lower": -1.77,
+        "ci_upper": 3.92,
+        "rank": 385,
+        "rank_delta_14d": -19,
+        "games_played": 9
       },
       {
         "model_id": "gpt-5.1-codex-mini",
