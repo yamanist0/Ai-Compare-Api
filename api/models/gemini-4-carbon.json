@@ -9,16 +9,23 @@
   "multimodal": true,
   "license": "proprietary",
   "is_open": false,
-  "input_modalities": [],
-  "output_modalities": [],
-  "input_price": null,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 100000.0,
   "output_price": null,
   "rank": 4,
-  "conservative": 57.48,
-  "mu": 62.58,
-  "sigma": 1.7,
-  "ci_lower": 59.18,
-  "ci_upper": 65.99,
+  "conservative": 57.22,
+  "mu": 62.29,
+  "sigma": 1.69,
+  "ci_lower": 58.91,
+  "ci_upper": 65.68,
   "games_played": 12,
-  "rank_delta_14d": null
+  "rank_delta_14d": -2
 }
