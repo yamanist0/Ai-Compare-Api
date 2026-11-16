@@ -745,20 +745,6 @@
         "games_played": 37
       },
       {
-        "model_id": "claude-opus-4-6",
-        "model_name": "Claude Opus 4.6",
-        "organization_id": "anthropic",
-        "organization_name": "Anthropic",
-        "conservative": 43.97,
-        "mu": 46.79,
-        "sigma": 0.94,
-        "ci_lower": 44.91,
-        "ci_upper": 48.67,
-        "rank": 54,
-        "rank_delta_14d": -4,
-        "games_played": 26
-      },
-      {
         "model_id": "mimo-v2.6-flash",
         "model_name": "MiMo-V2.6-Flash",
         "organization_id": "xiaomi",
@@ -768,9 +754,23 @@
         "sigma": 1.28,
         "ci_lower": 45.25,
         "ci_upper": 50.37,
-        "rank": 55,
+        "rank": 54,
         "rank_delta_14d": -8,
         "games_played": 14
+      },
+      {
+        "model_id": "claude-opus-4-6",
+        "model_name": "Claude Opus 4.6",
+        "organization_id": "anthropic",
+        "organization_name": "Anthropic",
+        "conservative": 43.97,
+        "mu": 46.79,
+        "sigma": 0.94,
+        "ci_lower": 44.91,
+        "ci_upper": 48.67,
+        "rank": 55,
+        "rank_delta_14d": -4,
+        "games_played": 26
       },
       {
         "model_id": "grok-4.6",
@@ -2943,20 +2943,6 @@
         "games_played": 16
       },
       {
-        "model_id": "command-a-plus-05-2026",
-        "model_name": "Command A+",
-        "organization_id": "cohere",
-        "organization_name": "Cohere",
-        "conservative": 23.41,
-        "mu": 27.53,
-        "sigma": 1.37,
-        "ci_lower": 24.78,
-        "ci_upper": 30.27,
-        "rank": 211,
-        "rank_delta_14d": -12,
-        "games_played": 10
-      },
-      {
         "model_id": "qwen3-235b-a22b-instruct-2507",
         "model_name": "Qwen3-235B-A22B-Instruct-2507",
         "organization_id": "qwen",
@@ -2966,9 +2952,23 @@
         "sigma": 0.93,
         "ci_lower": 24.34,
         "ci_upper": 28.06,
-        "rank": 212,
+        "rank": 211,
         "rank_delta_14d": -14,
         "games_played": 25
+      },
+      {
+        "model_id": "command-a-plus-05-2026",
+        "model_name": "Command A+",
+        "organization_id": "cohere",
+        "organization_name": "Cohere",
+        "conservative": 23.41,
+        "mu": 27.53,
+        "sigma": 1.37,
+        "ci_lower": 24.78,
+        "ci_upper": 30.27,
+        "rank": 212,
+        "rank_delta_14d": -12,
+        "games_played": 10
       },
       {
         "model_id": "claude-3-7-sonnet-20250219",
@@ -3251,20 +3251,6 @@
         "games_played": 27
       },
       {
-        "model_id": "o3-mini",
-        "model_name": "o3-mini",
-        "organization_id": "openai",
-        "organization_name": "OpenAI",
-        "conservative": 20.66,
-        "mu": 23.61,
-        "sigma": 0.98,
-        "ci_lower": 21.64,
-        "ci_upper": 25.57,
-        "rank": 233,
-        "rank_delta_14d": -13,
-        "games_played": 25
-      },
-      {
         "model_id": "minimax-m1-80k",
         "model_name": "MiniMax M1 80K",
         "organization_id": "minimax",
@@ -3274,9 +3260,23 @@
         "sigma": 1.11,
         "ci_lower": 21.77,
         "ci_upper": 26.22,
-        "rank": 234,
+        "rank": 233,
         "rank_delta_14d": -11,
         "games_played": 16
+      },
+      {
+        "model_id": "o3-mini",
+        "model_name": "o3-mini",
+        "organization_id": "openai",
+        "organization_name": "OpenAI",
+        "conservative": 20.66,
+        "mu": 23.61,
+        "sigma": 0.98,
+        "ci_lower": 21.64,
+        "ci_upper": 25.57,
+        "rank": 234,
+        "rank_delta_14d": -13,
+        "games_played": 25
       },
       {
         "model_id": "qwen3-coder-480b-a35b-instruct",
@@ -3461,20 +3461,6 @@
         "games_played": 2
       },
       {
-        "model_id": "sarvam-30b",
-        "model_name": "Sarvam-30B",
-        "organization_id": "sarvamai",
-        "organization_name": "Sarvam AI",
-        "conservative": 18.72,
-        "mu": 22.34,
-        "sigma": 1.2,
-        "ci_lower": 19.93,
-        "ci_upper": 24.75,
-        "rank": 248,
-        "rank_delta_14d": -13,
-        "games_played": 14
-      },
-      {
         "model_id": "qwen3.5-4b",
         "model_name": "Qwen3.5-4B",
         "organization_id": "qwen",
@@ -3484,9 +3470,23 @@
         "sigma": 0.98,
         "ci_lower": 19.7,
         "ci_upper": 23.64,
-        "rank": 249,
+        "rank": 248,
         "rank_delta_14d": -11,
         "games_played": 25
+      },
+      {
+        "model_id": "sarvam-30b",
+        "model_name": "Sarvam-30B",
+        "organization_id": "sarvamai",
+        "organization_name": "Sarvam AI",
+        "conservative": 18.72,
+        "mu": 22.34,
+        "sigma": 1.2,
+        "ci_lower": 19.93,
+        "ci_upper": 24.75,
+        "rank": 249,
+        "rank_delta_14d": -13,
+        "games_played": 14
       },
       {
         "model_id": "diffusiongemma-26b-a4b-it",
@@ -3993,20 +3993,6 @@
         "games_played": 37
       },
       {
-        "model_id": "qwen3-vl-8b-instruct",
-        "model_name": "Qwen3 VL 8B Instruct",
-        "organization_id": "qwen",
-        "organization_name": "Alibaba Cloud / Qwen Team",
-        "conservative": 13.2,
-        "mu": 15.42,
-        "sigma": 0.74,
-        "ci_lower": 13.94,
-        "ci_upper": 16.9,
-        "rank": 286,
-        "rank_delta_14d": -13,
-        "games_played": 46
-      },
-      {
         "model_id": "llama-3.3-70b-instruct",
         "model_name": "Llama 3.3 70B Instruct",
         "organization_id": "meta",
@@ -4016,9 +4002,23 @@
         "sigma": 1.54,
         "ci_lower": 14.74,
         "ci_upper": 20.91,
-        "rank": 287,
+        "rank": 286,
         "rank_delta_14d": -11,
         "games_played": 8
+      },
+      {
+        "model_id": "qwen3-vl-8b-instruct",
+        "model_name": "Qwen3 VL 8B Instruct",
+        "organization_id": "qwen",
+        "organization_name": "Alibaba Cloud / Qwen Team",
+        "conservative": 13.2,
+        "mu": 15.42,
+        "sigma": 0.74,
+        "ci_lower": 13.94,
+        "ci_upper": 16.9,
+        "rank": 287,
+        "rank_delta_14d": -13,
+        "games_played": 46
       },
       {
         "model_id": "gpt-4.1-mini-2025-04-14",
@@ -4945,20 +4945,6 @@
         "games_played": 15
       },
       {
-        "model_id": "gpt-4o-mini-2024-07-18",
-        "model_name": "GPT-4o mini",
-        "organization_id": "openai",
-        "organization_name": "OpenAI",
-        "conservative": 3.09,
-        "mu": 7.45,
-        "sigma": 1.46,
-        "ci_lower": 4.54,
-        "ci_upper": 10.36,
-        "rank": 354,
-        "rank_delta_14d": -12,
-        "games_played": 9
-      },
-      {
         "model_id": "ministral-3-14b-base-2512",
         "model_name": "Ministral 3 (14B Base 2512)",
         "organization_id": "mistral",
@@ -4968,9 +4954,23 @@
         "sigma": 1.92,
         "ci_lower": 5.01,
         "ci_upper": 12.71,
-        "rank": 355,
+        "rank": 354,
         "rank_delta_14d": -15,
         "games_played": 6
+      },
+      {
+        "model_id": "gpt-4o-mini-2024-07-18",
+        "model_name": "GPT-4o mini",
+        "organization_id": "openai",
+        "organization_name": "OpenAI",
+        "conservative": 3.09,
+        "mu": 7.45,
+        "sigma": 1.46,
+        "ci_lower": 4.54,
+        "ci_upper": 10.36,
+        "rank": 355,
+        "rank_delta_14d": -12,
+        "games_played": 9
       },
       {
         "model_id": "lfm-2.5-vl-3b",
