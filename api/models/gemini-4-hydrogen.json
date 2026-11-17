@@ -1,0 +1,31 @@
+{
+  "model_id": "gemini-4-hydrogen",
+  "name": "Gemini 4 Hydrogen",
+  "model_type": "llm",
+  "organization": "Google",
+  "organization_id": "google",
+  "announcement_date": "2026-11-12",
+  "release_date": "2026-11-12",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "audio",
+    "image",
+    "text",
+    "video"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 75000.0,
+  "output_price": null,
+  "rank": 29,
+  "conservative": 48.77,
+  "mu": 55.31,
+  "sigma": 2.18,
+  "ci_lower": 50.95,
+  "ci_upper": 59.67,
+  "games_played": 5,
+  "rank_delta_14d": null
+}
