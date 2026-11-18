@@ -1,0 +1,29 @@
+{
+  "model_id": "gpt-6.2-sol",
+  "name": "GPT-6.2 Sol",
+  "model_type": "llm",
+  "organization": "OpenAI",
+  "organization_id": "openai",
+  "announcement_date": "2026-11-17",
+  "release_date": "2026-11-17",
+  "multimodal": true,
+  "license": "proprietary",
+  "is_open": false,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 100000.0,
+  "output_price": null,
+  "rank": 8,
+  "conservative": 53.92,
+  "mu": 58.26,
+  "sigma": 1.45,
+  "ci_lower": 55.37,
+  "ci_upper": 61.15,
+  "games_played": 12,
+  "rank_delta_14d": null
+}
