@@ -1,0 +1,29 @@
+{
+  "model_id": "inkling-2-mini",
+  "name": "Inkling 2 Mini",
+  "model_type": "llm",
+  "organization": "Thinking Machines Lab",
+  "organization_id": "thinking-machines",
+  "announcement_date": "2026-11-20",
+  "release_date": "2026-11-20",
+  "multimodal": true,
+  "license": "apache_2_0",
+  "is_open": true,
+  "input_modalities": [
+    "image",
+    "text"
+  ],
+  "output_modalities": [
+    "text"
+  ],
+  "input_price": 15000.0,
+  "output_price": null,
+  "rank": 92,
+  "conservative": 39.36,
+  "mu": 42.31,
+  "sigma": 0.98,
+  "ci_lower": 40.34,
+  "ci_upper": 44.27,
+  "games_played": 28,
+  "rank_delta_14d": null
+}
