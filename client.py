@@ -57,7 +57,7 @@ class AICompareClient:
 
     # normalize names to lowercase
     def normalize_name(self, name):
-        print(f"normalize_name input: {name}")
+print(f"Normalizing: {name}")
         if not name:
             return ""
         return str(name).strip().lower()
